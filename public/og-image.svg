@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Icon -->
+  <rect x="510" y="100" width="56" height="56" rx="14" fill="#2383e2"/>
+  <text x="538" y="140" font-size="32" font-weight="700" fill="white" text-anchor="middle" font-family="system-ui, sans-serif">H</text>
+
+  <!-- Subtitle -->
+  <text x="580" y="135" font-size="20" fill="#7f8c8d" font-family="system-ui, sans-serif">Handong Global University</text>
+
+  <!-- Title KR -->
+  <text x="600" y="250" font-size="52" font-weight="800" fill="white" text-anchor="middle" font-family="system-ui, sans-serif" letter-spacing="-1">2026-1 새내기 수강신청 가이드</text>
+
+  <!-- Title EN -->
+  <text x="600" y="300" font-size="22" fill="#95a5a6" text-anchor="middle" font-family="system-ui, sans-serif">Freshman Course Registration Guide — Spring 2026</text>
+
+  <!-- Language badges -->
+  <g transform="translate(155, 370)">
+    <rect x="0" y="0" width="100" height="36" rx="8" fill="rgba(255,255,255,0.1)"/>
+    <text x="50" y="24" font-size="14" fill="#ecf0f1" text-anchor="middle" font-family="system-ui, sans-serif">한국어</text>
+
+    <rect x="115" y="0" width="100" height="36" rx="8" fill="rgba(255,255,255,0.1)"/>
+    <text x="165" y="24" font-size="14" fill="#ecf0f1" text-anchor="middle" font-family="system-ui, sans-serif">English</text>
+
+    <rect x="230" y="0" width="100" height="36" rx="8" fill="rgba(255,255,255,0.1)"/>
+    <text x="280" y="24" font-size="14" fill="#ecf0f1" text-anchor="middle" font-family="system-ui, sans-serif">日本語</text>
+
+    <rect x="345" y="0" width="100" height="36" rx="8" fill="rgba(255,255,255,0.1)"/>
+    <text x="395" y="24" font-size="14" fill="#ecf0f1" text-anchor="middle" font-family="system-ui, sans-serif">中文</text>
+
+    <rect x="460" y="0" width="110" height="36" rx="8" fill="rgba(255,255,255,0.1)"/>
+    <text x="515" y="24" font-size="14" fill="#ecf0f1" text-anchor="middle" font-family="system-ui, sans-serif">Indonesia</text>
+
+    <rect x="585" y="0" width="100" height="36" rx="8" fill="rgba(255,255,255,0.1)"/>
+    <text x="635" y="24" font-size="14" fill="#ecf0f1" text-anchor="middle" font-family="system-ui, sans-serif">Монгол</text>
+
+    <rect x="700" y="0" width="100" height="36" rx="8" fill="rgba(255,255,255,0.1)"/>
+    <text x="750" y="24" font-size="14" fill="#ecf0f1" text-anchor="middle" font-family="system-ui, sans-serif">Русский</text>
+  </g>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="620" width="1200" height="10" fill="#2383e2"/>
+</svg>
