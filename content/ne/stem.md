@@ -1,0 +1,369 @@
+# STEM नयाँ विद्यार्थी कोर्स गाइड
+
+> Engineering, Computer Science, AI, र Natural Sciences मा रुचि राख्ने नयाँ विद्यार्थीहरूको लागि कोर्स रणनीति
+> मुख्य गाइड: [[Spring 2026 Freshman Registration Guide]]
+
+---
+
+## 🎯 1. यो गाइड कसको लागि हो?
+
+यो गाइड निम्न मेजरहरू विचार गर्दै गरेका **2026 बैचका नयाँ विद्यार्थीहरू** को लागि लेखिएको हो:
+
+- **AI & Computer Engineering**: Software, Artificial Intelligence, Data Science, Cybersecurity
+- **Computer & Electronic Engineering**: Computer Engineering, Electronic Engineering, Embedded Systems
+- **Mechanical & Control Engineering**: Mechanical Engineering, Robotics, Control Systems
+- **Spatial Environment & Systems Engineering**: Construction, Environmental, Urban Engineering
+- **Life Sciences**: Biology, Biotechnology, Bioengineering
+
+"मेरो ठ्याक्कै मेजर निश्चित छैन, तर म STEM व्यक्ति हुँ भन्ने थाहा छ" भन्ने सोच्दै हुनुहुन्छ भने पनि — यो गाइड तपाईंको लागि हो। Handong मा, पहिलो वर्षमा मेजर घोषणा गरिँदैन। यसको मतलब मुख्य रणनीति भनेको **तपाईंले अन्ततः कुनै पनि STEM मेजर रोजे पनि काम लाग्ने आधारभूत कोर्सहरूले पहिलो वर्ष भर्नु** हो।
+
+### 💡 तपाईंको पहिलो-वर्षको आधार किन यत्रो महत्त्वपूर्ण छ
+
+STEM कोर्सहरू **भर्‍याङ** जस्तो बनेका हुन्छन्। Calculus बिना Differential Equations लिन सकिँदैन। Differential Equations बिना Control Engineering बुझ्न सकिँदैन। Linear Algebra नलिई Machine Learning लेक्चरमा matrix operations आउँदा बुझ्न सकिँदैन। Physics बिना Circuit Theory मा Kirchhoff's laws किन त्यो रूपमा छन् भनेर बुझ्न सकिँदैन।
+
+अर्को शब्दमा, यदि तपाईंले वर्ष 1 मा गणित र विज्ञान आधारहरू छोड्नुभयो भने, वर्ष 2 बाट तपाईंका मेजर कोर्सहरू **डोमिनो जस्तो खस्नेछन्**। STEM मा, "म पछि लिन्छु" भन्नु "म पछि दुःख पाउँछु" भन्नु जस्तै हो।
+
+### 🏷️ कोर्स कोड कसरी पढ्ने: यो नछोड्नुहोस्
+
+Handong कोर्स कोडमा लुकेको तर महत्त्वपूर्ण जानकारी हुन्छ। उदाहरणका लागि, `GCS10058` मा:
+
+- **GCS**: विभाग/क्षेत्र कोड (GCS = Global Creative Software)
+- **1**0058: अगाडिको अंकले **वर्ष स्तर** जनाउँछ
+
+यो किन महत्त्वपूर्ण? **1 बाट सुरु हुने कोर्सहरू पहिलो वर्षको लागि हुन्; 3 वा 4 बाट सुरु हुने कोर्सहरू वरिष्ठ विद्यार्थीहरूको लागि हुन्।** केही नयाँ विद्यार्थीहरू महत्वाकांक्षी भएर 3xxx वा 4xxx कोर्सहरू दर्ता गर्ने प्रयास गर्छन् — यो आधार बिना घर बनाउनु जस्तो हो। दर्ता प्रणालीले नरोके पनि, **पहिलो वर्षमा 1xxx कोर्सहरूमा अडिग रहनुहोस्।**
+
+त्यसैगरी, तपाईंको मेजर पुष्टि हुनुअघि उन्नत मेजर-विशिष्ट कोर्सहरू लिनु जोखिमपूर्ण छ। पहिले Calculus, Physics, Programming, र Linear Algebra जस्ता **सार्वभौमिक रूपमा लागू हुने कोर्सहरू** भर्नु धेरै बुद्धिमानी छ।
+
+---
+
+## 📚 2. वर्ष 1 मा लिनैपर्ने कोर्सहरू
+
+### 🔢 2.1 Calculus 1 — सबै STEM को सुरुवात बिन्दु
+
+Calculus लगभग हरेक क्षेत्रको **साझा भाषा** हो: इन्जिनियरिङ, भौतिक शास्त्र, कम्प्युटर विज्ञान, अर्थशास्त्र समेत। Differentiation ले "परिवर्तनको दर" सँग सम्बन्ध राख्छ, र integration ले "संचित मात्रा" सँग सम्बन्ध राख्छ — यी दुई अवधारणा बिना, कुनै पनि उन्नत STEM कोर्स पहुँचयोग्य छैन।
+
+Calculus लाई विदेशी भाषा सिक्ने **वर्णमाला** सम्झनुहोस्। वर्णमाला बिना शब्द पढ्न सकिँदैन, र शब्द बिना वाक्य बुझ्न सकिँदैन। हाई स्कुलमा गणित राम्रो वा नराम्रो जे भएको भए पनि — विश्वविद्यालय Calculus मूलभूत रूपमा फरक गहिराइको हो। तपाईंले epsilon-delta परिभाषाबाट सुरु गर्दै कठोर गणितीय सोचमा प्रशिक्षण पाउनुहुनेछ।
+
+**आदर्श रोडम्याप**: सेमेस्टर 1 Calculus 1 → सेमेस्टर 2 Calculus 2 → सेमेस्टर 3 Differential Equations। यो क्रम एक सेमेस्टर पनि ढिलो भयो भने, मेजर कोर्सहरूमा प्रवेश ढिलो हुन्छ।
+
+> **2026 Spring — Calculus 1 (GEK10095) Sections:**
+
+| Section | Professor | Time | English % | Notes |
+|---------|-----------|------|-----------|-------|
+| 01 | Lee Hanjin | Mon P4, Thu P4 | 0% | Korean instruction |
+| 02 | Lee Hanjin | Mon P6, Thu P6 | 0% | Korean instruction, later time slot |
+| **03** | **Kim Minjae** | **Mon P4, Thu P4** | **100%** | **English instruction** |
+| **04** | **Cho Janghwan** | **Mon P1, Thu P1** | **100%** | **English instruction, Period 1** |
+
+*Period system: P1 = 9:00–10:00, P2 = 10:00–11:00, P3 = 11:00–12:00, P4 = 12:00–13:00, P5 = 13:00–14:00, P6 = 14:00–15:00, P7 = 15:00–16:00*
+
+**सेक्सन कसरी छान्ने:**
+
+- **यदि तपाईं कोरियालीमा सहज हुनुहुन्छ भने**: Section 01 (Lee Hanjin, Mon P4 / Thu P4) वा Section 02 (Lee Hanjin, Mon P6 / Thu P6)। उही प्राध्यापक, समय स्लट मात्र फरक।
+- **यदि तपाईंलाई अंग्रेजी निर्देशन चाहिन्छ भने**: **Section 03 (Kim Minjae) वा Section 04 (Cho Janghwan)**। तर, Section 04 **Period 1 (9:00 AM)** मा छ। तपाईंले अझै समायोजन गर्दै गरेको पहिलो सेमेस्टरमा, विकल्प भएमा Period 1 बेवास्ता गर्नु बुद्धिमानी हो। अवश्य पनि, यदि यो अनिवार्य कोर्सको एकमात्र विकल्प हो भने लिनुहोस् — तर विकल्प हुँदा Period 2 वा पछि तालिका बनाउनुहोस्।
+
+> **⚠️ "अंग्रेजी लेक्चर" जोखिम**: एउही प्राध्यापकको लागि पनि, फरक सेक्सनहरू फरक भाषामा पढाइन सक्छ। प्रत्येक सेक्सनको लेक्चर भाषा सधैं प्रमाणित गर्नुहोस्। यदि तपाईंको कोरियाली पर्याप्त बलियो छैन र कोरियाली सेक्सनमा पुग्नुभयो भने, तपाईंले गणित र भाषा दुवै अवरोधसँग एकैसाथ लड्नुपर्नेछ। उल्टो पनि त्यस्तै लागू हुन्छ — दर्ता गर्नुअघि जाँच गर्नुहोस्।
+
+### 🔢 2.2 Calculus 2 — सक्नुहुन्छ भने सेमेस्टर 1 मा नै लिनुहोस्
+
+सामान्यतया Calculus 2 सेमेस्टर 2 मा लिइन्छ, तर यदि तपाईंसँग हाई स्कुलबाट बलियो calculus आधार छ भने, सेमेस्टर 1 मा Calculus 1 र 2 एकैसाथ लिन सम्भव छ। यसले तपाईंलाई सेमेस्टर 2 मा नै Differential Equations लिन अनुमति दिन्छ, मेजर कोर्सहरूमा प्रवेश पूरै एक सेमेस्टरले तीव्र बनाउँदै।
+
+तर, यो **तपाईंको गणित सीपमा साँच्चै विश्वस्त हुनुहुन्छ भने मात्र सिफारिस गरिन्छ**। एउटा कोर्स ठोस रूपमा सिद्ध्याउनु दुवैमा अति-विस्तार गरेर दुवै गुमाउनुभन्दा राम्रो हो।
+
+> **2026 Spring — Calculus 2 (GEK10096) Sections:**
+
+| Section | Professor | Time | English % | Notes |
+|---------|-----------|------|-----------|-------|
+| **01** | **Lee Hanjin** | **Mon P2, Thu P2** | **100%** | **English instruction** |
+| 02 | Kim Taehee | Mon P1, Thu P1 | 0% | Period 1 |
+| 03 | Kim Taehee | Mon P2, Thu P2 | 0% | Korean instruction |
+
+### ⚛️ 2.3 Physics — इन्जिनियरहरूको भाषा
+
+यदि तपाईं इन्जिनियरिङ ट्र्याक (Computer & Electronic, Mechanical & Control, Spatial Environment) तर्फ जाँदै हुनुहुन्छ भने, Physics **ऐच्छिक होइन — अनिवार्य हो**। Physics 1 ले mechanics र thermodynamics समेट्छ, तपाईंलाई बल, ऊर्जा, र संवेग गणितीय कठोरतासँग सम्हाल्न सिकाउँछ। यो सेमेस्टर 2 मा Physics 2 (electromagnetism) मा जान्छ, जुन Electronic Engineering को प्रत्यक्ष आधार हो।
+
+Physics लाई **प्रकृतिको प्रोग्रामिङ भाषा** सम्झनुहोस्। इन्जिनियरको रूपमा कुनै पनि कुरा डिजाइन गर्न, प्रकृतिका नियमहरू बुझ्नुपर्छ — र ती नियमहरू Physics हुन्।
+
+> **2026 Spring — Physics 1 (GEK10055):**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Cho Hyunji | Mon P2, Thu P2 | 0% |
+| 02 | Cho Hyunji | Mon P3, Thu P3 | 0% |
+
+**Physics 1 vs. Introduction to Physics**: यदि तपाईं Computer Science वा AI विचार गर्दै हुनुहुन्छ भने, "Introduction to Physics" (물리학 개론) प्रतिस्थापन गर्न सक्नुहुन्छ। यसले Physics 1 भन्दा फराकिलो दायरा तर उथलो गहिराइमा समेट्छ — इन्जिनियरिङ अन्तर्ज्ञान बनाउन पर्याप्त। तर, यदि तपाईं गम्भीर रूपमा Electronic Engineering वा Mechanical Engineering विचार गर्दै हुनुहुन्छ, जहाँ physics मेजरसँग गहिरो रूपमा जोडिएको छ, **बिना प्रश्न Physics 1 लिनुहोस्।**
+
+> **Introduction to Physics (GEK10090) — Physics 1 को विकल्प:**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Cho Hyunji | Tue P2, Fri P2 | 0% |
+| 02 | Cho Hyunji | Tue P3, Fri P3 | 0% |
+
+### 📊 2.4 Linear Algebra — AI युगको लागि आवश्यक गणित
+
+Linear Algebra Calculus सँगै STEM गणितका **दुई ठूला स्तम्भ** मध्ये एक हो। यसले vectors, matrices, eigenvalues, र linear transformations समेट्छ — र यो AI र machine learning को **गणितीय हृदय** हो।
+
+किन? Machine learning मा, डाटा matrices को रूपमा प्रतिनिधित्व गरिन्छ, र मोडल तालिम matrix operations मार्फत सम्पन्न हुन्छ। Deep learning मा backpropagation समेत अन्ततः matrix differentiation हो। Linear Algebra बिना, AI कोर्सहरूमा कुराहरू *किन* काम गर्छन् भनेर बुझ्न सकिँदैन — तपाईं बुझाइ बिना कोड मात्र नक्कल गर्दै हुनुहुनेछ।
+
+म यसलाई सेमेस्टर 1 मा Calculus 1 सँगै लिन जोरदार सिफारिस गर्छु। यो माग्ने हुनेछ, तर दुवै पहिलो सेमेस्टरमा सिद्ध्याउनाले सेमेस्टर 2 देखि तपाईंका विकल्पहरू **विस्फोटक रूपमा विस्तार** गर्नेछ।
+
+> **2026 Spring — Linear Algebra (GEK10082):**
+
+| Section | Professor | Time | English % | Notes |
+|---------|-----------|------|-----------|-------|
+| **01** | **Cho Janghwan** | **Mon P3, Thu P3** | **100%** | **English instruction** |
+| **02** | **Cho Janghwan** | **Mon P5, Thu P5** | **100%** | **English instruction** |
+| 03 | Kim Hyunsu | Tue P2, Fri P2 | 0% | Korean instruction |
+| 04 | Kim Hyunsu | Tue P3, Fri P3 | 0% | Korean instruction |
+
+### 💻 2.5 ICT Programming — कोडिङमा तपाईंको पहिलो कदम
+
+Handong मा, सबै विद्यार्थीहरूले **7 credits ICT Convergence Fundamentals** पूरा गर्नुपर्छ: 5 credits programming + 2 credits applied ICT। STEM विद्यार्थीहरूको लागि, programming केवल liberal arts आवश्यकता होइन — यो **तपाईंको मेजरको उपकरण** हो।
+
+**किन वर्ष 1 मा programming सिद्ध्याउनुपर्छ**: वर्ष 2 देखि, तपाईंको मेजर कोर्सहरूबाट programming assignments आउन थाल्छन्। यदि तपाईं त्यस बेला अझै आधारभूत programming कोर्स लिँदै हुनुहुन्छ भने, समयको बर्बादी गम्भीर हुन्छ। आदर्श रूपमा, सेमेस्टर 1 मा 3-credit programming कोर्स (Python/C) लिनुहोस्, र बाँकी सेमेस्टर 2 मा पूरा गर्नुहोस्।
+
+> **💡 OIA (Office of International Admissions) सुरक्षित सिटहरू**: Programming कोर्सहरूमा कहिलेकाहीं **OIA ले आगमन हुने अन्तर्राष्ट्रिय विद्यार्थीहरूको लागि विशेष सुरक्षित सिटहरू** राख्छ। यदि तपाईं अन्तर्राष्ट्रिय विद्यार्थी हुनुहुन्छ भने, यसको फाइदा अवश्य लिनुहोस् — यसले लोकप्रिय सेक्सनमा प्रवेश गर्ने सम्भावना उल्लेखनीय रूपमा बढाउँछ।
+
+#### 🌳 आफ्नो बाटो छनोट: कहाँबाट सुरु गर्ने
+
+```mermaid
+flowchart TD
+    A[Do you have programming experience?] -->|None| B[Intro to Software - 2 credits]
+    A -->|Some| C{Which major track?}
+    A -->|A lot| D[Go straight to C or Python]
+    C -->|Computer/Electronic Eng.| E[C Programming - 3 credits]
+    C -->|AI/Data Science| F[Python Programming - 3 credits]
+    C -->|Not sure yet| F
+    B --> G[Take 3-credit course in Semester 2]
+```
+
+#### 💡 C vs. Python: कुन पहिले?
+
+यदि तपाईं Computer Engineering वा Electronic Engineering विचार गर्दै हुनुहुन्छ भने, **C अत्यधिक फाइदाजनक हो**। C operating systems, embedded systems, र hardware control को आधार हो — low-level programming आवश्यकताहरू। यदि तपाईंले C पहिले सिक्नुभयो भने, Python लगभग एक हप्तामा सिक्न सक्नुहुन्छ। उल्टो, यदि तपाईंलाई Python मात्र थाहा छ भने, C सिक्दा memory management र pointers मा ठूलो भित्ता ठोक्नुहुनेछ।
+
+यदि AI वा Data Science तपाईंको ट्र्याक हो भने, Python बाट सुरु गर्नु पूर्णतया ठीक छ। यो व्यवहारमा सबैभन्दा व्यापक रूपमा प्रयोग हुने भाषा हो, र कम प्रवेश अवरोधले तपाईंलाई पहिले programming को आनन्द अनुभव गर्न दिन्छ।
+
+> **Intro to Software (GCS10001) — 2 credits, पूर्ण शुरुवातकर्ताहरूको लागि:**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Kim Heonju | Mon P1, Thu P1 | 0% |
+| 02 | Lee Sanghun | Mon P5, Thu P5 | 0% |
+| 03 | Lee Sanghun | Mon P6, Thu P6 | 0% |
+| 04 | Kim Hyunsuk | Tue P2, Fri P2 | 0% |
+| 05 | Kim Hyunsuk | Tue P4, Fri P4 | 0% |
+| 06 | Kim Hyunsuk | Tue P6, Fri P6 | 0% |
+
+> **C Programming (GCS10058) — 3 credits, Computer/Electronic Eng. ट्र्याकको लागि:**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Kim Kwang | Tue P2, Fri P2 | 0% |
+
+⚠️ C Programming मा **केवल 1 सेक्सन** छ। प्रतिस्पर्धा तीव्र हुन सक्छ, त्यसैले कोर्स दर्तामा चाँडो दर्ता गर्नुहोस्।
+
+> **Python Programming (GCS10004) — 3 credits, AI/Data Science ट्र्याकको लागि:**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Kim Kyungmi | Mon P2, Thu P2 | 0% |
+| 02 | Kim Kyungmi | Tue P2, Fri P2 | 0% |
+| 03 | Kim Kyungmi | Tue P3, Fri P3 | 0% |
+| 04 | Park Jihyun | Mon P3, Thu P3 | 0% |
+| **05** | **Park Jihyun** | **Mon P5, Thu P5** | **100%** |
+| 06 | Yong Hwangi | Tue P3, Fri P3 | 0% |
+
+> **Intro to Frontend (GCS10081) — 3 credits, वेब विकासमा रुचि राख्नेहरूको लागि:**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Kim Guno | Mon P2, Thu P2 | 0% |
+| 02 | Kim Guno | Mon P3, Thu P3 | 0% |
+| 03 | Park Jihyun | Tue P5, Fri P5 | 0% |
+| **04** | **Park Jihyun** | **Tue P6, Fri P6** | **100%** |
+| 05 | Yang Jihye | Mon P3, Thu P3 | 0% |
+| 06 | Yang Jihye | Mon P4, Thu P4 | 0% |
+
+Intro to Frontend ले वेब विकासको आधारभूत कुराहरू — HTML, CSS, JavaScript समेट्छ। यो तपाईंको 2-credit ICT applied आवश्यकतामा गन्न सकिन्छ, वा यसलाई 3-credit programming कोर्सको रूपमा मान्यता दिन सकिन्छ। वेब विकासमा रुचि छ भने विचार गर्न लायक छ।
+
+### 🧪 2.6 General Chemistry — Life Sciences/Chemistry ट्र्याकको लागि आवश्यक
+
+यदि तपाईं Life Sciences वा chemistry-सम्बन्धित मेजरहरू विचार गर्दै हुनुहुन्छ भने, General Chemistry आवश्यक छ। यसले atomic structure, chemical bonding, reaction kinetics, र अन्य chemistry आधारभूत कुराहरू समेट्छ, र Biochemistry र Organic Chemistry को पूर्वशर्तको रूपमा काम गर्छ।
+
+> **2026 Spring — General Chemistry (GEK10058):**
+
+| Section | Professor | Time | English % | Notes |
+|---------|-----------|------|-----------|-------|
+| 01 | Kim Minkyung | Thu P3, P4 (consecutive) | 0% | 2 consecutive hours on Thursday |
+| **02** | **Yu Taejun** | **Mon P2, Thu P2** | **100%** | **English instruction** |
+
+### 🧬 2.7 General Biology — इमानदार सल्लाह चाहिने कोर्स
+
+General Biology Life Sciences मा प्रवेशको लागि आवश्यक छ, तर एउटा **इमानदार यथार्थता** तपाईंले सुन्नु पर्छ।
+
+**⚠️ General Biology प्रतिस्पर्धा अत्यन्त तीव्र छ।** सेक्सनहरू कम छन्, र कोर्स दोहोर्याउने विद्यार्थी र वरिष्ठ विद्यार्थीहरूले प्रायः सिट पहिले भर्छन्, जसले गर्दा **नयाँ विद्यार्थीहरूको लागि सेमेस्टर 1 मा दर्ता गर्न अत्यन्त कठिन हुन्छ।** "मैले सेमेस्टर 1 मा नै लिनैपर्छ" भनी जिद्दी भएर अन्य महत्त्वपूर्ण कोर्सहरूको दर्ता सञ्झ्याल गुमाउनुभन्दा, **धेरै बुद्धिमानी रणनीति** भनेको लचिलो हुनु हो: सिट खुल्यो भने लिनुहोस्, र नखुल्दा सेमेस्टर 2 मा सार्नुहोस्।
+
+सेमेस्टर 1 मा, Calculus, Linear Algebra, र Programming — **जुन कोर्सहरू जे भए पनि उपयोगी छन्** — मा सिट सुरक्षित गर्नुहोस्, General Biology मा सबैकुरा दाउमा राख्नुभन्दा। यो सेमेस्टर 2 मा पनि प्रस्तावित हुन्छ।
+
+> **2026 Spring — General Biology (GEK10057):**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Hyun Changgi et al. | Mon P5, Thu P5 | 0% |
+| **02** | **Holzapfel Wilhelm et al.** | **Mon P2, Thu P2** | **100%** |
+| 03 | Hyun Changgi et al. | Mon P6, Thu P6 | 0% |
+
+### 🤖 2.8 Introduction to AI, Computer & Electronic Engineering — मेजरको स्वाद
+
+यदि तपाईं AI & Computer Engineering वा Computer & Electronic Engineering विभागमा रुचि राख्नुहुन्छ भने, यो परिचयात्मक कोर्सले तपाईंलाई क्षेत्रको ठूलो तस्वीर दिन्छ। "यो क्षेत्र मेरो लागि ठीक हो कि होइन" भनेर पूर्ण मेजर कोर्सहरूमा प्रतिबद्ध हुनुअघि पत्ता लगाउने राम्रो तरिका हो।
+
+> **2026 Spring — Intro to AI, Computer & Electronic Eng. (ECE10006):**
+
+| Section | Professor | Time | English % | Notes |
+|---------|-----------|------|-----------|-------|
+| 01 | Hwang Sungsu et al. | Mon P6, P7 (consecutive) | 0% | Monday late time slot |
+
+### 📐 2.9 Differential Equations and Applications — यदि तपाईंको गणित बलियो छ भने
+
+यदि तपाईंले पहिले नै Calculus 1 & 2 पूरा गर्नुभएको छ, वा हाई स्कुलमा AP Calculus BC सिद्ध्याउनुभएको छ भने, सेमेस्टर 1 मा Differential Equations लिन सम्भव छ। तर, यो **तपाईंको गणित आधार साँच्चै ठोस भएमा मात्र सिफारिस गरिन्छ।**
+
+> **2026 Spring — Differential Equations and Applications (GEK10053):**
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Kim Taehee | Mon P3, Thu P3 | 0% |
+
+---
+
+## 🗓️ 3. सिफारिस गरिएका तालिकाहरू
+
+तल वास्तविक 2026 Spring कोर्स प्रस्तावहरूबाट बनाइएका **नमूना तालिकाहरू** छन्। यी सन्दर्भ उदाहरणहरू मात्र हुन् — तपाईंको EPT (English Placement Test) परिणाम, रुचिका क्षेत्र, र सहनशक्ति अनुसार समायोजन गर्नुहोस्।
+
+**मुख्य सिद्धान्त: बढी कोर्स दर्ता गरेर केही हटाउनु कम दर्ता गरेर पछुताउनुभन्दा राम्रो हो।** उदारतापूर्वक दर्ता गर्नुहोस्, पहिलो हप्ता कक्षामा उपस्थित हुनुहोस्, र सम्हाल्न नसक्ने हटाउनुहोस्। उल्टो — add/drop अवधिमा लोकप्रिय कोर्सहरू थप्ने प्रयास — लगभग असम्भव छ किनभने खुला सिटहरू दुर्लभ छन्।
+
+### 📋 Schedule A: Computer Science / AI Track
+
+**रणनीति**: Calculus + Linear Algebra + Python ले गणित र कोडिङ आधार एकैसाथ बनाउने
+
+```
+Period │  Mon              │  Tue              │  Wed     │  Thu              │  Fri
+──────┼───────────────────┼───────────────────┼──────────┼───────────────────┼───────────────────
+  1   │                   │                   │          │                   │
+  2   │                   │ Python(Sec.02)    │          │                   │ Python(Sec.02)
+  3   │ Linear Alg(Sec.01)│                   │          │ Linear Alg(Sec.01)│
+  4   │ Calc 1(Sec.01)    │                   │  Chapel  │ Calc 1(Sec.01)    │
+  5   │                   │                   │  Chapel  │                   │
+  6   │                   │                   │  Chapel  │                   │
+```
+
+| Course | Code | Credits | Professor | Notes |
+|--------|------|---------|-----------|-------|
+| Calculus 1 (Sec. 01) | GEK10095 | 3 | Lee Hanjin | Korean |
+| Linear Algebra (Sec. 01) | GEK10082 | 3 | Cho Janghwan | **English 100%** |
+| Python Programming (Sec. 02) | GCS10004 | 3 | Kim Kyungmi | Korean |
+| Understanding the Bible | GEK20058 | 2 | Choose section | |
+| Handong Character Education | GEK10015 | 1 | Choose section | |
+| Chapel 1 | GEK10001 | 0 | Wed P4,5,6 | |
+| Community Leadership Training 1 | GEK10008 | 0.5 | Separate schedule | |
+| Social Service 1 | GEK10046 | 1 | Separate | |
+| + English (per EPT result) | - | 3 | TBD | Likely placed on Tue/Fri |
+| **Total** | | **16.5 + English 3** | | |
+
+> **किन यो संयोजन?** Calculus र Linear Algebra एकैसाथ लिँदा गणितीय तालमेल सिर्जना हुन्छ। Vector र matrix अवधारणाहरू Calculus मा multivariable functions सँग प्रत्यक्ष जोडिन्छन्। Python लाई Tue/Fri मा राखिएको छ ताकि हप्ता सन्तुलित होस्: Mon/Thu गणितको लागि, Tue/Fri कोडिङ + English को लागि। यो लय बसेपछि, अध्ययन बानी बनाउनु धेरै सजिलो हुन्छ।
+
+### 📋 Schedule B: Electronic / Mechanical Engineering Track
+
+**रणनीति**: Calculus + Physics + C Programming ले ठोस इन्जिनियरिङ आधार बनाउने
+
+```
+Period │  Mon              │  Tue              │  Wed     │  Thu              │  Fri
+──────┼───────────────────┼───────────────────┼──────────┼───────────────────┼───────────────────
+  1   │                   │                   │          │                   │
+  2   │ Physics 1(Sec.01) │ C Prog.(Sec.01)   │          │ Physics 1(Sec.01) │ C Prog.(Sec.01)
+  3   │                   │                   │          │                   │
+  4   │ Calc 1(Sec.01)    │                   │  Chapel  │ Calc 1(Sec.01)    │
+  5   │                   │                   │  Chapel  │                   │
+  6   │                   │                   │  Chapel  │                   │
+```
+
+| Course | Code | Credits | Professor | Notes |
+|--------|------|---------|-----------|-------|
+| Calculus 1 (Sec. 01) | GEK10095 | 3 | Lee Hanjin | Korean |
+| Physics 1 (Sec. 01) | GEK10055 | 3 | Cho Hyunji | Korean |
+| C Programming (Sec. 01) | GCS10058 | 3 | Kim Kwang | Korean, only section available |
+| Understanding the Bible | GEK20058 | 2 | Choose section | |
+| Handong Character Education | GEK10015 | 1 | Choose section | |
+| Chapel 1 | GEK10001 | 0 | Wed P4,5,6 | |
+| Community Leadership Training 1 | GEK10008 | 0.5 | Separate schedule | |
+| Social Service 1 | GEK10046 | 1 | Separate | |
+| + English (per EPT result) | - | 3 | TBD | Likely placed on Tue/Fri |
+| **Total** | | **16.5 + English 3** | | |
+
+> **किन यो संयोजन?** Electronic र Mechanical Engineering physics आधारमा बनेका छन्। Calculus + Physics एकैसाथ लिनु भनेको Calculus मा सिकेका differentiation अवधारणाहरू Physics मा velocity र acceleration समस्याहरूमा तुरुन्तै प्रयोग हुन्छन् — एक शक्तिशाली **पारस्परिक सुदृढीकरण प्रभाव**। C Programming embedded systems र hardware control को आधार हो, जसले Electronic/Mechanical Engineering अभिलाषीहरूको लागि आदर्श विकल्प बनाउँछ।
+
+---
+
+## ⚠️ 4. STEM विद्यार्थीहरूले गर्ने सामान्य गल्तीहरू
+
+### ❌ गल्ती 1: "म गणित पछि लिन्छु"
+
+यो **सबैभन्दा घातक गल्ती** हो। STEM मा कोर्स संरचना डोमिनो जस्तो बुझ्नु राम्रो हुन्छ:
+
+```mermaid
+flowchart LR
+    A[Calculus 1] --> B[Calculus 2]
+    B --> C[Differential Equations]
+    C --> D[Control Eng. / Signal Processing / Thermodynamics...]
+    A --> E[Physics 1]
+    E --> F[Physics 2]
+    F --> G[Circuits / Mechanics...]
+```
+
+Calculus 1 सेमेस्टर 2 मा सार्नुहोस् → Calculus 2 सेमेस्टर 3 मा सर्छ → Differential Equations सेमेस्टर 4 मा → मुख्य मेजर कोर्सहरू सेमेस्टर 5 बाट मात्र पहुँचयोग्य। यसले तपाईंको स्नातक पूरै एक वर्षले ढिलो गर्न सक्छ। **गणित सेमेस्टर 1 मा सुरु गर्नुहोस्, कुनै अपवाद छैन।**
+
+### ❌ गल्ती 2: "मैले कहिल्यै कोड गरेको छैन, त्यसैले म Intro to Software मात्र लिन्छु"
+
+Intro to Software 2-credit नमूना कोर्स हो। यदि तपाईं गम्भीर रूपमा Computer Science वा AI विचार गर्दै हुनुहुन्छ भने, यो छोडेर सिधै Python वा C लिनुहोस्। हो, यो कठिन हुनेछ — तर कठिनाइबाट बच्नु भनेको विकासबाट बच्नु हो। यदि तपाईं सेमेस्टर 1 मा Intro to Software र सेमेस्टर 2 मा Python लिनुहुन्छ भने, तपाईंले पूरै एक वर्ष programming आधारमा मात्र बिताउनुभयो।
+
+### ❌ गल्ती 3: General Biology मा सबैकुरा लगाउनु
+
+माथि उल्लेख गरिए अनुसार, General Biology **सेमेस्टर 1 मा नयाँ विद्यार्थीहरूको लागि दर्ता गर्न अत्यन्त कठिन** छ किनभने कोर्स दोहोर्याउने विद्यार्थी र वरिष्ठ विद्यार्थीहरूले सिट पहिले दाबी गर्छन्। हरेक सेमेस्टर, General Biology मा मात्र केन्द्रित हुने विद्यार्थीहरूले Calculus वा Programming जस्ता महत्त्वपूर्ण कोर्सहरूको दर्ता सञ्झ्याल गुमाउँछन्। लचिलो रहनुहोस्।
+
+### ❌ गल्ती 4: मेजर निर्णय हुनुअघि उन्नत मेजर कोर्सहरू लिनु
+
+"मलाई AI मा रुचि छ, त्यसैले Machine Learning लिउँ" — यो सोच खतरनाक छ। उन्नत मेजर कोर्सहरू (3xxx, 4xxx codes) **आधारभूत कुरा बनाइसकेपछि मात्र** अर्थपूर्ण हुन्छन्। यदि तपाईंले Linear Algebra बिना Machine Learning लिनुभयो भने, आधा लेक्चर बुझ्नुहुनेछैन।
+
+वर्ष 1 मा, **कुनै पनि मेजरमा लागू हुने आधारभूत कोर्सहरू** (Calculus, Physics, Linear Algebra, Programming) मा ध्यान दिनुहोस्। वर्ष 2 बाट मेजर-विशिष्ट कोर्सहरू सुरु गर्नु पूर्णतया समयमा छ।
+
+### ❌ गल्ती 5: लेक्चर भाषा जाँच नगर्नु
+
+एउही कोर्स र उही प्राध्यापकको लागि पनि, **सेक्सन अनुसार लेक्चर भाषा भिन्न हुन सक्छ।** उदाहरणका लागि, Professor Cho Janghwan को Calculus 1 100% English हो, जबकि Professor Lee Hanjin का सेक्सनहरू कोरियालीमा छन्। दर्ता गर्नुअघि प्रत्येक सेक्सनको लेक्चर भाषा सधैं जाँच गर्नुहोस्। तपाईंको कोरियाली बलियो छैन र कोरियाली सेक्सनमा पुग्नुभयो भने, तपाईंले विषय र भाषा दुवैसँग एकैसाथ लड्नुपर्नेछ — दोहोरो बोझ।
+
+### ❌ गल्ती 6: धेरै कम क्रेडिट दर्ता गर्नु
+
+"गाह्रो हुन्छ कि भनेर चिन्ता छ, त्यसैले 15 क्रेडिट मात्र दर्ता गर्छु" — यो रणनीतिले वास्तवमा हानि पुर्‍याउँछ। **बढी दर्ता गरेर हटाउनु कम दर्ता गरेर थप्ने प्रयास गर्नुभन्दा धेरै सजिलो हो।** Add/drop अवधिमा लोकप्रिय कोर्समा खुला सिट पाउनु व्यावहारिक रूपमा चमत्कार हो। 18-20 क्रेडिटबाट सुरु गर्नुहोस्, पहिलो हप्ता कक्षामा उपस्थित हुनुहोस्, र सम्हाल्न नसक्ने हटाउनुहोस्। त्यो नै बुद्धिमानी दृष्टिकोण हो।
+
+---
+
+## 🔭 5. सेमेस्टर 2 तर्फ हेर्दा
+
+यदि तपाईंले सेमेस्टर 1 मा माथिका कोर्सहरू सफलतापूर्वक पूरा गर्नुभयो भने, सेमेस्टर 2 मा विचार गर्नुपर्ने कुराहरू यस्ता छन्:
+
+| Course | Target | Why It Matters |
+|--------|--------|----------------|
+| **Calculus 2** | All STEM | Calculus 1 को निरन्तरता। Series, multivariable calculus समेट्छ, र Differential Equations को पूर्वशर्त हो |
+| **Physics 2** | Electronic/Mechanical tracks | Electromagnetism समेट्छ — Electronic Engineering को प्रत्यक्ष आधार |
+| **Data Structures** | Computer Science/AI tracks | Arrays, lists, trees, graphs — मुख्य programming अवधारणाहरू र चिरस्थायी coding interview मनपर्ने |
+| **General Chemistry** | Life Sciences/Chemistry | सेमेस्टर 1 मा लिन नसकेमा, सेमेस्टर 2 मा अनिवार्य |
+| **General Biology** | Life Sciences | सेमेस्टर 1 मा सिट पाउन नसकेमा, सेमेस्टर 2 मा फेरि प्रयास |
+| **Differential Equations** | Calc 1 & 2 completers | Engineering मेजरहरूको लागि मुख्य गणितीय उपकरण |
+
+सेमेस्टर 2 को कुञ्जी भनेको **सेमेस्टर 1 मा बनाएको आधारमाथि एक तह थप्नु** हो। Calculus 1 राम्रोसँग पूरा गर्नुभयो भने, स्वाभाविक रूपमा Calculus 2 मा जानुहुन्छ। Programming आधार सिद्ध्याउनुभयो भने, Data Structures मा अघि बढ्नुहुन्छ। यो प्रवाह कायम राख्नुले नै तपाईंको विश्वविद्यालय चार वर्षको सम्पूर्ण दिशा निर्धारण गर्छ।
+
+---
+
+*यो गाइड [[Spring 2026 Freshman Registration Guide]] को STEM विस्तृत कागजात हो।*
+*कोरियाली संस्करणको लागि, [[이공계 신입생 가이드]] हेर्नुहोस्।*
+*यो पनि हेर्नुहोस्: [[Registration Schedule]]*
+*अन्तिम अपडेट: 2026-02-21*
