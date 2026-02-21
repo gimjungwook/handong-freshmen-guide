@@ -9,11 +9,10 @@
 
 यो गाइड निम्न major हरू विचार गर्दै गरेका **2026 बैचका नयाँ विद्यार्थीहरू** को लागि लेखिएको हो:
 
-- **AI & Computer Engineering**: Software, Artificial Intelligence, Data Science, Cybersecurity
-- **Computer & Electronic Engineering**: Computer Engineering, Electronic Engineering, Embedded Systems
-- **Mechanical & Control Engineering**: Mechanical Engineering, Robotics, Control Systems
-- **Spatial Environment & Systems Engineering**: Construction, Environmental, Urban Engineering
-- **Life Sciences**: Biology, Biotechnology, Bioengineering
+- **AI Computer & Electronic Engineering विभाग (CSEE)**: Computer Engineering, Electronic Engineering, AI, Software, Embedded Systems
+- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering, Energy Engineering
+- **Spatial Environment & Systems Engineering**: Construction Engineering, Urban & Environmental Engineering
+- **Life Sciences**: Life Science, Food Science
 
 "मेरो ठ्याक्कै major निश्चित छैन, तर म STEM व्यक्ति हुँ भन्ने थाहा छ" भन्ने सोच्दै छौ भने पनि — यो गाइड तिम्रो लागि हो। अलिकति लामो छ, तर एकचोटि राम्रोसँग पढ — पक्कै काम लाग्छ! Handong मा, पहिलो वर्षमा major घोषणा गरिँदैन। यसको मतलब मुख्य रणनीति भनेको **तिमीले अन्ततः कुनै पनि STEM major रोजे पनि काम लाग्ने आधारभूत कोर्सहरूले पहिलो वर्ष भर्नु** हो।
 
@@ -174,7 +173,7 @@ flowchart TD
 | **05** | **Park Jihyun** | **Mon P5, Thu P5** | **100%** |
 | 06 | Yong Hwangi | Tue P3, Fri P3 | 0% |
 
-> **Intro to Frontend (GCS10081) — 3 credits, Web Development मा रुचि राख्नेहरूको लागि:**
+> **Intro to Frontend (GCS10081) — 2 credits, Web Development मा रुचि राख्नेहरूको लागि:**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -185,7 +184,7 @@ flowchart TD
 | 05 | Yang Jihye | Mon P3, Thu P3 | 0% |
 | 06 | Yang Jihye | Mon P4, Thu P4 | 0% |
 
-Intro to Frontend ले web development का आधारभूत कुराहरू — HTML, CSS, JavaScript समेट्छ। यो तिम्रो 2-credit ICT applied आवश्यकतामा गन्न सकिन्छ, वा यसलाई 3-credit programming कोर्सको रूपमा मान्यता दिन सकिन्छ। Web development मा रुचि छ भने विचार गर्न लायक छ।
+Intro to Frontend ले web development का आधारभूत कुराहरू — HTML, CSS, JavaScript समेट्छ। यो तिम्रो 2-credit ICT applied आवश्यकतामा गन्न सकिन्छ, वा यसलाई 2-credit programming कोर्सको रूपमा मान्यता दिन सकिन्छ। Web development मा रुचि छ भने विचार गर्न लायक छ।
 
 ### 2.6 General Chemistry — Life Sciences/Chemistry Track को लागि आवश्यक
 
@@ -216,7 +215,7 @@ Semester 1 मा, Calculus, Linear Algebra, र Programming — **जुन क
 
 ### 2.8 Introduction to AI, Computer & Electronic Engineering — Major को स्वाद
 
-यदि तिमी AI & Computer Engineering वा Computer & Electronic Engineering विभागमा रुचि राख्छौ भने, यो introductory कोर्सले तिमीलाई क्षेत्रको ठूलो तस्वीर दिन्छ। "यो क्षेत्र मेरो लागि ठीक हो कि होइन" भनेर पूर्ण major कोर्सहरूमा प्रतिबद्ध हुनुअघि पत्ता लगाउने राम्रो तरिका हो।
+यदि तिमी AI Computer & Electronic Engineering विभाग (CSEE) मा रुचि राख्छौ भने, यो introductory कोर्सले तिमीलाई क्षेत्रको ठूलो तस्वीर दिन्छ। "यो क्षेत्र मेरो लागि ठीक हो कि होइन" भनेर पूर्ण major कोर्सहरूमा प्रतिबद्ध हुनुअघि पत्ता लगाउने राम्रो तरिका हो।
 
 > **2026 Spring — Intro to AI, Computer & Electronic Eng. (ECE10006):**
 

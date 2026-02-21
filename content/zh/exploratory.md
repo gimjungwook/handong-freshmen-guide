@@ -11,7 +11,7 @@
 
 很多学生在来到校园之前就锁定了专业——"工程类就业前景好"，或者"家里人让我学商科"。然后到了大二，后悔就来了："这条路不是适合我的。"选择专业是一个会影响你至少未来三年、甚至可能影响整个职业方向的决定。花一个学期探索再决定，不是太迟——而是明智之举呀。
 
-Handong 还提供一个独特的选择叫 **GCS（Global Convergence Studies）**。GCS 不属于传统学院，而是让你通过融合多个学科来设计自己的定制专业。如果 GCS 让你产生了兴趣，记住你需要先修"Vision, Work, and Calling"课程，在探索过程中把这条路线记在脑子里。
+Handong 还提供一个独特的选择叫 **학생설계융합전공（Student-Designed Convergence Studies）**。학생설계융합전공 不属于传统学院，而是让你通过融合多个学科来设计自己的定制专业。如果 학생설계융합전공 让你产生了兴趣，记住你需要先修"Vision, Work, and Calling"课程，在探索过程中把这条路线记在脑子里。
 
 本指南提出的课程组合，目标是让你**尽可能多地体验不同领域，同时确保无论你最终选什么专业，这些课都不会白修**。注意每门课程代码的第一位数字：1 代表这是为大一设计的入门课程。在还没确定专业时选高年级课程（代码以3或4开头）是有风险的——**坚持入门级课程是最稳妥的策略。**
 
@@ -76,7 +76,7 @@ Handong 还提供一个独特的选择叫 **GCS（Global Convergence Studies）*
 
 一门让你同时体验三个领域——AI、计算机科学和电子工程的入门课。广泛概述每个领域在解决什么问题、从业者实际在做什么。侧重广度而非深度，特别适合那些想着"我完全不知道工程到底是什么"的学生。
 
-**Introduction to Front-End Development (GCS10081)** — 3学分，6个分班
+**Introduction to Front-End Development (GCS10081)** — 2学分，6个分班
 
 一门你会实际动手构建网站的实践课程。你将学习 HTML、CSS 和 JavaScript，马上就能看到自己的成果——这就是这门课的魅力所在。相比 Introduction to Software 侧重逻辑思维，Introduction to Front-End 更侧重**创造的乐趣**。如果你对设计有任何兴趣，这门课能让你体验技术与设计的交汇点呢。
 
@@ -162,8 +162,8 @@ Handong 还提供一个独特的选择叫 **GCS（Global Convergence Studies）*
 
 | Period | Mon | Tue | Wed | Thu | Fri |
 |--------|-----|-----|-----|-----|-----|
-| 2 | Python (01) | Econ (02) | CharEd (02) | Python (01) | Econ (02) |
-| 3 | | Psych (02) | | | Psych (02) |
+| 2 | Python (01) | Psych (02) | CharEd (02) | Python (01) | Psych (02) |
+| 3 | Econ (01) | | | Econ (01) | |
 | 4 | | | Chapel | | |
 | 5 | Phil (01) | | Chapel | Phil (01) | |
 | 6 | | | Chapel | | |
@@ -171,8 +171,8 @@ Handong 还提供一个独特的选择叫 **GCS（Global Convergence Studies）*
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
 | Python Programming (Sec 01) | GCS10004 | 3 | Foundation — programming |
-| Introduction to Economics (Sec 02) | MEC10001 | 3 | Exploration — social science |
-| **Introduction to Psychology (Sec 02)** | CSW10003 | 3 | **Exploration — 100% English** |
+| Introduction to Economics (Sec 01) | MEC10001 | 3 | Exploration — 100% English, Mon 3 & Thu 3 |
+| **Introduction to Psychology (Sec 02)** | CSW10003 | 3 | **Exploration — 100% English, Tue 2 & Fri 2** |
 | **Introduction to Philosophy (Sec 01)** | GEK10030 | 3 | **Exploration — 100% English** |
 | Handong Character Education (Sec 02) | GEK10015 | 1 | Required |
 | Understanding the Bible | GEK20058 | 2 | CF1 — place in open slot |

@@ -9,11 +9,10 @@
 
 Panduan ini ditulis untuk **mahasiswa baru Angkatan 2026** yang mempertimbangkan jurusan-jurusan berikut:
 
-- **AI & Computer Engineering**: Software, Artificial Intelligence, Data Science, Cybersecurity
-- **Computer & Electronic Engineering**: Computer Engineering, Electronic Engineering, Embedded Systems
-- **Mechanical & Control Engineering**: Mechanical Engineering, Robotics, Control Systems
-- **Spatial Environment & Systems Engineering**: Construction, Environmental, Urban Engineering
-- **Life Sciences**: Biology, Biotechnology, Bioengineering
+- **School of AI Computer & Electronic Engineering (CSEE)**: Computer Engineering, Electronic Engineering, AI, Software, Embedded Systems
+- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering, Energy Engineering
+- **Spatial Environment & Systems Engineering**: Construction Engineering, Urban & Environmental Engineering
+- **Life Sciences**: Life Science, Food Science
 
 Bahkan kalau kamu berpikir "Saya belum yakin jurusan pastinya, tapi tahu saya orang STEM" — tenang, panduan ini memang untuk kamu. Di Handong, kamu tidak mendeklarasikan jurusan di tahun pertama. Artinya strategi intinya adalah **mengisi tahun pertama dengan mata kuliah dasar yang akan berguna apapun jurusan STEM yang akhirnya kamu pilih.**
 
@@ -174,7 +173,7 @@ C Programming hanya punya **1 kelas**. Persaingan mungkin ketat, jadi daftar seg
 | **05** | **Park Jihyun** | **Mon P5, Thu P5** | **100%** |
 | 06 | Yong Hwangi | Tue P3, Fri P3 | 0% |
 
-> **Intro to Frontend (GCS10081) — 3 credits, bagi yang tertarik web development:**
+> **Intro to Frontend (GCS10081) — 2 credits, bagi yang tertarik web development:**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -185,7 +184,7 @@ C Programming hanya punya **1 kelas**. Persaingan mungkin ketat, jadi daftar seg
 | 05 | Yang Jihye | Mon P3, Thu P3 | 0% |
 | 06 | Yang Jihye | Mon P4, Thu P4 | 0% |
 
-Intro to Frontend mencakup dasar-dasar web development — HTML, CSS, JavaScript. Bisa dihitung untuk persyaratan ICT terapan 2 SKS, atau diakui sebagai mata kuliah pemrograman 3 SKS. Layak dipertimbangkan kalau web development menarik minatmu.
+Intro to Frontend mencakup dasar-dasar web development — HTML, CSS, JavaScript. Bisa dihitung untuk persyaratan ICT terapan 2 SKS, atau diakui sebagai mata kuliah pemrograman 2 SKS. Layak dipertimbangkan kalau web development menarik minatmu.
 
 ### 2.6 General Chemistry — Wajib untuk Jalur Life Sciences/Kimia
 
@@ -216,7 +215,7 @@ Di Semester 1, amankan tempatmu di Calculus, Linear Algebra, dan Programming —
 
 ### 2.8 Introduction to AI, Computer & Electronic Engineering — Mencicipi Jurusan
 
-Kalau kamu tertarik dengan departemen AI & Computer Engineering atau Computer & Electronic Engineering, mata kuliah pengantar ini memberikan gambaran besar bidangnya. Cara yang bagus untuk tahu apakah "bidang ini cocok buat saya" sebelum berkomitmen pada mata kuliah jurusan penuh.
+Kalau kamu tertarik dengan School of AI Computer & Electronic Engineering (CSEE), mata kuliah pengantar ini memberikan gambaran besar bidangnya. Cara yang bagus untuk tahu apakah "bidang ini cocok buat saya" sebelum berkomitmen pada mata kuliah jurusan penuh.
 
 > **2026 Spring — Intro to AI, Computer & Electronic Eng. (ECE10006):**
 

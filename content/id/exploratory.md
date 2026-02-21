@@ -11,7 +11,7 @@ Belum pilih jurusan? **Santai aja, itu bukan sesuatu yang memalukan.** Justru, k
 
 Banyak mahasiswa mengunci jurusan sebelum tiba di kampus — "Teknik prospek kerjanya bagus," atau "Orang tua saya ingin saya belajar bisnis." Lalu tahun kedua datang dan penyesalan muncul: "Ini bukan jalur yang tepat buat saya." Memilih jurusan adalah keputusan yang akan membentuk setidaknya tiga tahun ke depan, dan berpotensi seluruh karirmu. Mengambil satu semester untuk eksplorasi sebelum memutuskan bukan terlambat — itu bijaksana.
 
-Handong juga menawarkan opsi unik bernama **GCS (Global Convergence Studies)**. Alih-alih terikat pada departemen tradisional, GCS memungkinkan kamu rancang jurusan kustom sendiri dengan menggabungkan berbagai disiplin ilmu. Kalau GCS menarik minatmu, perlu diingat bahwa kamu harus selesaikan mata kuliah "Vision Work and Calling" terlebih dulu, jadi perhatikan jalur ini selama eksplorasimu.
+Handong juga menawarkan opsi unik bernama **학생설계융합전공 (Student-Designed Convergence Studies)**. Alih-alih terikat pada departemen tradisional, 학생설계융합전공 memungkinkan kamu rancang jurusan kustom sendiri dengan menggabungkan berbagai disiplin ilmu. Kalau 학생설계융합전공 menarik minatmu, perlu diingat bahwa kamu harus selesaikan mata kuliah "Vision Work and Calling" terlebih dulu, jadi perhatikan jalur ini selama eksplorasimu.
 
 Panduan ini mengusulkan kombinasi mata kuliah yang memungkinkan kamu **mencicipi sebanyak mungkin bidang sambil memastikan tidak ada yang terbuang sia-sia, apapun jurusan yang akhirnya kamu pilih.** Perhatikan digit pertama setiap kode mata kuliah: angka 1 berarti mata kuliah pengantar yang dirancang untuk mahasiswa tahun pertama. Ketika belum menentukan jurusan, ambil mata kuliah tingkat atas (kode dimulai dengan 3 atau 4) itu berisiko — **tetap pada mata kuliah level pengantar adalah strategi kunci.**
 
@@ -76,7 +76,7 @@ Mata kuliah yang mengajarkan konsep pemrograman dasar dan berpikir logis. Sama s
 
 Mata kuliah pengantar yang memungkinkan kamu mencicipi tiga bidang — AI, ilmu komputer, dan teknik elektronik — dalam satu mata kuliah. Ini memberikan gambaran luas tentang masalah apa yang ditangani setiap bidang dan apa yang dilakukan praktisinya. Penekanannya pada keluasan daripada kedalaman, sangat cocok untuk mahasiswa yang berpikir, "Saya sama sekali tidak tahu teknik itu apa."
 
-**Introduction to Front-End Development (GCS10081)** — 3 credits, 6 sections ditawarkan
+**Introduction to Front-End Development (GCS10081)** — 2 credits, 6 sections ditawarkan
 
 Mata kuliah praktis di mana kamu membangun situs web nyata. Kamu akan pelajari HTML, CSS, dan JavaScript dan menghasilkan output yang langsung terlihat — itulah daya tarik mata kuliah ini. Sementara Introduction to Software fokus pada berpikir logis, Introduction to Front-End fokus pada **kesenangan membangun sesuatu.** Kalau kamu punya minat pada desain, mata kuliah ini memungkinkan kamu rasakan pertemuan teknologi dan desain.
 
@@ -162,8 +162,8 @@ Campuran setengah-setengah STEM dan humaniora — jadwal paling eksploratif. Dal
 
 | Period | Mon | Tue | Wed | Thu | Fri |
 |--------|-----|-----|-----|-----|-----|
-| 2 | Python (01) | Econ (02) | CharEd (02) | Python (01) | Econ (02) |
-| 3 | | Psych (02) | | | Psych (02) |
+| 2 | Python (01) | Psych (02) | CharEd (02) | Python (01) | Psych (02) |
+| 3 | Econ (01) | | | Econ (01) | |
 | 4 | | | Chapel | | |
 | 5 | Phil (01) | | Chapel | Phil (01) | |
 | 6 | | | Chapel | | |
@@ -171,8 +171,8 @@ Campuran setengah-setengah STEM dan humaniora — jadwal paling eksploratif. Dal
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
 | Python Programming (Sec 01) | GCS10004 | 3 | Foundation — programming |
-| Introduction to Economics (Sec 02) | MEC10001 | 3 | Exploration — social science |
-| **Introduction to Psychology (Sec 02)** | CSW10003 | 3 | **Exploration — 100% English** |
+| Introduction to Economics (Sec 01) | MEC10001 | 3 | Exploration — 100% English, Mon 3 & Thu 3 |
+| **Introduction to Psychology (Sec 02)** | CSW10003 | 3 | **Exploration — 100% English, Tue 2 & Fri 2** |
 | **Introduction to Philosophy (Sec 01)** | GEK10030 | 3 | **Exploration — 100% English** |
 | Handong Character Education (Sec 02) | GEK10015 | 1 | Required |
 | Understanding the Bible | GEK20058 | 2 | CF1 — place in open slot |

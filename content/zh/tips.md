@@ -80,7 +80,7 @@ Handong 每位学生，无论专业，都必须完成 **7学分的 ICT 融合课
 | Course | Code | Credits | Section | Professor | Time | English % |
 |--------|------|---------|---------|-----------|------|-----------|
 | **Python Programming** | GCS10004 | 3 | **05** | 박지현 | Mon 5, Thu 5 | **100%** |
-| **Frontend Introduction** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
+| **Frontend Introduction** | GCS10081 | 2 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
 
 **小提示：** OIA（Office of International Admissions）有时会在编程课程中专门为国际新生预留名额。如果你是国际学生，可以先问问 OIA——这可能帮你省去一场选课大战呢。
 
@@ -242,13 +242,13 @@ Section 02 是英文选项。
 
 ---
 
-### GCS (Global Convergence Studies)
+### 학생설계융합전공 (Student-Designed Convergence Studies)
 
-GCS 允许你**自己设计专业**，把不同学院的课程组合在一起。比如，你可以把 International Relations + Economics + Data Analysis 组合起来，打造一个"全球政策分析"这样的定制专业。
+학생설계융합전공 允许你**自己设计专业**，把不同学院的课程组合在一起。比如，你可以把 International Relations + Economics + Data Analysis 组合起来，打造一个"全球政策分析"这样的定制专业。
 
-要进入 GCS，必须先修 **"Vision, Work, and Calling"**（비전, 일, 소명）。这门课是进入 GCS 项目的先修要求。
+要进入 학생설계융합전공，必须先修 **"Vision, Work, and Calling"**（비전, 일, 소명）。这门课是进入 학생설계융합전공 项目的先修要求。
 
-**为什么 GCS 特别适合国际学生：** 你可以自由组合全校任何学院的英文授课课程，不受某一学院韩语课程比例的限制。如果现有的学院没有完全符合你兴趣的，GCS 给你自由去构建你真正想要的方向哦。
+**为什么 학생설계융합전공 特别适合国际学生：** 你可以自由组合全校任何学院的英文授课课程，不受某一学院韩语课程比例的限制。如果现有的学院没有完全符合你兴趣的，학생설계융합전공 给你自由去构建你真正想要的方向哦。
 
 ---
 
@@ -262,7 +262,7 @@ GCS 允许你**自己设计专业**，把不同学院的课程组合在一起。
 |--------|-----|-----|-----|-----|-----|
 | 1 | | Bible (07) | | | Bible (07) |
 | 2 | | Intl Relations | CharEd* | | Intl Relations |
-| 3 | | Psychology | | | Psychology |
+| 3 | | Business (01) | | | Business (01) |
 | 4 | D&P | | Chapel | D&P | |
 | 5 | Python (05) | Python (05) | Chapel | Python (05) | |
 | 6 | | | Chapel | | |
@@ -273,7 +273,7 @@ GCS 允许你**自己设计专业**，把不同学院的课程组合在一起。
 |--------|------|---------|-----------|------|
 | Understanding the Bible (07) | GEK20058 | 2 | Joshua Kim | Tue 1, Fri 1, 100% English |
 | International Relations Intro (01) | ISE10052 | 3 | 정모니카 | Tue 2, Fri 2, 100% English |
-| Psychology Intro (02) | CSW10003 | 3 | 지원근 | Tue 3, Fri 3, 100% English |
+| Business Intro (01) | MEC10002 | 3 | 이유진 | Tue 3, Fri 3, 100% English |
 | Discussion & Presentation (01) | GCS10013 | 3 | Richardson | Mon 4, Thu 4, 100% English |
 | Character Education (02-06) | GEK10015 | 1 | Various | **Wed 2, Korean** (Sec 01 Mon 5 与 Python 冲突) |
 | Python Programming (05) | GCS10004 | 3 | 박지현 | Mon 5, Thu 5, 100% English |
@@ -283,7 +283,7 @@ GCS 允许你**自己设计专业**，把不同学院的课程组合在一起。
 | + Korean Language Course | — | 3 | TBA | Required for international students |
 | **Total** | | **19.5 + Korean (3)** | | |
 
-**这个课表为什么合理：** 周二和周五承载主要学习压力，连续三门英文课（Bible、International Relations、Psychology），周一和周四只有下午的课，负担较轻。周三留给 Chapel 和自习。你同时探索两个完全不同的领域（国际关系和心理学），同时培养编程技能和英语学术演讲能力，非常充实呀。
+**这个课表为什么合理：** 周二和周五承载主要学习压力，连续三门英文课（Bible、International Relations、Business），周一和周四只有下午的课，负担较轻。周三留给 Chapel 和自习。你同时探索两个完全不同的领域（国际关系和工商管理），同时培养编程技能和英语学术演讲能力，非常充实呀。
 
 **CharEd 冲突的解决方式：** Character Education Sec 01（Mon 5）与 Python Sec 05（Mon 5）重叠。本课表用 CharEd Sec 02-06（Wed 2，韩语）来避免冲突。如果你的韩语还不够用，可以把 Python 换到不在 Mon 5 的分班。
 

@@ -83,9 +83,9 @@ Below are sample timetables built exclusively from **100% English sections**. Th
 |--------|-----|-----|-----|-----|-----|
 | 1 | | Bible (07) | | | Bible (07) |
 | 2 | | Intl Relations | CharEd* | | Intl Relations |
-| 3 | | Psychology | | | Psychology |
+| 3 | | Business (01) | | | Business (01) |
 | 4 | D&P | | Chapel | D&P | |
-| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 5 | Python (05) | | Chapel | Python (05) | |
 | 6 | | | Chapel | | |
 
 > **⚠️ CharEd conflict:** Character Education Sec 01 (Mon 5, English) conflicts with Python Sec 05 (Mon 5). **Resolution:** Take CharEd Sec 02-06 (Wed 2, Korean) instead, or swap Python to a non-Mon 5 section.
@@ -94,7 +94,7 @@ Below are sample timetables built exclusively from **100% English sections**. Th
 |--------|------|---------|-----------|------|
 | Understanding the Bible (07) | GEK20058 | 2 | Joshua Kim | Tue 1, Fri 1, 100% English |
 | International Relations Intro (01) | ISE10052 | 3 | 정모니카 | Tue 2, Fri 2, 100% English |
-| Psychology Intro (02) | CSW10003 | 3 | 지원근 | Tue 3, Fri 3, 100% English |
+| Intro to Business (01) | MEC10002 | 3 | 이유진 | Tue 3, Fri 3, 100% English |
 | Discussion & Presentation (01) | GCS10013 | 3 | Richardson | Mon 4, Thu 4, 100% English |
 | Character Education (02-06) | GEK10015 | 1 | Various | **Wed 2, Korean** (Sec 01 Mon 5 conflicts with Python) |
 | Python Programming (05) | GCS10004 | 3 | 박지현 | Mon 5, Thu 5, 100% English |
@@ -104,7 +104,7 @@ Below are sample timetables built exclusively from **100% English sections**. Th
 | + Korean Language Course | — | 3 | TBA | Required for international students |
 | **Total** | | **19.5 + Korean (3)** | | |
 
-**Why this schedule rocks:** Tuesday and Friday carry the intellectual heavy lifting with three back-to-back English courses (Bible, International Relations, Psychology), while Monday and Thursday are lighter with afternoon courses only. Wednesday is reserved for Chapel and personal study time — perfect for catching up on readings. You get to explore two completely different fields while building programming skills and English academic presentation ability at the same time. That's a well-rounded semester right there!
+**Why this schedule rocks:** Tuesday and Friday carry the intellectual heavy lifting with three back-to-back English courses (Bible, International Relations, Business), while Monday and Thursday are lighter with afternoon courses only. Wednesday is reserved for Chapel and personal study time — perfect for catching up on readings. You get to explore two completely different fields while building programming skills and English academic presentation ability at the same time. That's a well-rounded semester right there!
 
 **CharEd conflict resolved above:** Character Education Sec 01 (Mon 5) conflicts with Python Sec 05 (Mon 5). This schedule uses CharEd Sec 02-06 (Wed 2, Korean) to avoid the overlap. If your Korean isn't strong enough for that, swap Python to a non-Mon 5 section instead.
 
@@ -116,7 +116,7 @@ Below are sample timetables built exclusively from **100% English sections**. Th
 | 2 | | Worldview (02) | | | Worldview (02) |
 | 3 | Linear Alg (01) | | | Linear Alg (01) | |
 | 4 | Calculus 1 (03) | | Chapel | Calculus 1 (03) | |
-| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 5 | Python (05) | | Chapel | Python (05) | |
 | 6 | | | Chapel | | |
 
 > **⚠️ CharEd conflict:** Character Education Sec 01 (Mon 5, English) conflicts with Python Sec 05 (Mon 5). **Resolution:** Take CharEd Sec 02-06 (Wed 2, Korean) instead, or swap Python to a non-Mon 5 section.

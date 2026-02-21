@@ -116,7 +116,7 @@ Every Handong student — yes, *every* student, regardless of major — must com
 | Course | Code | Credits | Section | Professor | Time | English % |
 |--------|------|---------|---------|-----------|------|-----------|
 | **Python Programming** | GCS10004 | 3 | **05** | 박지현 | Mon 5, Thu 5 | **100%** |
-| **Intro to Frontend** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
+| **Intro to Frontend** | GCS10081 | 2 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
 
 **A helpful tip:** The OIA (Office of International Admissions) sometimes reserves seats in programming courses specifically for international freshmen. If you're an international student, definitely ask OIA about this — it could save you a stressful registration battle!
 

@@ -116,7 +116,7 @@ Setiap mahasiswa Handong, apapun jurusannya, wajib menyelesaikan **7 SKS mata ku
 | Course | Code | Credits | Section | Professor | Time | English % |
 |--------|------|---------|---------|-----------|------|-----------|
 | **Python Programming** | GCS10004 | 3 | **05** | 박지현 | Mon 5, Thu 5 | **100%** |
-| **Frontend Introduction** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
+| **Frontend Introduction** | GCS10081 | 2 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
 
 **Info berguna:** OIA (Office of International Admissions) terkadang menyediakan kursi khusus di mata kuliah pemrograman untuk mahasiswa baru internasional. Kalau kamu mahasiswa internasional, tanyakan OIA soal ini — bisa menyelamatkan kamu dari perebutan kursi yang ketat.
 

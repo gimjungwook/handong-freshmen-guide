@@ -220,13 +220,13 @@ Eksplorasi akademis K-pop, K-drama, sinema Korea, dan fenomena Korean Wave. Diaj
 
 ---
 
-### GCS (Global Convergence Studies)
+### 학생설계융합전공 (Student-Designed Convergence Studies)
 
-GCS memungkinkan kamu **merancang jurusan sendiri** dengan menggabungkan mata kuliah dari berbagai departemen. Misalnya, kamu bisa buat jurusan kustom "Global Policy Analysis" dengan menggabungkan mata kuliah International Relations + Economics + Data Analysis.
+학생설계융합전공 memungkinkan kamu **merancang jurusan sendiri** dengan menggabungkan mata kuliah dari berbagai departemen. Misalnya, kamu bisa buat jurusan kustom "Global Policy Analysis" dengan menggabungkan mata kuliah International Relations + Economics + Data Analysis.
 
-Untuk masuk GCS, kamu harus terlebih dulu ambil **"Vision, Work, and Calling"** (비전, 일, 소명). Mata kuliah ini adalah prasyarat program GCS.
+Untuk masuk 학생설계융합전공, kamu harus terlebih dulu ambil **"Vision, Work, and Calling"** (비전, 일, 소명). Mata kuliah ini adalah prasyarat program 학생설계융합전공.
 
-**Kenapa GCS sangat cocok untuk mahasiswa internasional:** Kamu bisa bebas menggabungkan mata kuliah berbahasa Inggris dari departemen manapun, sehingga tidak dibatasi oleh keterbatasan bahasa satu departemen. Kalau tidak ada departemen yang cocok dengan minatmu, GCS memberi kebebasan untuk membangun persis apa yang kamu mau.
+**Kenapa 학생설계융합전공 sangat cocok untuk mahasiswa internasional:** Kamu bisa bebas menggabungkan mata kuliah berbahasa Inggris dari departemen manapun, sehingga tidak dibatasi oleh keterbatasan bahasa satu departemen. Kalau tidak ada departemen yang cocok dengan minatmu, 학생설계융합전공 memberi kebebasan untuk membangun persis apa yang kamu mau.
 
 ---
 
@@ -240,7 +240,7 @@ Berikut contoh jadwal yang disusun eksklusif dari **kelas 100% berbahasa Inggris
 |--------|-----|-----|-----|-----|-----|
 | 1 | | Bible (07) | | | Bible (07) |
 | 2 | | Intl Relations | CharEd* | | Intl Relations |
-| 3 | | Psychology | | | Psychology |
+| 3 | | Business (01) | | | Business (01) |
 | 4 | D&P | | Chapel | D&P | |
 | 5 | Python (05) | Python (05) | Chapel | Python (05) | |
 | 6 | | | Chapel | | |
@@ -251,7 +251,7 @@ Berikut contoh jadwal yang disusun eksklusif dari **kelas 100% berbahasa Inggris
 |--------|------|---------|-----------|------|
 | Understanding the Bible (07) | GEK20058 | 2 | Joshua Kim | Tue 1, Fri 1, 100% English |
 | International Relations Intro (01) | ISE10052 | 3 | 정모니카 | Tue 2, Fri 2, 100% English |
-| Psychology Intro (02) | CSW10003 | 3 | 지원근 | Tue 3, Fri 3, 100% English |
+| Business Intro (01) | MEC10002 | 3 | 이유진 | Tue 3, Fri 3, 100% English |
 | Discussion & Presentation (01) | GCS10013 | 3 | Richardson | Mon 4, Thu 4, 100% English |
 | Character Education (02-06) | GEK10015 | 1 | Various | **Wed 2, Korean** (Sec 01 Mon 5 bentrok dengan Python) |
 | Python Programming (05) | GCS10004 | 3 | 박지현 | Mon 5, Thu 5, 100% English |
@@ -261,7 +261,7 @@ Berikut contoh jadwal yang disusun eksklusif dari **kelas 100% berbahasa Inggris
 | + Korean Language Course | — | 3 | TBA | Wajib untuk mahasiswa internasional |
 | **Total** | | **19.5 + Korean (3)** | | |
 
-**Kenapa jadwal ini bisa jalan:** Selasa dan Jumat membawa beban intelektual berat dengan tiga mata kuliah berturut-turut berbahasa Inggris (Bible, International Relations, Psychology), sementara Senin dan Kamis lebih ringan dengan kelas sore saja. Rabu dicadangkan untuk Chapel dan belajar mandiri. Kamu mengeksplorasi dua bidang yang sangat berbeda (hubungan internasional dan psikologi) sambil sekaligus membangun kemampuan programming dan presentasi akademik dalam Bahasa Inggris.
+**Kenapa jadwal ini bisa jalan:** Selasa dan Jumat membawa beban intelektual berat dengan tiga mata kuliah berturut-turut berbahasa Inggris (Bible, International Relations, Business), sementara Senin dan Kamis lebih ringan dengan kelas sore saja. Rabu dicadangkan untuk Chapel dan belajar mandiri. Kamu mengeksplorasi dua bidang yang sangat berbeda (hubungan internasional dan administrasi bisnis) sambil sekaligus membangun kemampuan programming dan presentasi akademik dalam Bahasa Inggris.
 
 **Konflik CharEd diselesaikan di atas:** Character Education Sec 01 (Mon 5) bentrok dengan Python Sec 05 (Mon 5). Jadwal ini memakai CharEd Sec 02-06 (Wed 2, Korean) untuk menghindari tumpang tindih. Kalau kemampuan Bahasa Koreamu belum cukup, pindahkan Python ke kelas yang bukan Mon 5.
 

@@ -9,12 +9,12 @@
 
 This guide is for freshmen considering any of the following departments and majors:
 
-- **School of Management & Economics**: Business Administration, Economics, Accounting, Marketing
-- **School of International Studies & English**: International Relations, English, Chinese
+- **School of Management and Economics**: Business Administration, Economics, Accounting, Marketing
+- **School of International Language and Culture**: International Area Studies, International Relations
 - **School of Law**: Law
-- **School of Communication Arts**: Media, Journalism, Content Creation
-- **School of Counseling, Psychology, & Social Welfare**: Psychology, Counseling, Social Welfare
-- **School of Global Leadership (GLS)**: International Studies
+- **School of Communication Arts**: Media Communication, Performing & Visual Arts
+- **School of Counseling Psychology and Social Welfare**: Counseling Psychology, Social Welfare
+- **Global Leadership School (GLS)**: International Studies
 
 Here's what makes the humanities and social sciences special: it's all about **broad exploration and the ability to write well**. Unlike STEM, where the path follows a pretty linear trajectory (Math → Physics → Major courses), the humanities and social sciences reward a process of encountering diverse disciplines and gradually narrowing your interests. So use your freshman year to take several intro courses and test whether a field *actually* fits you — not just whether it sounds cool on paper.
 
@@ -23,24 +23,22 @@ Here's what makes the humanities and social sciences special: it's all about **b
 Not all majors at Handong can be completed entirely in English — and **this is something you absolutely need to understand before choosing your path.** Some departments offer their courses almost exclusively in Korean, which makes graduation really difficult if you're not fluent.
 
 **Majors with enough English-taught courses for graduation (recommended for international students):**
-- **School of Management & Economics**
-- **School of International Studies & English**
-- **School of Counseling, Psychology, & Social Welfare** (partially)
-- **School of Global Leadership (GLS)**
+- **School of Management and Economics**
+- **School of Languages and Cultures**
+- **School of Counseling Psychology and Social Welfare** (partially)
+- **Global Leadership School (GLS)**
 
 **Majors without enough English-taught courses (Korean proficiency required):**
 - **School of Law**
 - **School of Communication Arts** (mostly taught in Korean)
 
-If you're not confident in your Korean yet, it's wise to pick from the recommended majors above. Or — and this is a great option — strongly consider **GCS (Global Convergence Studies)**, which we'll introduce below.
+If you're not confident in your Korean yet, it's wise to pick from the recommended majors above. Or consider **Student-Designed Convergence Studies** or **Global Convergence Studies**, which we'll introduce below.
 
-### 🧩 GCS (Global Convergence Studies) — Design Your Own Major
+### 🧩 Student-Designed Convergence Studies — Design Your Own Major
 
-GCS is genuinely one of the coolest programs at Handong. It lets you **design your own interdisciplinary major** without being stuck in a single department. For example, you could combine International Relations + Economics + Data Analysis to create a custom major like "Global Policy Analysis." How awesome is that?
+This is genuinely one of the coolest programs at Handong. Offered through the Creative Convergence Education Center (창의융합교육원), it lets you **combine 3 or more fields to design your own interdisciplinary major**. For example, you could combine International Relations + Economics + Data Analysis to create a custom major like "Global Policy Analysis." It operates as a second major (33 credits) and requires a GPA of 3.0 or higher to apply. Applications are announced via HISNet at the beginning of each semester.
 
-To start the GCS track, you'll first need to take **"Vision, Work, and Calling"** (비전, 일, 소명). In this course, you explore your personal vision and go through the process of designing a curriculum that aligns with it.
-
-GCS is an especially excellent option for international students. Because you can freely combine English-taught courses from across the entire university, you're not limited by any single department's Korean-language course ratios. If no department perfectly matches your interests, or if you need to make sure all your courses are in English, GCS gives you the flexibility to build exactly the path that works for you.
+There's also **Global Convergence Studies** (글로벌융합전공), which lets you build a major primarily from English-taught courses across the university. This is an especially excellent option for international students. Because you can freely combine English-taught courses from across departments, you're not limited by any single department's Korean-language course ratios. If no department perfectly matches your interests, or if you need to make sure all your courses are in English, this gives you the flexibility to build exactly the path that works for you.
 
 ---
 
@@ -174,7 +172,7 @@ A course that sharpens the way you see society. You'll learn frameworks for anal
 |---------|-----------|------|-----------|
 | 01 | Kang Byeongdeok et al. | Mon 3, Thu 3 | 0% |
 
-An overview of the history, theories, and practices of social welfare. If you're thinking about the School of Counseling, Psychology, & Social Welfare, taking this alongside Introduction to Psychology lets you experience both pillars of the department. Smart combo!
+An overview of the history, theories, and practices of social welfare. If you're thinking about the School of Counseling Psychology and Social Welfare, taking this alongside Introduction to Psychology lets you experience both pillars of the department. Smart combo!
 
 **🔍 Media and Society (CCC10020)**
 
@@ -314,12 +312,12 @@ The two sample schedules below are tailored to different interests. You definite
 
 **Why this schedule is great:** By taking both Business and Economics at the same time, you get to directly compare and figure out: "Am I more of a corporate management person, or an economic analysis person?" Fundamentals of College Writing builds your academic writing chops, and Intro to Software gets you started on that ICT requirement. Wednesday has only Character Education and Chapel, leaving you room for assignments and catching up.
 
-### 📋 Schedule B: International/Psychology Exploration (English-focused, recommended for international students)
+### 📋 Schedule B: International/Business Exploration (English-focused, recommended for international students)
 
 | Period | Mon | Tue | Wed | Thu | Fri |
 |--------|-----|-----|-----|-----|-----|
 | 2 | | Intl Relations (01) | Character | | Intl Relations (01) |
-| 3 | | Psychology (02) | | | Psychology (02) |
+| 3 | | Business (01) | | | Business (01) |
 | 4 | D&P (01) | | Chapel | D&P (01) | |
 | 5 | | | Chapel | | |
 | 6 | | | Chapel | | |
@@ -327,7 +325,7 @@ The two sample schedules below are tailored to different interests. You definite
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
 | **Intro to Intl Relations Sec. 01** | ISE10052 | 3 | **Chung Monica, 100% English, Tue 2 & Fri 2** |
-| **Intro to Psychology Sec. 02** | CSW10003 | 3 | **Ji Wongeun, 100% English, Tue 3 & Fri 3** |
+| **Intro to Business Sec. 01** | MEC10002 | 3 | **Lee Yujin, 100% English, Tue 3 & Fri 3** |
 | **Discussion and Presentation** | GCS10013 | 3 | **Richardson, 100% English, Mon 4 & Thu 4** |
 | **Handong Character Education (English)** | GEK10015 | 1 | **Richardson, 100% English** |
 | Understanding the Bible (English) | GEK20058 | 2 | Choose from Sec. 07/11/12 |
@@ -337,7 +335,7 @@ The two sample schedules below are tailored to different interests. You definite
 | + Korean Language (required for intl students) | - | 3 | Add section |
 | **Total** | | **16.5 + Korean** | |
 
-**Why this schedule is great:** All the major courses are taught 100% in English, so international students who are still working on their Korean can jump right in. You get to explore two very different worlds — International Relations and Psychology — while also sharpening your presentation skills through D&P. Mon/Thu classes are afternoons only, and Tue/Fri are mornings only, giving you a nice clean daily rhythm.
+**Why this schedule is great:** All the major courses are taught 100% in English, so international students who are still working on their Korean can jump right in. You get to explore two very different worlds — International Relations and Business — while also sharpening your presentation skills through D&P. Mon/Thu classes are afternoons only, and Tue/Fri are mornings only, giving you a nice clean daily rhythm.
 
 > **💡 Worldview Course Note:** Neither schedule above includes a Worldview course (Creation and Evolution / Christians and Mission / Christian Worldview). Worldview is a **graduation requirement**, so you've got to complete it at some point. If you have room in your first-semester schedule, add one; if not, make sure to knock it out in your second semester. For section details, check the Worldview section in the [[Spring 2026 Freshman Registration Guide]].
 
@@ -381,7 +379,7 @@ Based on what you discover in your first semester, here's how you might plan sem
 
 **Logic and Critical Thinking:** If you took a writing course in the first semester, add logical thinking training in the second. Writing + Logical Thinking = the most powerful combo for producing reports and papers in the humanities and social sciences.
 
-**Explore GCS:** If none of the existing departments felt quite right, you can start designing your own major through GCS by taking the "Vision, Work, and Calling" course. It's a fantastic option that too few students know about!
+**Explore Student-Designed Convergence Studies:** If none of the existing departments felt quite right, you can design your own major through the Creative Convergence Education Center's Student-Designed Convergence Studies program. Applications open each semester via HISNet — it's a fantastic option that too few students know about!
 
 ---
 

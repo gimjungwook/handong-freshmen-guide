@@ -9,11 +9,10 @@
 
 This guide is for **Class of 2026 freshmen** who are considering any of these majors:
 
-- **AI & Computer Engineering**: Software, Artificial Intelligence, Data Science, Cybersecurity
-- **Computer & Electronic Engineering**: Computer Engineering, Electronic Engineering, Embedded Systems
-- **Mechanical & Control Engineering**: Mechanical Engineering, Robotics, Control Systems
-- **Spatial Environment & Systems Engineering**: Construction, Environmental, Urban Engineering
-- **Life Sciences**: Biology, Biotechnology, Bioengineering
+- **School of AI Computer & Electronic Engineering (CSEE)**: Computer Engineering, Electronic Engineering, AI, Software, Embedded Systems
+- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering, Energy Engineering
+- **Spatial Environment & Systems Engineering**: Construction Engineering, Urban & Environmental Engineering
+- **Life Sciences**: Life Science, Food Science
 
 Even if you're thinking "I'm not sure about my exact major, but I know I'm a STEM person" — this guide is absolutely for you. At Handong, you don't declare your major in your first year, so the core strategy is to **fill your first year with foundational courses that'll serve you no matter which STEM major you eventually choose.**
 
@@ -27,7 +26,7 @@ In other words, if you skip your math and science foundations in Year 1, your ma
 
 Handong course codes contain hidden but important info. For example, in `GCS10058`:
 
-- **GCS**: Department/area code (GCS = Global Creative Software)
+- **GCS**: Department/area code
 - **1**0058: The leading digit indicates the **year level**
 
 Why does this matter? **Courses starting with 1 are meant for first-years; courses starting with 3 or 4 are for upperclassmen.** Some freshmen get ambitious and try to register for 3xxx or 4xxx courses — this is like building a house without a foundation. Even if the registration system doesn't block you, **stick to 1xxx courses in your first year.** Trust us on this one.
@@ -174,7 +173,7 @@ If AI or Data Science is your track, starting with Python is perfectly fine. It'
 | **05** | **Park Jihyun** | **Mon P5, Thu P5** | **100%** |
 | 06 | Yong Hwangi | Tue P3, Fri P3 | 0% |
 
-> **Intro to Frontend (GCS10081) — 3 credits, for those interested in web development:**
+> **Intro to Frontend (GCS10081) — 2 credits, for those interested in web development:**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -185,7 +184,7 @@ If AI or Data Science is your track, starting with Python is perfectly fine. It'
 | 05 | Yang Jihye | Mon P3, Thu P3 | 0% |
 | 06 | Yang Jihye | Mon P4, Thu P4 | 0% |
 
-Intro to Frontend covers the basics of web development — HTML, CSS, JavaScript. It can count toward your 2-credit ICT applied requirement, or it can be recognized as a 3-credit programming course. Worth considering if web development sounds exciting to you!
+Intro to Frontend covers the basics of web development — HTML, CSS, JavaScript. It's a 2-credit course worth considering if web development sounds exciting to you!
 
 ### 🧪 2.6 General Chemistry — Required for Life Sciences/Chemistry Tracks
 
@@ -216,7 +215,7 @@ In Semester 1, lock down your spots in Calculus, Linear Algebra, and Programming
 
 ### 🤖 2.8 Introduction to AI, Computer & Electronic Engineering — A Taste of the Major
 
-Curious about the AI & Computer Engineering or Computer & Electronic Engineering departments? This introductory course gives you the big picture of the field. It's a great way to figure out "Is this really for me?" before committing to full major courses.
+Curious about the School of AI Computer & Electronic Engineering? This introductory course gives you the big picture of the field. It's a great way to figure out "Is this really for me?" before committing to full major courses.
 
 > **2026 Spring — Intro to AI, Computer & Electronic Eng. (ECE10006):**
 

@@ -11,7 +11,7 @@ Not having chosen a major yet? **That's absolutely nothing to be embarrassed abo
 
 Here's something we see every year: many students lock in a major before they even arrive on campus — "Engineering has good job prospects," or "My parents want me to study business." Then sophomore year rolls around and the regret hits: "This wasn't the right path for me." Choosing a major shapes at least the next three years and potentially your whole career. Taking one semester to explore before deciding isn't late at all — it's actually the smartest thing you can do.
 
-Handong also has this unique option called **GCS (Global Convergence Studies)**. Instead of belonging to a traditional department, GCS lets you design your own custom major by combining multiple fields. If that sounds interesting, you'll want to take the "Vision Work and Calling" course, so keep this path in mind while you're exploring!
+Handong also has this unique option called **Student-Designed Convergence Studies** (학생설계융합전공). Offered through the Creative Convergence Education Center, it lets you combine 3 or more fields to design your own custom major. It operates as a second major (33 credits) and requires a GPA of 3.0+. Applications open each semester via HISNet, so keep this path in mind while you're exploring!
 
 This guide shows you course combinations that let you **sample as many fields as possible while making sure nothing goes to waste, no matter what major you end up choosing.** Pay attention to the first digit of each course code: a 1 means it's an introductory course for first-year students. When you haven't settled on a major yet, taking upper-level courses (codes starting with 3 or 4) is risky — **sticking to intro-level courses is the key strategy.**
 
@@ -76,7 +76,7 @@ A course that teaches foundational programming concepts and logical thinking. Ne
 
 An intro course that lets you sample three fields — AI, computer science, and electronic engineering — all in one course. It gives a broad overview of what problems each field tackles and what practitioners actually do. The emphasis is on breadth, not depth, so it's perfect for students thinking, "I have absolutely no clue what engineering even is." No judgment — that's exactly who this course is for!
 
-**Introduction to Front-End Development (GCS10081)** — 3 credits, 6 sections offered
+**Introduction to Front-End Development (GCS10081)** — 2 credits, 6 sections offered
 
 A hands-on course where you build actual websites. You'll learn HTML, CSS, and JavaScript and see visible results right away — that's the magic of this course. While Intro to Software focuses on logical thinking, Front-End focuses on **the joy of building things.** If you've got even a passing interest in design, this course lets you experience where technology and creativity meet.
 
@@ -162,18 +162,18 @@ A half-and-half mix of STEM and humanities — the ultimate exploratory schedule
 
 | Period | Mon | Tue | Wed | Thu | Fri |
 |--------|-----|-----|-----|-----|-----|
-| 2 | Python (01) | Econ (02) | CharEd (02) | Python (01) | Econ (02) |
-| 3 | | Psych (02) | | | Psych (02) |
+| 2 | Python (01) | Psych (02) | CharEd (02) | Python (01) | Psych (02) |
+| 3 | Econ (01) | | | Econ (01) | |
 | 4 | | | Chapel | | |
 | 5 | Phil (01) | | Chapel | Phil (01) | |
 | 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
-| Python Programming (Sec 01) | GCS10004 | 3 | Foundation — programming |
-| Introduction to Economics (Sec 02) | MEC10001 | 3 | Exploration — social science |
-| **Introduction to Psychology (Sec 02)** | CSW10003 | 3 | **Exploration — 100% English** |
-| **Introduction to Philosophy (Sec 01)** | GEK10030 | 3 | **Exploration — 100% English** |
+| Python Programming (Sec 01) | GCS10004 | 3 | Foundation — programming, Mon 2 & Thu 2 |
+| Introduction to Economics (Sec 01) | MEC10001 | 3 | Exploration — 100% English, Mon 3 & Thu 3 |
+| **Introduction to Psychology (Sec 02)** | CSW10003 | 3 | **Exploration — 100% English, Tue 2 & Fri 2** |
+| **Introduction to Philosophy (Sec 01)** | GEK10030 | 3 | **Exploration — 100% English, Mon 5 & Thu 5** |
 | Handong Character Education (Sec 02) | GEK10015 | 1 | Required |
 | Understanding the Bible | GEK20058 | 2 | CF1 — place in open slot |
 | Chapel 1 | GEK10001 | 0 | Wed periods 4, 5, 6 |
@@ -254,7 +254,7 @@ Depending on what your first-semester exploration reveals, three paths open up:
 
 **If you're still unsure**, that's okay too! Add 1–2 intro courses from fields you haven't tried yet, while also starting foundation courses in whichever field attracted you most during the first semester. For example, if economics was the most interesting, take one more economics foundation course in the second semester while adding an untried arts/design intro course.
 
-**If two fields are pulling you equally**, take advantage of Handong's double major or interdisciplinary major systems — it's totally feasible! For instance, if both computer science and business excite you, you can pursue one as your primary major and the other as a double major. Or you can design a custom converged major through GCS that fuses both fields. Pretty cool options, right?
+**If two fields are pulling you equally**, take advantage of Handong's double major or interdisciplinary major systems — it's totally feasible! For instance, if both computer science and business excite you, you can pursue one as your primary major and the other as a double major. Or you can design a custom converged major through the Student-Designed Convergence Studies program that fuses both fields. Pretty cool options, right?
 
 ---
 

@@ -13,7 +13,7 @@ Panduan ini ditulis untuk mahasiswa baru yang mempertimbangkan departemen dan ju
 - **School of International Studies & English**: International Relations, English, Chinese
 - **School of Law**: Law
 - **School of Communication Arts**: Media, Journalism, Content Creation
-- **School of Counseling, Psychology, & Social Welfare**: Psychology, Counseling, Social Welfare
+- **School of Counseling, Psychology, & Social Welfare**: Counseling Psychology, Social Welfare
 - **School of Global Leadership (GLS)**: International Studies
 
 Inti dari humaniora dan ilmu sosial adalah **eksplorasi yang luas dan kemampuan menulis yang baik**. Berbeda dengan STEM yang alurnya linear (Matematika → Physics → Mata kuliah jurusan), humaniora dan ilmu sosial justru menghargai proses bertemu berbagai disiplin ilmu dan secara bertahap mempersempit minat. Gunakan tahun pertama untuk ambil beberapa mata kuliah pengantar dan cek apakah suatu bidang benar-benar cocok untukmu.
@@ -32,15 +32,15 @@ Tidak semua jurusan di Handong bisa diselesaikan sepenuhnya dalam Bahasa Inggris
 - **School of Law**
 - **School of Communication Arts** (sebagian besar diajarkan dalam Bahasa Korea)
 
-Kalau kamu tidak yakin dengan kemampuan Bahasa Koreamu, bijaksana untuk pilih dari jurusan yang direkomendasikan di atas. Atau, pertimbangkan dengan serius **GCS (Global Convergence Studies)** yang diperkenalkan di bawah.
+Kalau kamu tidak yakin dengan kemampuan Bahasa Koreamu, bijaksana untuk pilih dari jurusan yang direkomendasikan di atas. Atau, pertimbangkan dengan serius **학생설계융합전공 (Student-Designed Convergence Studies)** yang diperkenalkan di bawah.
 
-### GCS (Global Convergence Studies) — Rancang Jurusanmu Sendiri
+### 학생설계융합전공 (Student-Designed Convergence Studies) — Rancang Jurusanmu Sendiri
 
-GCS adalah program yang memungkinkan kamu **merancang jurusan interdisipliner sendiri** tanpa terikat pada satu departemen. Misalnya, kamu bisa gabungkan International Relations + Economics + Data Analysis untuk membuat jurusan kustom seperti "Global Policy Analysis."
+학생설계융합전공 adalah program yang memungkinkan kamu **merancang jurusan interdisipliner sendiri** tanpa terikat pada satu departemen. Misalnya, kamu bisa gabungkan International Relations + Economics + Data Analysis untuk membuat jurusan kustom seperti "Global Policy Analysis."
 
-Untuk mulai jalur GCS, kamu harus terlebih dulu ambil mata kuliah **"Vision, Work, and Calling"** (비전, 일, 소명). Di mata kuliah ini, kamu mengeksplorasi visi pribadi dan melalui proses merancang kurikulum yang selaras dengannya.
+Untuk mulai jalur 학생설계융합전공, kamu harus terlebih dulu ambil mata kuliah **"Vision, Work, and Calling"** (비전, 일, 소명). Di mata kuliah ini, kamu mengeksplorasi visi pribadi dan melalui proses merancang kurikulum yang selaras dengannya.
 
-GCS adalah pilihan yang sangat bagus khususnya untuk mahasiswa internasional. Karena kamu bisa bebas gabungkan mata kuliah yang ditawarkan dalam Bahasa Inggris dari seluruh universitas, kamu tidak dibatasi oleh rasio mata kuliah berbahasa Korea dari departemen tertentu. Kalau tidak ada satu departemen pun yang cocok dengan minatmu, atau kalau kamu perlu pastikan semua mata kuliah dalam Bahasa Inggris, GCS memberi fleksibilitas untuk membangun jalur yang berhasil.
+학생설계융합전공 adalah pilihan yang sangat bagus khususnya untuk mahasiswa internasional. Karena kamu bisa bebas gabungkan mata kuliah yang ditawarkan dalam Bahasa Inggris dari seluruh universitas, kamu tidak dibatasi oleh rasio mata kuliah berbahasa Korea dari departemen tertentu. Kalau tidak ada satu departemen pun yang cocok dengan minatmu, atau kalau kamu perlu pastikan semua mata kuliah dalam Bahasa Inggris, 학생설계융합전공 memberi fleksibilitas untuk membangun jalur yang berhasil.
 
 ---
 
@@ -314,12 +314,12 @@ Dua contoh jadwal di bawah ini disesuaikan dengan minat yang berbeda. Kamu tidak
 
 **Inti dari jadwal ini:** Dengan ambil Business dan Economics bersamaan, kamu bisa bandingkan dan putuskan: "Apakah saya lebih cocok untuk manajemen perusahaan, atau analisis ekonomi?" Fundamentals of College Writing membangun fondasi penulisan akademismu, dan Intro to Software memulai persyaratan ICT. Rabu hanya ada Character Education dan Chapel, menyisakan waktu untuk tugas.
 
-### Schedule B: Eksplorasi Internasional/Psikologi (Fokus Bahasa Inggris, direkomendasikan untuk mahasiswa internasional)
+### Schedule B: Eksplorasi Internasional/Bisnis (Fokus Bahasa Inggris, direkomendasikan untuk mahasiswa internasional)
 
 | Period | Mon | Tue | Wed | Thu | Fri |
 |--------|-----|-----|-----|-----|-----|
 | 2 | | Intl Relations(01) | Character | | Intl Relations(01) |
-| 3 | | Psychology(02) | | | Psychology(02) |
+| 3 | | Business(01) | | | Business(01) |
 | 4 | D&P(01) | | Chapel | D&P(01) | |
 | 5 | | | Chapel | | |
 | 6 | | | Chapel | | |
@@ -327,7 +327,7 @@ Dua contoh jadwal di bawah ini disesuaikan dengan minat yang berbeda. Kamu tidak
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
 | **Intro to Intl Relations Sec. 01** | ISE10052 | 3 | **Chung Monica, 100% English, Tue 2 & Fri 2** |
-| **Intro to Psychology Sec. 02** | CSW10003 | 3 | **Ji Wongeun, 100% English, Tue 3 & Fri 3** |
+| **Intro to Business Admin. Sec. 01** | MEC10002 | 3 | **Lee Yujin, 100% English, Tue 3 & Fri 3** |
 | **Discussion and Presentation** | GCS10013 | 3 | **Richardson, 100% English, Mon 4 & Thu 4** |
 | **Handong Character Education (English)** | GEK10015 | 1 | **Richardson, 100% English** |
 | Understanding the Bible (English) | GEK20058 | 2 | Choose from Sec. 07/11/12 |
@@ -337,7 +337,7 @@ Dua contoh jadwal di bawah ini disesuaikan dengan minat yang berbeda. Kamu tidak
 | + Korean Language (required for intl students) | - | 3 | Add section |
 | **Total** | | **16.5 + Korean** | |
 
-**Inti dari jadwal ini:** Semua mata kuliah utama diajarkan 100% dalam Bahasa Inggris, sehingga mahasiswa internasional yang masih mengembangkan kemampuan Bahasa Korea bisa langsung ambil semuanya. Kamu bisa eksplorasi dua bidang yang sangat berbeda — International Relations dan Psychology — sambil membangun kemampuan presentasi melalui D&P. Kelas Sen/Kam hanya di sore hari, dan kelas Sel/Jum hanya di pagi hari, menciptakan rutinitas harian yang relatif rapi.
+**Inti dari jadwal ini:** Semua mata kuliah utama diajarkan 100% dalam Bahasa Inggris, sehingga mahasiswa internasional yang masih mengembangkan kemampuan Bahasa Korea bisa langsung ambil semuanya. Kamu bisa eksplorasi dua bidang yang sangat berbeda — International Relations dan Business Administration — sambil membangun kemampuan presentasi melalui D&P. Kelas Sen/Kam hanya di sore hari, dan kelas Sel/Jum hanya di pagi hari, menciptakan rutinitas harian yang relatif rapi.
 
 > **Catatan Mata Kuliah Worldview:** Tidak ada satupun jadwal di atas yang menyertakan mata kuliah Worldview (Creation and Evolution / Christians and Mission / Christian Worldview). Worldview adalah **persyaratan kelulusan**, jadi kamu harus menyelesaikannya di suatu titik. Kalau ada ruang di jadwal semester pertama, tambahkan satu; kalau tidak, pastikan ambil di semester kedua. Untuk detail kelas, lihat bagian Worldview di [[Spring 2026 Freshman Registration Guide]].
 
