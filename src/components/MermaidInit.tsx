@@ -4,14 +4,16 @@ import { useEffect } from "react";
 import { useTheme } from "next-themes";
 
 export default function MermaidInit() {
-  const { theme } = useTheme();
+  const { resolvedTheme } = useTheme();
 
   useEffect(() => {
+    if (!resolvedTheme) return; // wait until theme is resolved
+
     const renderMermaid = async () => {
       const mermaid = (await import("mermaid")).default;
       mermaid.initialize({
         startOnLoad: false,
-        theme: theme === "dark" ? "dark" : "neutral",
+        theme: resolvedTheme === "dark" ? "dark" : "neutral",
         fontFamily: "inherit",
       });
 
@@ -34,7 +36,7 @@ export default function MermaidInit() {
 
     const timer = setTimeout(renderMermaid, 200);
     return () => clearTimeout(timer);
-  }, [theme]);
+  }, [resolvedTheme]);
 
   return null;
 }
