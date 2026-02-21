@@ -25,7 +25,7 @@ export type NavItem = { slug: Slug; label: string; icon: string; divider?: boole
 export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   en: [
     { slug: "hub", label: "Main Guide", icon: "📋" },
-    { slug: "required", label: "Required Courses", icon: "📚" },
+    { slug: "required", label: "Required Courses", icon: "✅" },
     { slug: "tips", label: "Course Design Tips", icon: "💡" },
     { slug: "strategy", label: "Registration Strategy", icon: "⚔️" },
     { slug: "stem", label: "STEM", icon: "🔬", divider: true },
@@ -35,7 +35,7 @@ export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   ],
   ko: [
     { slug: "hub", label: "메인 가이드", icon: "📋" },
-    { slug: "required", label: "필수과목", icon: "📚" },
+    { slug: "required", label: "필수과목", icon: "✅" },
     { slug: "tips", label: "수업설계 팁", icon: "💡" },
     { slug: "strategy", label: "수강신청 전략", icon: "⚔️" },
     { slug: "stem", label: "이공계", icon: "🔬", divider: true },
@@ -45,7 +45,7 @@ export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   ],
   ne: [
     { slug: "hub", label: "मुख्य गाइड", icon: "📋" },
-    { slug: "required", label: "अनिवार्य विषय", icon: "📚" },
+    { slug: "required", label: "अनिवार्य विषय", icon: "✅" },
     { slug: "tips", label: "कक्षा डिजाइन टिप्स", icon: "💡" },
     { slug: "strategy", label: "दर्ता रणनीति", icon: "⚔️" },
     { slug: "stem", label: "STEM", icon: "🔬", divider: true },
@@ -55,7 +55,7 @@ export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   ],
   id: [
     { slug: "hub", label: "Panduan Utama", icon: "📋" },
-    { slug: "required", label: "Mata Kuliah Wajib", icon: "📚" },
+    { slug: "required", label: "Mata Kuliah Wajib", icon: "✅" },
     { slug: "tips", label: "Tips Desain Kuliah", icon: "💡" },
     { slug: "strategy", label: "Strategi Pendaftaran", icon: "⚔️" },
     { slug: "stem", label: "STEM", icon: "🔬", divider: true },
@@ -65,7 +65,7 @@ export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   ],
   ja: [
     { slug: "hub", label: "メインガイド", icon: "📋" },
-    { slug: "required", label: "必修科目", icon: "📚" },
+    { slug: "required", label: "必修科目", icon: "✅" },
     { slug: "tips", label: "履修設計のコツ", icon: "💡" },
     { slug: "strategy", label: "履修登録戦略", icon: "⚔️" },
     { slug: "stem", label: "理工系", icon: "🔬", divider: true },
@@ -75,7 +75,7 @@ export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   ],
   mn: [
     { slug: "hub", label: "Гарын авлага", icon: "📋" },
-    { slug: "required", label: "Заавал хичээл", icon: "📚" },
+    { slug: "required", label: "Заавал хичээл", icon: "✅" },
     { slug: "tips", label: "Хичээлийн зөвлөгөө", icon: "💡" },
     { slug: "strategy", label: "Бүртгэлийн стратеги", icon: "⚔️" },
     { slug: "stem", label: "STEM", icon: "🔬", divider: true },
@@ -85,7 +85,7 @@ export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   ],
   ru: [
     { slug: "hub", label: "Гид", icon: "📋" },
-    { slug: "required", label: "Обязательные курсы", icon: "📚" },
+    { slug: "required", label: "Обязательные курсы", icon: "✅" },
     { slug: "tips", label: "Советы по расписанию", icon: "💡" },
     { slug: "strategy", label: "Стратегия регистрации", icon: "⚔️" },
     { slug: "stem", label: "STEM", icon: "🔬", divider: true },
@@ -95,7 +95,7 @@ export const NAV_ITEMS: Record<Lang, NavItem[]> = {
   ],
   zh: [
     { slug: "hub", label: "主指南", icon: "📋" },
-    { slug: "required", label: "必修课程", icon: "📚" },
+    { slug: "required", label: "必修课程", icon: "✅" },
     { slug: "tips", label: "选课设计技巧", icon: "💡" },
     { slug: "strategy", label: "选课策略", icon: "⚔️" },
     { slug: "stem", label: "理工科", icon: "🔬", divider: true },
