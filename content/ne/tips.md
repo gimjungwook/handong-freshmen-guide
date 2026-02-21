@@ -78,16 +78,14 @@ Periods 4 (12:00-13:00) र 5 (13:00-14:00) ले दिउँसोको ख�
 
 ### Schedule A: Humanities/Social Science Focus (सबै अंग्रेजी)
 
-```
-Period | Mon            | Tue              | Wed        | Thu            | Fri
--------|----------------|------------------|------------|----------------|------------------
-  1    |                | Bible (07)       |            |                | Bible (07)
-  2    |                | Intl Relations   | CharEd*    |                | Intl Relations
-  3    |                | Psychology       |            |                | Psychology
-  4    | D&P            |                  | Chapel     | D&P            |
-  5    | Python (05)    | Python (05)      | Chapel     | Python (05)    |
-  6    |                |                  | Chapel     |                |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | Bible (07) | | | Bible (07) |
+| 2 | | Intl Relations | CharEd* | | Intl Relations |
+| 3 | | Psychology | | | Psychology |
+| 4 | D&P | | Chapel | D&P | |
+| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 6 | | | Chapel | | |
 
 > **⚠️ CharEd conflict:** Character Education Sec 01 (Mon 5, English) Python Sec 05 (Mon 5) सँग बाझिन्छ। **समाधान:** CharEd Sec 02-06 (Wed 2, Korean) लिनुहोस्, वा Python लाई Mon 5 बाहेकको section मा सार्नुहोस्।
 
@@ -111,16 +109,14 @@ Period | Mon            | Tue              | Wed        | Thu            | Fri
 
 ### Schedule B: STEM Focus (सबै अंग्रेजी)
 
-```
-Period | Mon              | Tue              | Wed        | Thu              | Fri
--------|------------------|------------------|------------|------------------|------------------
-  1    |                  | Bible (07)       |            |                  | Bible (07)
-  2    |                  | Worldview (02)   |            |                  | Worldview (02)
-  3    | Linear Alg (01)  |                  |            | Linear Alg (01)  |
-  4    | Calculus 1 (03)  |                  | Chapel     | Calculus 1 (03)  |
-  5    | Python (05)      | Python (05)      | Chapel     | Python (05)      |
-  6    |                  |                  | Chapel     |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | Bible (07) | | | Bible (07) |
+| 2 | | Worldview (02) | | | Worldview (02) |
+| 3 | Linear Alg (01) | | | Linear Alg (01) | |
+| 4 | Calculus 1 (03) | | Chapel | Calculus 1 (03) | |
+| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 6 | | | Chapel | | |
 
 > **⚠️ CharEd conflict:** Character Education Sec 01 (Mon 5, English) Python Sec 05 (Mon 5) सँग बाझिन्छ। **समाधान:** CharEd Sec 02-06 (Wed 2, Korean) लिनुहोस्, वा Python लाई Mon 5 बाहेकको section मा सार्नुहोस्।
 

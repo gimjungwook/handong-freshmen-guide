@@ -160,15 +160,13 @@ K-pop、韓国ドラマ、K-foodなど、韓国の大衆文化がどのように
 
 STEMと人文を半々に混ぜた、最も探索的な時間割です。1学期で**4つの全く異なる分野**を体験できます：プログラミング（テクノロジー）、経済学（社会科学）、心理学（人間理解）、哲学（批判的思考）。
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     | Python (01)  | Econ (02)    | CharEd (02)  | Python (01)  | Econ (02)
- 3     |              | Psych (02)   |              |              | Psych (02)
- 4     |              |              | Chapel       |              |
- 5     | Phil (01)    |              | Chapel       | Phil (01)    |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | Python (01) | Econ (02) | CharEd (02) | Python (01) | Econ (02) |
+| 3 | | Psych (02) | | | Psych (02) |
+| 4 | | | Chapel | | |
+| 5 | Phil (01) | | Chapel | Phil (01) | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
@@ -191,15 +189,13 @@ Period | Mon          | Tue          | Wed          | Thu          | Fri
 
 STEM寄りだがまだ確信が持てない学生向け。数学（Calculus）と科学（Physics）でSTEMの基盤を作りながら、Business Administrationで1つの人文社会科学分野を試す時間割です。
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     |              | Intro Phys   | CharEd (03)  |              | Intro Phys
- 3     |              | BizAdmin(01) |              |              | BizAdmin(01)
- 4     | Calc1 (01)   | SW Intro(05) | Chapel       | Calc1 (01)   | SW Intro(05)
- 5     |              |              | Chapel       |              |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | | Intro Phys | CharEd (03) | | Intro Phys |
+| 3 | | BizAdmin(01) | | | BizAdmin(01) |
+| 4 | Calc1 (01) | SW Intro(05) | Chapel | Calc1 (01) | SW Intro(05) |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|

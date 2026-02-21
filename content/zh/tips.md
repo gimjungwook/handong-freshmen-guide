@@ -258,16 +258,14 @@ GCS 允许你**自己设计专业**，把不同学院的课程组合在一起。
 
 ### Schedule A: 人文社科方向（全英文）
 
-```
-Period | Mon            | Tue              | Wed        | Thu            | Fri
--------|----------------|------------------|------------|----------------|------------------
-  1    |                | Bible (07)       |            |                | Bible (07)
-  2    |                | Intl Relations   | CharEd*    |                | Intl Relations
-  3    |                | Psychology       |            |                | Psychology
-  4    | D&P            |                  | Chapel     | D&P            |
-  5    | Python (05)    | Python (05)      | Chapel     | Python (05)    |
-  6    |                |                  | Chapel     |                |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | Bible (07) | | | Bible (07) |
+| 2 | | Intl Relations | CharEd* | | Intl Relations |
+| 3 | | Psychology | | | Psychology |
+| 4 | D&P | | Chapel | D&P | |
+| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 6 | | | Chapel | | |
 
 > **⚠️ CharEd 冲突：** Character Education Sec 01（Mon 5，英文）与 Python Sec 05（Mon 5）时间重叠。**解决方案：** 改选 CharEd Sec 02-06（Wed 2，韩语），或把 Python 换到不在 Mon 5 的分班。
 
@@ -291,16 +289,14 @@ Period | Mon            | Tue              | Wed        | Thu            | Fri
 
 ### Schedule B: 理工科方向（全英文）
 
-```
-Period | Mon              | Tue              | Wed        | Thu              | Fri
--------|------------------|------------------|------------|------------------|------------------
-  1    |                  | Bible (07)       |            |                  | Bible (07)
-  2    |                  | Worldview (02)   |            |                  | Worldview (02)
-  3    | Linear Alg (01)  |                  |            | Linear Alg (01)  |
-  4    | Calculus 1 (03)  |                  | Chapel     | Calculus 1 (03)  |
-  5    | Python (05)      | Python (05)      | Chapel     | Python (05)      |
-  6    |                  |                  | Chapel     |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | Bible (07) | | | Bible (07) |
+| 2 | | Worldview (02) | | | Worldview (02) |
+| 3 | Linear Alg (01) | | | Linear Alg (01) | |
+| 4 | Calculus 1 (03) | | Chapel | Calculus 1 (03) | |
+| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 6 | | | Chapel | | |
 
 > **⚠️ CharEd 冲突：** Character Education Sec 01（Mon 5，英文）与 Python Sec 05（Mon 5）时间重叠。**解决方案：** 改选 CharEd Sec 02-06（Wed 2，韩语），或把 Python 换到不在 Mon 5 的分班。
 

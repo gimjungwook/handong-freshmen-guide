@@ -160,15 +160,13 @@ Handong 还提供一个独特的选择叫 **GCS（Global Convergence Studies）*
 
 理工和人文各占一半——最具探索性的课表。一个学期内，你体验**4个完全不同的领域**：编程（技术）、经济学（社会科学）、心理学（人类理解）和哲学（批判性思维）。
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     | Python (01)  | Econ (02)    | CharEd (02)  | Python (01)  | Econ (02)
- 3     |              | Psych (02)   |              |              | Psych (02)
- 4     |              |              | Chapel       |              |
- 5     | Phil (01)    |              | Chapel       | Phil (01)    |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | Python (01) | Econ (02) | CharEd (02) | Python (01) | Econ (02) |
+| 3 | | Psych (02) | | | Psych (02) |
+| 4 | | | Chapel | | |
+| 5 | Phil (01) | | Chapel | Phil (01) | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
@@ -191,15 +189,13 @@ Period | Mon          | Tue          | Wed          | Thu          | Fri
 
 面向倾向理工但还没确定的学生。这个课表用数学（Calculus）和科学（Physics）构建理工基础，同时通过 Business Administration 试吃一个人文社科领域。
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     |              | Intro Phys   | CharEd (03)  |              | Intro Phys
- 3     |              | BizAdmin(01) |              |              | BizAdmin(01)
- 4     | Calc1 (01)   | SW Intro(05) | Chapel       | Calc1 (01)   | SW Intro(05)
- 5     |              |              | Chapel       |              |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | | Intro Phys | CharEd (03) | | Intro Phys |
+| 3 | | BizAdmin(01) | | | BizAdmin(01) |
+| 4 | Calc1 (01) | SW Intro(05) | Chapel | Calc1 (01) | SW Intro(05) |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|

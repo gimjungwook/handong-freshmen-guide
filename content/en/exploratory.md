@@ -160,15 +160,13 @@ The schedules below show how you might actually arrange required courses + explo
 
 A half-and-half mix of STEM and humanities — the most exploratory schedule. In a single semester, you experience **4 completely different fields**: programming (technology), economics (social science), psychology (human understanding), and philosophy (critical thinking).
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     | Python (01)  | Econ (02)    | CharEd (02)  | Python (01)  | Econ (02)
- 3     |              | Psych (02)   |              |              | Psych (02)
- 4     |              |              | Chapel       |              |
- 5     | Phil (01)    |              | Chapel       | Phil (01)    |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | Python (01) | Econ (02) | CharEd (02) | Python (01) | Econ (02) |
+| 3 | | Psych (02) | | | Psych (02) |
+| 4 | | | Chapel | | |
+| 5 | Phil (01) | | Chapel | Phil (01) | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
@@ -191,15 +189,13 @@ The core strength of this schedule is **breadth of comparison.** By the end of t
 
 For students who are leaning toward STEM but aren't yet sure. This schedule builds a STEM foundation with math (Calculus) and science (Physics) while sampling one humanities/social science field through Business Administration.
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     |              | Intro Phys   | CharEd (03)  |              | Intro Phys
- 3     |              | BizAdmin(01) |              |              | BizAdmin(01)
- 4     | Calc1 (01)   | SW Intro(05) | Chapel       | Calc1 (01)   | SW Intro(05)
- 5     |              |              | Chapel       |              |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | | Intro Phys | CharEd (03) | | Intro Phys |
+| 3 | | BizAdmin (01) | | | BizAdmin (01) |
+| 4 | Calc1 (01) | SW Intro (05) | Chapel | Calc1 (01) | SW Intro (05) |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|

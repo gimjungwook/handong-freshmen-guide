@@ -158,15 +158,13 @@ K-pop, K-drama, K-food болон бусад Солонгосын алдарта
 
 STEM ба хүмүүнлэгийн тал тал хольсон — хамгийн өргөн судалгааны хуваарь. Нэг улиралд **4 бүрэн ялгаатай чиглэл** мэдрэнэ: програмчлал (технологи), эдийн засаг (нийгмийн шинжлэх ухаан), сэтгэл зүй (хүнийг ойлгох), философи (шүүмжлэлт сэтгэлгээ).
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     | Python (01)  | Econ (02)    | CharEd (02)  | Python (01)  | Econ (02)
- 3     |              | Psych (02)   |              |              | Psych (02)
- 4     |              |              | Chapel       |              |
- 5     | Phil (01)    |              | Chapel       | Phil (01)    |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | Python (01) | Econ (02) | CharEd (02) | Python (01) | Econ (02) |
+| 3 | | Psych (02) | | | Psych (02) |
+| 4 | | | Chapel | | |
+| 5 | Phil (01) | | Chapel | Phil (01) | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
@@ -189,15 +187,13 @@ Period | Mon          | Tue          | Wed          | Thu          | Fri
 
 STEM тийш хандаж байгаа боловч одоогоор баттай бус оюутнуудад. Энэ хуваарь нь математик (Calculus), шинжлэх ухаан (Physics)-аар STEM суурийг тавьж, нэг хүмүүнлэгийн чиглэлийг Business Administration-аар туршин үзнэ.
 
-```
-Period | Mon          | Tue          | Wed          | Thu          | Fri
--------|--------------|--------------|--------------|--------------|-------------
- 2     |              | Intro Phys   | CharEd (03)  |              | Intro Phys
- 3     |              | BizAdmin(01) |              |              | BizAdmin(01)
- 4     | Calc1 (01)   | SW Intro(05) | Chapel       | Calc1 (01)   | SW Intro(05)
- 5     |              |              | Chapel       |              |
- 6     |              |              | Chapel       |              |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | | Intro Phys | CharEd (03) | | Intro Phys |
+| 3 | | BizAdmin(01) | | | BizAdmin(01) |
+| 4 | Calc1 (01) | SW Intro(05) | Chapel | Calc1 (01) | SW Intro(05) |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|

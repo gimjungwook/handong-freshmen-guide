@@ -246,16 +246,14 @@ Berikut **contoh jadwal** yang dibangun dari mata kuliah nyata yang ditawarkan d
 
 **Strategi**: Calculus + Linear Algebra + Python untuk membangun fondasi matematika dan coding secara bersamaan
 
-```
-Period │  Mon              │  Tue              │  Wed     │  Thu              │  Fri
-──────┼───────────────────┼───────────────────┼──────────┼───────────────────┼───────────────────
-  1   │                   │                   │          │                   │
-  2   │                   │ Python(Sec.02)    │          │                   │ Python(Sec.02)
-  3   │ Linear Alg(Sec.01)│                   │          │ Linear Alg(Sec.01)│
-  4   │ Calc 1(Sec.01)    │                   │  Chapel  │ Calc 1(Sec.01)    │
-  5   │                   │                   │  Chapel  │                   │
-  6   │                   │                   │  Chapel  │                   │
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | | | | |
+| 2 | | Python(Sec.02) | | | Python(Sec.02) |
+| 3 | Linear Alg(Sec.01) | | | Linear Alg(Sec.01) | |
+| 4 | Calc 1(Sec.01) | | Chapel | Calc 1(Sec.01) | |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Professor | Notes |
 |--------|------|---------|-----------|-------|
@@ -276,16 +274,14 @@ Period │  Mon              │  Tue              │  Wed     │  Thu        
 
 **Strategi**: Calculus + Physics + C Programming untuk membangun fondasi teknik yang kokoh
 
-```
-Period │  Mon              │  Tue              │  Wed     │  Thu              │  Fri
-──────┼───────────────────┼───────────────────┼──────────┼───────────────────┼───────────────────
-  1   │                   │                   │          │                   │
-  2   │ Physics 1(Sec.01) │ C Prog.(Sec.01)   │          │ Physics 1(Sec.01) │ C Prog.(Sec.01)
-  3   │                   │                   │          │                   │
-  4   │ Calc 1(Sec.01)    │                   │  Chapel  │ Calc 1(Sec.01)    │
-  5   │                   │                   │  Chapel  │                   │
-  6   │                   │                   │  Chapel  │                   │
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | | | | |
+| 2 | Physics 1(Sec.01) | C Prog.(Sec.01) | | Physics 1(Sec.01) | C Prog.(Sec.01) |
+| 3 | | | | | |
+| 4 | Calc 1(Sec.01) | | Chapel | Calc 1(Sec.01) | |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Professor | Notes |
 |--------|------|---------|-----------|-------|

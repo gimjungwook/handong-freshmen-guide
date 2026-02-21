@@ -290,15 +290,13 @@ Introduction to Law 侧重法律推理的基本功，而这门课涉及日常生
 
 ### 📋 Schedule A: 商科/经济学探索（韩语为主）
 
-```
-Period | Mon              | Tue             | Wed       | Thu              | Fri
--------|------------------|-----------------|-----------|------------------|----------------
- 2     | Business(02)     | Economics(02)    | Character | Business(02)     | Economics(02)
- 3     | Writing Fund.    |                 |           |                  |
- 4     | Writing Fund.    | SW Intro(05)    | Chapel    |                  | SW Intro(05)
- 5     |                  |                 | Chapel    |                  |
- 6     |                  |                 | Chapel    |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | Business(02) | Economics(02) | Character | Business(02) | Economics(02) |
+| 3 | Writing Fund. | | | | |
+| 4 | Writing Fund. | SW Intro(05) | Chapel | | SW Intro(05) |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
@@ -318,15 +316,13 @@ Period | Mon              | Tue             | Wed       | Thu              | Fri
 
 ### 📋 Schedule B: 国际/心理学探索（英文为主，推荐给国际学生）
 
-```
-Period | Mon              | Tue                 | Wed       | Thu              | Fri
--------|------------------|---------------------|-----------|------------------|-------------------
- 2     |                  | Intl Relations(01)  | Character |                  | Intl Relations(01)
- 3     |                  | Psychology(02)      |           |                  | Psychology(02)
- 4     | D&P(01)          |                     | Chapel    | D&P(01)          |
- 5     |                  |                     | Chapel    |                  |
- 6     |                  |                     | Chapel    |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | | Intl Relations(01) | Character | | Intl Relations(01) |
+| 3 | | Psychology(02) | | | Psychology(02) |
+| 4 | D&P(01) | | Chapel | D&P(01) | |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|

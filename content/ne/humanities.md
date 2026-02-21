@@ -290,15 +290,13 @@ Statistical theory भन्दा बाहिर गएर computer प्र�
 
 ### Schedule A: Business/Economics अन्वेषण (Korean-केन्द्रित)
 
-```
-Period | Mon              | Tue             | Wed       | Thu              | Fri
--------|------------------|-----------------|-----------|------------------|----------------
- 2     | Business(02)     | Economics(02)    | Character | Business(02)     | Economics(02)
- 3     | Writing Fund.    |                 |           |                  |
- 4     | Writing Fund.    | SW Intro(05)    | Chapel    |                  | SW Intro(05)
- 5     |                  |                 | Chapel    |                  |
- 6     |                  |                 | Chapel    |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | Business(02) | Economics(02) | Character | Business(02) | Economics(02) |
+| 3 | Writing Fund. | | | | |
+| 4 | Writing Fund. | SW Intro(05) | Chapel | | SW Intro(05) |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
@@ -318,15 +316,13 @@ Period | Mon              | Tue             | Wed       | Thu              | Fri
 
 ### Schedule B: International/Psychology अन्वेषण (English-केन्द्रित, अन्तर्राष्ट्रिय विद्यार्थीहरूको लागि सिफारिस)
 
-```
-Period | Mon              | Tue                 | Wed       | Thu              | Fri
--------|------------------|---------------------|-----------|------------------|-------------------
- 2     |                  | Intl Relations(01)  | Character |                  | Intl Relations(01)
- 3     |                  | Psychology(02)      |           |                  | Psychology(02)
- 4     | D&P(01)          |                     | Chapel    | D&P(01)          |
- 5     |                  |                     | Chapel    |                  |
- 6     |                  |                     | Chapel    |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | | Intl Relations(01) | Character | | Intl Relations(01) |
+| 3 | | Psychology(02) | | | Psychology(02) |
+| 4 | D&P(01) | | Chapel | D&P(01) | |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|

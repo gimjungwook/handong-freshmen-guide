@@ -246,16 +246,14 @@ General Biology нужен для поступления на специальн
 
 **Стратегия**: Calculus + Linear Algebra + Python — одновременное построение математической и программистской базы
 
-```
-Period │  Mon              │  Tue              │  Wed     │  Thu              │  Fri
-──────┼───────────────────┼───────────────────┼──────────┼───────────────────┼───────────────────
-  1   │                   │                   │          │                   │
-  2   │                   │ Python(Sec.02)    │          │                   │ Python(Sec.02)
-  3   │ Linear Alg(Sec.01)│                   │          │ Linear Alg(Sec.01)│
-  4   │ Calc 1(Sec.01)    │                   │  Chapel  │ Calc 1(Sec.01)    │
-  5   │                   │                   │  Chapel  │                   │
-  6   │                   │                   │  Chapel  │                   │
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | | | | |
+| 2 | | Python(Sec.02) | | | Python(Sec.02) |
+| 3 | Linear Alg(Sec.01) | | | Linear Alg(Sec.01) | |
+| 4 | Calc 1(Sec.01) | | Chapel | Calc 1(Sec.01) | |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Professor | Notes |
 |--------|------|---------|-----------|-------|
@@ -276,16 +274,14 @@ Period │  Mon              │  Tue              │  Wed     │  Thu        
 
 **Стратегия**: Calculus + Physics + C Programming — железный инженерный фундамент
 
-```
-Period │  Mon              │  Tue              │  Wed     │  Thu              │  Fri
-──────┼───────────────────┼───────────────────┼──────────┼───────────────────┼───────────────────
-  1   │                   │                   │          │                   │
-  2   │ Physics 1(Sec.01) │ C Prog.(Sec.01)   │          │ Physics 1(Sec.01) │ C Prog.(Sec.01)
-  3   │                   │                   │          │                   │
-  4   │ Calc 1(Sec.01)    │                   │  Chapel  │ Calc 1(Sec.01)    │
-  5   │                   │                   │  Chapel  │                   │
-  6   │                   │                   │  Chapel  │                   │
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | | | | |
+| 2 | Physics 1(Sec.01) | C Prog.(Sec.01) | | Physics 1(Sec.01) | C Prog.(Sec.01) |
+| 3 | | | | | |
+| 4 | Calc 1(Sec.01) | | Chapel | Calc 1(Sec.01) | |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Professor | Notes |
 |--------|------|---------|-----------|-------|

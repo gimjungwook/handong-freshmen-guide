@@ -290,15 +290,13 @@ Dua contoh jadwal di bawah ini disesuaikan dengan minat yang berbeda. Kamu tidak
 
 ### Schedule A: Eksplorasi Bisnis/Ekonomi (Fokus Bahasa Korea)
 
-```
-Period | Mon              | Tue             | Wed       | Thu              | Fri
--------|------------------|-----------------|-----------|------------------|----------------
- 2     | Business(02)     | Economics(02)    | Character | Business(02)     | Economics(02)
- 3     | Writing Fund.    |                 |           |                  |
- 4     | Writing Fund.    | SW Intro(05)    | Chapel    |                  | SW Intro(05)
- 5     |                  |                 | Chapel    |                  |
- 6     |                  |                 | Chapel    |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | Business(02) | Economics(02) | Character | Business(02) | Economics(02) |
+| 3 | Writing Fund. | | | | |
+| 4 | Writing Fund. | SW Intro(05) | Chapel | | SW Intro(05) |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|
@@ -318,15 +316,13 @@ Period | Mon              | Tue             | Wed       | Thu              | Fri
 
 ### Schedule B: Eksplorasi Internasional/Psikologi (Fokus Bahasa Inggris, direkomendasikan untuk mahasiswa internasional)
 
-```
-Period | Mon              | Tue                 | Wed       | Thu              | Fri
--------|------------------|---------------------|-----------|------------------|-------------------
- 2     |                  | Intl Relations(01)  | Character |                  | Intl Relations(01)
- 3     |                  | Psychology(02)      |           |                  | Psychology(02)
- 4     | D&P(01)          |                     | Chapel    | D&P(01)          |
- 5     |                  |                     | Chapel    |                  |
- 6     |                  |                     | Chapel    |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 2 | | Intl Relations(01) | Character | | Intl Relations(01) |
+| 3 | | Psychology(02) | | | Psychology(02) |
+| 4 | D&P(01) | | Chapel | D&P(01) | |
+| 5 | | | Chapel | | |
+| 6 | | | Chapel | | |
 
 | Course | Code | Credits | Notes |
 |--------|------|---------|-------|

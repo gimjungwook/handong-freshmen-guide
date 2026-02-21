@@ -79,16 +79,14 @@ Below are sample timetables built exclusively from **100% English sections**. Th
 
 ### Schedule A: Humanities/Social Science Focus (All English)
 
-```
-Period | Mon            | Tue              | Wed        | Thu            | Fri
--------|----------------|------------------|------------|----------------|------------------
-  1    |                | Bible (07)       |            |                | Bible (07)
-  2    |                | Intl Relations   | CharEd*    |                | Intl Relations
-  3    |                | Psychology       |            |                | Psychology
-  4    | D&P            |                  | Chapel     | D&P            |
-  5    | Python (05)    | Python (05)      | Chapel     | Python (05)    |
-  6    |                |                  | Chapel     |                |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | Bible (07) | | | Bible (07) |
+| 2 | | Intl Relations | CharEd* | | Intl Relations |
+| 3 | | Psychology | | | Psychology |
+| 4 | D&P | | Chapel | D&P | |
+| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 6 | | | Chapel | | |
 
 > **⚠️ CharEd conflict:** Character Education Sec 01 (Mon 5, English) conflicts with Python Sec 05 (Mon 5). **Resolution:** Take CharEd Sec 02-06 (Wed 2, Korean) instead, or swap Python to a non-Mon 5 section.
 
@@ -112,16 +110,14 @@ Period | Mon            | Tue              | Wed        | Thu            | Fri
 
 ### Schedule B: STEM Focus (All English)
 
-```
-Period | Mon              | Tue              | Wed        | Thu              | Fri
--------|------------------|------------------|------------|------------------|------------------
-  1    |                  | Bible (07)       |            |                  | Bible (07)
-  2    |                  | Worldview (02)   |            |                  | Worldview (02)
-  3    | Linear Alg (01)  |                  |            | Linear Alg (01)  |
-  4    | Calculus 1 (03)  |                  | Chapel     | Calculus 1 (03)  |
-  5    | Python (05)      | Python (05)      | Chapel     | Python (05)      |
-  6    |                  |                  | Chapel     |                  |
-```
+| Period | Mon | Tue | Wed | Thu | Fri |
+|--------|-----|-----|-----|-----|-----|
+| 1 | | Bible (07) | | | Bible (07) |
+| 2 | | Worldview (02) | | | Worldview (02) |
+| 3 | Linear Alg (01) | | | Linear Alg (01) | |
+| 4 | Calculus 1 (03) | | Chapel | Calculus 1 (03) | |
+| 5 | Python (05) | Python (05) | Chapel | Python (05) | |
+| 6 | | | Chapel | | |
 
 > **⚠️ CharEd conflict:** Character Education Sec 01 (Mon 5, English) conflicts with Python Sec 05 (Mon 5). **Resolution:** Take CharEd Sec 02-06 (Wed 2, Korean) instead, or swap Python to a non-Mon 5 section.
 
