@@ -4,14 +4,14 @@ import { LANGS, LANG_LABELS, NAV_ITEMS, getFlagUrl, type Lang } from "@/lib/cons
 import { useRouter, usePathname } from "next/navigation";
 
 const PROMO_TEXT: Record<Lang, { title: string; desc: string }> = {
-  ko: { title: "AI 활용법 강의 보러가기", desc: "선배가 만든 AI 활용 강의로 대학생활을 더 스마트하게!" },
-  en: { title: "Learn to use AI effectively", desc: "A course by a Handong senior on leveraging AI!" },
-  ja: { title: "AI活用講座を見る", desc: "先輩が作ったAI活用講座で大学生活をスマートに！" },
-  zh: { title: "AI活用课程", desc: "学长制作的AI课程，让大学生活更高效！" },
-  mn: { title: "AI ашиглах сургалт", desc: "Ахлах оюутан бүтээсэн AI сургалт!" },
-  ru: { title: "Курс по использованию AI", desc: "Курс от старшекурсника по AI!" },
-  ne: { title: "AI सिक्नुहोस्", desc: "दाइले बनाएको AI कोर्स!" },
-  id: { title: "Belajar pakai AI", desc: "Kursus AI dari kakak tingkat!" },
+  ko: { title: "이 가이드, AI가 만들었다면 믿어지나요?", desc: "이 사이트 만든 선배가 AI 활용법도 가르쳐줍니다 →" },
+  en: { title: "This guide was built with AI. Wanna learn how?", desc: "The senior who made this site teaches AI skills too →" },
+  ja: { title: "このガイド、AIで作ったって信じる？", desc: "作った先輩がAI活用法も教えてるよ →" },
+  zh: { title: "这个指南是用AI做的，信吗？", desc: "做这个网站的学长也教AI技巧 →" },
+  mn: { title: "Энэ гарын авлагыг AI-аар хийсэн гэж итгэх үү?", desc: "Үүнийг бүтээсэн ахлах оюутан AI заадаг →" },
+  ru: { title: "Этот гайд сделан с помощью AI. Хочешь научиться?", desc: "Автор этого сайта ещё и учит пользоваться AI →" },
+  ne: { title: "यो गाइड AI ले बनाएको हो, विश्वास लाग्छ?", desc: "बनाउने दाइले AI पनि सिकाउँछन् →" },
+  id: { title: "Guide ini dibuat pakai AI. Mau belajar caranya?", desc: "Kakak yang bikin ini juga ngajarin AI lho →" },
 };
 
 export default function LandingHeader({ lang }: { lang: Lang }) {
@@ -80,7 +80,7 @@ export default function LandingHeader({ lang }: { lang: Lang }) {
         rel="noopener noreferrer"
         className="flex items-center gap-3 px-4 py-3 rounded-lg border border-[var(--primary)]/30 bg-[var(--primary)]/5 hover:bg-[var(--primary)]/10 transition-all group"
       >
-        <span className="text-2xl">🚀</span>
+        <span className="text-2xl">👀</span>
         <div className="min-w-0 flex-1">
           <div className="text-sm font-semibold text-[var(--primary)] group-hover:underline">
             {promo.title} →

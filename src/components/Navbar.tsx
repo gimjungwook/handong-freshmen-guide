@@ -232,8 +232,8 @@ export default function Navbar({ lang }: { lang: Lang }) {
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-2 py-1.5 rounded text-sm text-[var(--primary)] hover:bg-[var(--sidebar-hover)] font-medium transition-colors"
           >
-            <span className="text-base shrink-0">🚀</span>
-            {{ en: "AI Course for Students", ko: "AI 활용 강의", ne: "AI कोर्स", id: "Kursus AI", ja: "AI活用講座", mn: "AI сургалт", ru: "Курс по AI", zh: "AI课程" }[lang] || "AI Course"}
+            <span className="text-base shrink-0">👀</span>
+            {{ en: "Made by this guy →", ko: "만든 사람이 또 만든 거 →", ne: "बनाउने दाइको अर्को →", id: "Karya kakak yang sama →", ja: "作った人の別作品 →", mn: "Зохиогчийн өөр бүтээл →", ru: "Ещё от автора →", zh: "作者的另一个作品 →" }[lang] || "By the same maker →"}
           </a>
         </div>
 
