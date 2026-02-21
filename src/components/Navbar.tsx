@@ -226,16 +226,25 @@ export default function Navbar({ lang }: { lang: Lang }) {
             </svg>
             {{ en: "Dorm Essentials", ko: "기숙사 생필품", ne: "Dorm Essentials", id: "Dorm Essentials", ja: "寮の必需品", mn: "Дотуур байрны хэрэгсэл", ru: "Вещи для общежития", zh: "宿舍必备" }[lang] || "Dorm Essentials"}
           </a>
-          <a
-            href="https://getitdone-nous.vercel.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-            title={{ en: "Built by the same 선배 who made this guide — AI skills for assignments, schedules & studying", ko: "이 가이드 만든 선배가 직접 만든 플랫폼 — 과제, 시간표, 공부에 AI 활용하기", ja: "このガイドを作った先輩のプラットフォーム — 課題・時間割・勉強にAIを活用", zh: "指南制作者打造的平台 — 用AI搞定作业、课表、学习", mn: "Энэ гарын авлагыг бүтээсэн ахлах оюутны платформ", ru: "Платформа от создателя этого гайда — AI для учёбы", ne: "यो गाइड बनाउने दाइको प्लाटफर्म — AI ले पढाइ level up", id: "Dibuat oleh kakak yang bikin guide ini — skill AI untuk kuliah" }[lang] || "AI platform by the guide creator"}
-            className="flex items-center gap-2 px-2 py-1.5 rounded text-sm text-[var(--primary)] hover:bg-[var(--sidebar-hover)] font-medium transition-colors"
-          >
-            <span className="text-base shrink-0">🔥</span>
-            {{ en: "AI skills for freshmen", ko: "새내기 필수 AI 활용법", ne: "नयाँ विद्यार्थी AI सीप", id: "Skill AI buat maba", ja: "新入生のAI活用", mn: "Шинэ оюутны AI", ru: "AI для первокурсника", zh: "新生AI技能" }[lang] || "AI for freshmen"}
-          </a>
+          <div className="relative group/promo">
+            <a
+              href="https://getitdone-nous.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 px-2 py-1.5 rounded text-sm text-[var(--primary)] hover:bg-[var(--sidebar-hover)] font-medium transition-colors"
+            >
+              <span className="text-base shrink-0">🔥</span>
+              {{ en: "AI skills for freshmen", ko: "새내기 필수 AI 활용법", ne: "नयाँ विद्यार्थी AI सीप", id: "Skill AI buat maba", ja: "新入生のAI活用", mn: "Шинэ оюутны AI", ru: "AI для первокурсника", zh: "新生AI技能" }[lang] || "AI for freshmen"}
+            </a>
+            <div className="invisible group-hover/promo:visible opacity-0 group-hover/promo:opacity-100 transition-all duration-150 absolute bottom-full left-1 right-1 mb-1 px-3 py-2 rounded-lg border border-[var(--primary)]/20 bg-[var(--surface)] shadow-lg z-50 pointer-events-none">
+              <p className="text-xs text-[var(--foreground)] leading-relaxed">
+                {{ en: "Assignments, schedules, studying — level up with AI", ko: "과제, 시간표, 공부 — AI로 대학생활 한 단계 업그레이드", ja: "課題・時間割・勉強 — AIで大学生活をレベルアップ", zh: "作业、课表、学习 — 用AI让大学生活升级", mn: "Даалгавар, хуваарь, суралцах — AI-аар дараагийн түвшинд", ru: "Задания, расписание, учёба — прокачайся с AI", ne: "Assignment, तालिका, पढाइ — AI ले level up", id: "Tugas, jadwal, belajar — upgrade dengan AI" }[lang] || "Level up with AI"}
+              </p>
+              <p className="text-[10px] text-[var(--muted)] mt-1">
+                {{ en: "Built by the same 선배 who made this guide 😉", ko: "💬 이 가이드 만든 선배가 직접 만든 플랫폼이에요", ja: "💬 このガイドを作った先輩のプラットフォームです", zh: "💬 这个指南的制作者亲手打造的平台", mn: "💬 Энэ гарын авлагыг бүтээсэн ахлах оюутны платформ", ru: "💬 Платформа от создателя этого гайда", ne: "💬 यो गाइड बनाउने दाइको प्लाटफर्म", id: "💬 Dibuat oleh kakak yang bikin guide ini" }[lang] || "Built by the guide creator"}
+              </p>
+            </div>
+          </div>
         </div>
 
         {/* Bottom controls */}
