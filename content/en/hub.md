@@ -2,7 +2,7 @@
 
 > A comprehensive course registration guide for international freshmen at Handong Global University.
 > This document reorganizes key information from the official course catalog at a freshman-friendly level.
-> Korean version: [[2026-1 새내기 수강신청 가이드 Hub|2026-1 새내기 수강신청 가이드]]
+> 🌐 **Other Languages:** [한국어](/ko) · [日本語](/ja) · [中文](/zh) · [नेपाली](/ne) · [Indonesia](/id) · [Монгол](/mn) · [Русский](/ru)
 
 ---
 

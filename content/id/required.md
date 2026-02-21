@@ -1,16 +1,16 @@
 # Mata Kuliah Wajib untuk Mahasiswa Baru
 
-Terlepas dari jurusan yang Anda tuju, apakah Anda cenderung ke STEM atau humaniora, dan terlepas dari kewarganegaraan Anda, **setiap mahasiswa baru wajib menyelesaikan** mata kuliah berikut. Susun jadwal Anda berdasarkan mata kuliah ini terlebih dahulu, lalu isi sisanya.
+Apapun jurusan yang kamu tuju — STEM atau humaniora — dan dari negara manapun kamu berasal, **setiap mahasiswa baru wajib menyelesaikan** mata kuliah berikut. Susun jadwalmu berdasarkan mata kuliah ini dulu, baru isi sisanya.
 
 ---
 
 ## Chapel 1 (0 SKS, setiap semester)
 
-Chapel tidak memiliki SKS tetapi **wajib setiap semester**. Anda harus menyelesaikan Chapel 1 sampai Chapel 6 selama enam semester, dan kegagalan melakukannya akan mencegah Anda lulus.
+Chapel tidak ada SKS-nya, tapi **wajib setiap semester**. Kamu harus menyelesaikan Chapel 1 sampai Chapel 6 selama enam semester — kalau tidak, kamu tidak bisa lulus.
 
-Kesalahan mahasiswa baru paling umum dengan Chapel: banyak yang mengira mereka cukup hadir tanpa mendaftar. **Anda harus mendaftarkan Chapel di sistem pendaftaran mata kuliah.** Setiap tahun, ada mahasiswa yang hadir Chapel dengan setia selama satu semester penuh, hanya untuk mengetahui di akhir bahwa mereka tidak pernah mendaftar — dan kehadiran mereka tidak dihitung. Kesalahan ini sangat sulit diperbaiki.
+Kesalahan paling umum mahasiswa baru soal Chapel: banyak yang kira cukup datang hadir tanpa perlu daftar. **Salah besar — kamu harus mendaftarkan Chapel di sistem pendaftaran mata kuliah.** Setiap tahun ada mahasiswa yang rajin hadir Chapel selama satu semester penuh, tapi di akhir semester baru sadar mereka tidak pernah mendaftar — dan kehadirannya tidak dihitung. Kesalahan ini sangat susah diperbaiki.
 
-Kehadiran Chapel menggunakan **sistem tag kode QR**. Anda harus datang tepat waktu dan memindai kode QR. Jika Anda melewatkan pemindaian, koreksi retroaktif hampir mustahil. Jangan terlambat.
+Kehadiran Chapel menggunakan **sistem scan kode QR**. Kamu harus datang tepat waktu dan scan kode QR-nya. Kalau terlewat, koreksi retroaktif hampir mustahil dilakukan. Jangan telat.
 
 > **Semester Genap 2026:** Chapel 1 (GEK10001), Section 01 — Wed periods 4, 5, 6 (Hyoam Main Building) / Bahasa: Korean (0% English)
 
@@ -18,7 +18,7 @@ Kehadiran Chapel menggunakan **sistem tag kode QR**. Anda harus datang tepat wak
 
 ## Community Leadership Training 1 (0.5 SKS, setiap semester)
 
-Seperti Chapel, mata kuliah ini wajib setiap semester. Fokusnya pada kepemimpinan dan kerja tim dalam komunitas tempat tinggal Anda. **Kesalahan pendaftaran yang sama terjadi di sini** — mahasiswa berpartisipasi dalam pertemuan tim mingguan sepanjang semester tanpa benar-benar mendaftar di sistem. Daftarkan!
+Sama seperti Chapel, mata kuliah ini wajib setiap semester. Fokusnya pada kepemimpinan dan kerja tim di komunitas asramamu. **Kesalahan pendaftaran yang sama juga sering terjadi di sini** — mahasiswa ikut pertemuan tim mingguan sepanjang semester tanpa benar-benar mendaftar di sistem. Jangan sampai kamu melakukan hal yang sama — daftar sekarang!
 
 > **Semester Genap 2026:** Community Leadership Training 1 (GEK10008), Section 01 — Waktu TBA (diumumkan kemudian)
 
@@ -26,7 +26,7 @@ Seperti Chapel, mata kuliah ini wajib setiap semester. Fokusnya pada kepemimpina
 
 ## Handong Character Education (1 SKS, satu kali)
 
-Ini adalah mata kuliah inti dalam filosofi pendidikan karakter Handong. Tersedia beberapa kelas. **Section 01 diajarkan 100% dalam Bahasa Inggris**, menjadikannya pilihan ideal untuk mahasiswa internasional.
+Ini adalah mata kuliah inti dalam filosofi pendidikan karakter Handong. Ada beberapa pilihan kelas. **Section 01 diajarkan 100% dalam Bahasa Inggris**, sehingga jadi pilihan ideal untuk mahasiswa internasional.
 
 > **Kelas Semester Genap 2026:**
 
@@ -39,17 +39,17 @@ Ini adalah mata kuliah inti dalam filosofi pendidikan karakter Handong. Tersedia
 | 05 | 최혜봉 | Wed 2 | 0% | Korean |
 | 06 | 윤상헌 | Wed 2 | 0% | Korean |
 
-Section 02 sampai 06 semua berlangsung pada Wednesday period 2, jadi perbedaannya hanya pada dosen. Jika Anda nyaman dengan Bahasa Korea, tanyakan kepada 섬김이 (mentor mahasiswa) Anda tentang gaya mengajar masing-masing dosen sebelum memilih.
+Section 02 sampai 06 semuanya di Wednesday period 2, jadi perbedaannya hanya pada dosen. Kalau kamu sudah nyaman berbahasa Korea, coba tanyakan ke 섬김이 (student mentor) kamu tentang gaya mengajar masing-masing dosen sebelum memilih.
 
 ---
 
 ## Christian Faith Foundation (CF1) — 2 SKS
 
-Anda harus menyelesaikan satu mata kuliah dari kategori ini: Understanding the Bible, Bible and Life, atau Bible and Spiritual Growth. Mata kuliah ini dianggap setara, jadi Anda hanya perlu mengambil satu.
+Kamu harus menyelesaikan satu mata kuliah dari kategori ini: Understanding the Bible, Bible and Life, atau Bible and Spiritual Growth. Mata kuliah-mata kuliah ini setara, jadi kamu hanya perlu ambil salah satu.
 
 ### Understanding the Bible (GEK20058) — 15 Kelas
 
-Ini adalah mata kuliah yang paling banyak ditawarkan, dengan 15 kelas tersedia, sehingga paling mudah dimasukkan ke jadwal apa pun.
+Ini mata kuliah yang paling banyak ditawarkan — ada 15 kelas — sehingga paling gampang masuk ke jadwal apapun.
 
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
@@ -69,7 +69,7 @@ Ini adalah mata kuliah yang paling banyak ditawarkan, dengan 15 kelas tersedia, 
 | 14 | 한은선 | Mon 2, Thu 2 | 0% | |
 | 15 | 한은선 | Mon 3, Thu 3 | 0% | |
 
-**Untuk mahasiswa internasional**: Pilih Section 07 (Joshua Kim, 100% English), Section 11 (최성호, 100% English), atau Section 12 (최성호, 100% English). Perlu diketahui bahwa kelas berbahasa Inggris populer dan bisa penuh dengan cepat saat pra-pendaftaran — selalu siapkan rencana cadangan.
+**Untuk mahasiswa internasional**: Pilih Section 07 (Joshua Kim, 100% English), Section 11 (최성호, 100% English), atau Section 12 (최성호, 100% English). Perlu diingat bahwa kelas berbahasa Inggris ini populer dan bisa cepat penuh saat pra-pendaftaran — selalu siapkan rencana cadangan.
 
 ### Understanding Christianity (GEK20059)
 
@@ -78,13 +78,13 @@ Ini adalah mata kuliah yang paling banyak ditawarkan, dengan 15 kelas tersedia, 
 | **01** | **Gregory T. Brown** | **Mon 2, Thu 2** | **100%** | **English** |
 | **02** | **Gregory T. Brown** | **Mon 3, Thu 3** | **100%** | **English** |
 
-Kedua kelas diajarkan sepenuhnya dalam Bahasa Inggris. Ini adalah alternatif yang sangat baik jika kelas Understanding the Bible berbahasa Inggris sudah penuh.
+Kedua kelas diajarkan sepenuhnya dalam Bahasa Inggris. Ini alternatif yang sangat bagus kalau kelas Understanding the Bible berbahasa Inggris sudah penuh.
 
 ---
 
 ## Worldview — 2 SKS
 
-Anda harus mengambil satu mata kuliah dari kategori ini: Creation and Evolution, Christians and Mission, atau Christian Worldview. Masing-masing memiliki kelas berbahasa Korea dan Inggris.
+Kamu harus mengambil satu mata kuliah dari kategori ini: Creation and Evolution, Christians and Mission, atau Christian Worldview. Masing-masing punya kelas berbahasa Korea dan Inggris.
 
 | Course | Section | Professor | Time | English % |
 |--------|---------|-----------|------|-----------|
@@ -95,13 +95,13 @@ Anda harus mengambil satu mata kuliah dari kategori ini: Creation and Evolution,
 | Christian Worldview (GEK20011) | 01 | 최용준 | Mon 3, Thu 3 | 0% |
 | **Christian Worldview (GEK20011)** | **02** | **최용준** | **Tue 2, Fri 2** | **100%** |
 
-**Perhatikan konflik waktu:** Beberapa mata kuliah berkumpul di slot Wed 2-3. Jika Anda mengambil Character Education kelas 02-06 (Wed 2), Anda tidak bisa juga mengambil mata kuliah Worldview di Wed 2-3. Rencanakan dengan matang.
+**Perhatikan konflik waktu:** Beberapa mata kuliah menumpuk di slot Wed 2-3. Kalau kamu ambil Character Education kelas 02-06 (Wed 2), kamu tidak bisa ambil mata kuliah Worldview yang juga di Wed 2-3 secara bersamaan. Rencanakan dengan matang.
 
 ---
 
-## Social Service (1 SKS x 2 mata kuliah total)
+## Social Service (1 SKS x 2 mata kuliah)
 
-Anda harus menyelesaikan dua mata kuliah Social Service (dari Social Service 1-4) sebelum lulus. Disarankan mengambil satu per semester.
+Kamu harus menyelesaikan dua mata kuliah Social Service (dari Social Service 1-4) sebelum lulus. Disarankan ambil satu per semester.
 
 > **Semester Genap 2026:** Social Service 1 (GEK10046) Section 01, Social Service 2 (GEK20046) Section 01 — Tidak ada waktu kelas tetap (berbasis praktik)
 
@@ -109,7 +109,7 @@ Anda harus menyelesaikan dua mata kuliah Social Service (dari Social Service 1-4
 
 ## Persyaratan ICT (7 SKS untuk SEMUA mahasiswa)
 
-Setiap mahasiswa Handong, terlepas dari jurusan, harus menyelesaikan **7 SKS mata kuliah ICT Convergence**: 5 SKS Pemrograman + 2 SKS Aplikasi. Ini tidak opsional, dan berlaku sama untuk mahasiswa humaniora dan ilmu sosial.
+Setiap mahasiswa Handong, apapun jurusannya, wajib menyelesaikan **7 SKS mata kuliah ICT Convergence**: 5 SKS pemrograman + 2 SKS aplikasi. Ini bukan opsional — berlaku sama untuk mahasiswa humaniora dan ilmu sosial.
 
 ### Mata Kuliah ICT Berbahasa Inggris yang Direkomendasikan untuk Mahasiswa Internasional
 
@@ -118,9 +118,9 @@ Setiap mahasiswa Handong, terlepas dari jurusan, harus menyelesaikan **7 SKS mat
 | **Python Programming** | GCS10004 | 3 | **05** | 박지현 | Mon 5, Thu 5 | **100%** |
 | **Frontend Introduction** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
 
-**Catatan berguna:** OIA (Office of International Admissions) terkadang menyediakan kursi di mata kuliah pemrograman khusus untuk mahasiswa baru internasional. Jika Anda mahasiswa internasional, tanyakan OIA tentang ini — bisa menyelamatkan Anda dari pertempuran pendaftaran.
+**Info berguna:** OIA (Office of International Admissions) terkadang menyediakan kursi khusus di mata kuliah pemrograman untuk mahasiswa baru internasional. Kalau kamu mahasiswa internasional, tanyakan OIA soal ini — bisa menyelamatkan kamu dari perebutan kursi yang ketat.
 
-### Memilih Jalur Anda: C, Python, atau Software Introduction?
+### Pilih Jalurmu: C, Python, atau Software Introduction?
 
 ```mermaid
 flowchart TD
@@ -133,7 +133,7 @@ flowchart TD
     B --> G["Take a 3-credit\ncourse next semester"]
 ```
 
-Jika Anda tidak memiliki latar belakang coding dan merasa terintimidasi, Software Introduction (GCS10001, 2 SKS) adalah titik awal yang lembut. Namun, jika Anda serius mempertimbangkan jurusan STEM apa pun, tantang diri Anda untuk mengambil Python atau C langsung — ini menghemat satu semester penuh.
+Kalau kamu sama sekali tidak punya background coding dan merasa gentar, Software Introduction (GCS10001, 2 SKS) bisa jadi titik awal yang lebih nyaman. Tapi kalau kamu serius mempertimbangkan jurusan STEM apapun, tantang dirimu untuk langsung ambil Python atau C — ini menghemat satu semester penuh.
 
 ---
 

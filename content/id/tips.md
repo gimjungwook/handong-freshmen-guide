@@ -1,12 +1,12 @@
 # Tips Menyusun Jadwal dan Memilih Mata Kuliah
 
-Memilih mata kuliah yang tepat hanya separuh tantangan. Bagaimana Anda menyusunnya dalam jadwal, berapa banyak SKS yang Anda ambil, dan mata kuliah mana yang dipilih berdasarkan minat — semuanya sama pentingnya. Bahkan pilihan mata kuliah yang bagus bisa menghasilkan semester yang menderita jika penyusunannya buruk.
+Memilih mata kuliah yang tepat baru separuh tantangan. Cara kamu menyusunnya dalam jadwal, berapa SKS yang diambil, dan mata kuliah apa yang dipilih berdasarkan minat — semuanya sama pentingnya. Pilihan mata kuliah yang bagus pun bisa menghasilkan semester yang menderita kalau penyusunannya asal-asalan.
 
 ---
 
 ## Jalur Kursus Bahasa Inggris (EPT)
 
-Selama orientasi HanST, semua mahasiswa baru mengikuti **EPT (English Placement Test)**. Hasilnya menentukan level Anda dalam urutan kursus Bahasa Inggris.
+Selama orientasi HanST, semua mahasiswa baru mengikuti **EPT (English Placement Test)**. Hasilnya menentukan levelmu di urutan kursus Bahasa Inggris.
 
 ```mermaid
 flowchart LR
@@ -15,36 +15,36 @@ flowchart LR
     C --> D["EAP\nEnglish for\nAcademic Purposes\n(Level 3)"]
 ```
 
-Jika Anda lulus EPT di level yang lebih tinggi, Anda bisa melewati level yang lebih rendah. Anda juga mungkin dibebaskan dari level tertentu jika memiliki skor yang memenuhi syarat pada tes standar seperti TOEFL, IELTS, atau TOEIC.
+Kalau kamu lulus EPT di level yang lebih tinggi, kamu bisa skip level yang lebih rendah. Kamu juga bisa dibebaskan dari level tertentu kalau punya skor yang memenuhi syarat dari tes standar seperti TOEFL, IELTS, atau TOEIC.
 
-**JANGAN menunda kursus Bahasa Inggris Anda.** Dalam beberapa semester terakhir, dosen menjadi ketat dalam menerapkan batas kapasitas. Mahasiswa yang menunda kursus Bahasa Inggris dengan berpikir "Saya akan ambil semester depan" sering menemukan semua kursi terisi. Ambil level Bahasa Inggris yang ditugaskan **segera di semester pertama Anda**. Kursi cepat penuh, dan menunggu tidak menguntungkan Anda sama sekali.
+**JANGAN tunda kursus Bahasa Inggrismu.** Beberapa semester terakhir, dosen semakin ketat menerapkan batas kapasitas. Mahasiswa yang menunda dengan pikiran "nanti saja semester depan" sering kali menemukan semua kursi sudah terisi. Ambil level Bahasa Inggris yang ditugaskan **langsung di semester pertama**. Kursi cepat habis, dan menunggu tidak menguntungkan kamu sama sekali.
 
 ---
 
 ## Persyaratan Bahasa Korea
 
-Persyaratan ini berlaku untuk **mahasiswa dengan paspor asing** serta **warga negara Korea yang telah tinggal di luar negeri dalam waktu lama** dan mungkin kesulitan dengan perkuliahan berbahasa Korea. Anda harus menyelesaikan urutan kursus Practical Korean. Selama orientasi, Anda akan mengikuti tes penempatan Bahasa Korea yang menentukan level awal Anda.
+Persyaratan ini berlaku untuk **mahasiswa dengan paspor asing** serta **warga negara Korea yang lama tinggal di luar negeri** dan mungkin kesulitan mengikuti kuliah berbahasa Korea. Kamu harus menyelesaikan urutan kursus Practical Korean. Saat orientasi, kamu akan mengikuti tes penempatan Bahasa Korea yang menentukan level awalmu.
 
-**Tips yang sangat penting:** JANGAN menebak-nebak pada tes penempatan untuk mencoba masuk ke level yang lebih tinggi. Inilah alasannya:
+**Tips yang sangat penting:** JANGAN menebak-nebak saat tes penempatan untuk coba masuk ke level yang lebih tinggi. Alasannya:
 
-- Jika Anda memulai dari **Korean 1** (level terendah), Anda mendapatkan SKS yang mudah dan aman sambil membangun fondasi yang kuat. Beban kuliah mudah dikelola, dan Anda membangun kepercayaan diri.
-- Jika Anda menebak-nebak sampai masuk **Korean 3**, Anda sekarang harus mengisi SKS yang seharusnya diberikan Korean 1 dan Korean 2 dengan mata kuliah lain. Anda juga menghadapi materi Bahasa Korea yang lebih sulit yang mungkin melampaui kemampuan aktual Anda.
+- Kalau kamu mulai dari **Korean 1** (level terendah), kamu dapat SKS yang mudah dan aman sambil membangun fondasi yang kuat. Beban kuliah lebih ringan, dan kamu bisa membangun kepercayaan diri.
+- Kalau kamu ngasal sampai masuk **Korean 3**, sekarang kamu harus mengisi SKS yang seharusnya diisi Korean 1 dan Korean 2 dengan mata kuliah lain. Plus kamu harus menghadapi materi Bahasa Korea yang lebih susah dari kemampuan aktualmu.
 
-**Jawab dengan jujur.** Memulai dari level lebih rendah dan naik secara bertahap jauh lebih menguntungkan dalam jangka panjang daripada berjuang di level yang melampaui kemampuan sebenarnya. Ini bukan soal gengsi — ini soal strategi.
+**Jawab dengan jujur.** Mulai dari level lebih rendah dan naik bertahap jauh lebih menguntungkan jangka panjang daripada berjuang di level yang melampaui kemampuanmu. Ini bukan soal gengsi — ini soal strategi.
 
 ---
 
 ## Strategi Overload: Daftar Lebih Banyak, Drop Kemudian
 
-Anda bisa mendaftar hingga **22 SKS** (overload). Aturan emasnya adalah: **selalu lebih baik mendaftar lebih banyak mata kuliah dan drop setelah minggu pertama daripada mendaftar sedikit dan mencoba menambah nanti.** Mata kuliah populer tidak memiliki kursi kosong saat periode penyesuaian. Jika Anda mulai ringan dan mencoba menambah mata kuliah kompetitif nanti, Anda hampir pasti gagal.
+Kamu bisa daftar hingga **22 SKS** (overload). Aturan emasnya: **selalu lebih baik daftar lebih banyak mata kuliah dan drop setelah minggu pertama daripada daftar sedikit dan coba tambah belakangan.** Mata kuliah populer tidak punya kursi kosong saat periode penyesuaian. Kalau kamu mulai dengan sedikit mata kuliah lalu coba tambah yang kompetitif, hampir dipastikan gagal.
 
 ---
 
 ## Target SKS
 
-- **Persyaratan kelulusan**: 130 SKS selama 8 semester = sekitar 16,25 SKS per semester
-- **Target yang direkomendasikan**: 17-18 SKS per semester memberi Anda ruang bernapas yang nyaman
-- **Mahasiswa beasiswa**: Anda harus mempertahankan minimal **15,5 SKS**. Berhati-hatilah agar tidak turun di bawah ambang ini saat menghapus mata kuliah selama periode penyesuaian.
+- **Syarat kelulusan**: 130 SKS selama 8 semester = sekitar 16,25 SKS per semester
+- **Target yang direkomendasikan**: 17-18 SKS per semester memberi ruang yang nyaman
+- **Mahasiswa beasiswa**: Kamu wajib mempertahankan minimal **15,5 SKS**. Hati-hati agar tidak jatuh di bawah ambang ini saat drop mata kuliah selama periode penyesuaian.
 
 ---
 
@@ -52,30 +52,30 @@ Anda bisa mendaftar hingga **22 SKS** (overload). Aturan emasnya adalah: **selal
 
 **Digit pertama** kode mata kuliah Handong menunjukkan level tahun yang direkomendasikan:
 
-- **1**xxx: Mata kuliah level mahasiswa baru (yang seharusnya Anda ambil)
+- **1**xxx: Mata kuliah level mahasiswa baru (yang seharusnya kamu ambil)
 - **2**xxx: Mata kuliah level tahun kedua
 - **3**xxx: Mata kuliah level tahun ketiga
 - **4**xxx: Mata kuliah level tahun keempat
 
-Sebagai mahasiswa baru, **fokus pada mata kuliah 1xxx**. Mata kuliah berkode 3xxx atau 4xxx biasanya memiliki prasyarat, dan meskipun sistem memungkinkan Anda mendaftar, materinya akan jauh melampaui persiapan Anda. Mencoba mata kuliah tingkat atas tanpa fondasi bukanlah keberanian — itu kecerobohan.
+Sebagai mahasiswa baru, **fokus pada mata kuliah 1xxx**. Mata kuliah berkode 3xxx atau 4xxx biasanya punya prasyarat, dan meski sistem memungkinkan kamu daftar, materinya akan jauh melampaui persiapanmu. Mencoba mata kuliah tingkat atas tanpa fondasi bukan keberanian — itu kecerobohan.
 
 ---
 
-## Jaga Waktu Makan Siang Anda Tetap Kosong
+## Jaga Slot Makan Siang Tetap Kosong
 
-Period 4 (12:00-13:00) dan 5 (13:00-14:00) mencakup jendela makan siang. Jika Anda menjadwalkan kelas di blok ini, Anda akan melewatkan makan siang. Sekali dua kali masih bisa ditoleransi, tetapi melakukannya setiap hari akan menghancurkan energi dan konsentrasi Anda. **Jangan menumpuk lebih dari tiga kelas berturut-turut.** Anda butuh istirahat antar sesi untuk mencerna apa yang telah Anda pelajari.
-
----
-
-## Tanyakan Senior Anda Tentang Dosen
-
-Mata kuliah yang sama diajarkan oleh dosen berbeda bisa menjadi pengalaman yang sama sekali berbeda — dalam beban kerja, tingkat kesulitan ujian, gaya penilaian, dan metode pengajaran. Katalog mata kuliah tidak menceritakan hal ini. **Tanyakan 섬김이 (mentor mahasiswa) dan kakak tingkat Anda**: "Apakah ada yang pernah mengambil mata kuliah ini? Bagaimana pengalamannya?" Ini adalah sumber informasi terbaik Anda.
+Period 4 (12:00-13:00) dan 5 (13:00-14:00) adalah jendela makan siang. Kalau kamu jadwalkan kelas di blok ini, kamu akan melewatkan makan siang. Sekali dua kali masih oke, tapi kalau setiap hari begitu, energi dan konsentrasimu akan jeblok. **Jangan tumpuk lebih dari tiga kelas berturut-turut.** Kamu butuh jeda antar sesi untuk mencerna apa yang sudah dipelajari.
 
 ---
 
-## Periksa Bahasa Pengantar Per Kelas
+## Tanyakan Senior soal Dosen
 
-Ini tidak bisa cukup ditekankan untuk mahasiswa internasional. **Dosen yang sama mungkin mengajar satu kelas dalam Bahasa Korea dan kelas lainnya dalam Bahasa Inggris.** Selalu verifikasi kolom "English %" untuk setiap kelas spesifik sebelum mendaftar. Mahasiswa internasional yang secara tidak sengaja mendaftar di kelas berbahasa Korea — atau mahasiswa Korea yang secara tidak sengaja mendaftar di kelas berbahasa Inggris — terjadi setiap semester.
+Mata kuliah yang sama tapi diajarkan dosen berbeda bisa jadi pengalaman yang sama sekali berbeda — dari sisi beban kerja, tingkat kesulitan ujian, cara penilaian, sampai gaya mengajar. Course catalog tidak cerita soal ini. **Tanyakan 섬김이 (student mentor) dan kakak tingkatmu**: "Ada yang pernah ambil mata kuliah ini? Gimana pengalamannya?" Ini sumber informasi terbaik yang bisa kamu dapat.
+
+---
+
+## Cek Bahasa Pengantar Per Kelas
+
+Ini tidak bisa cukup ditekankan untuk mahasiswa internasional. **Dosen yang sama mungkin mengajar satu kelas dalam Bahasa Korea dan kelas lain dalam Bahasa Inggris.** Selalu verifikasi kolom "English %" untuk setiap kelas spesifik sebelum daftar. Mahasiswa internasional yang tidak sengaja masuk kelas berbahasa Korea — atau mahasiswa Korea yang tidak sengaja masuk kelas berbahasa Inggris — terjadi setiap semester.
 
 ---
 
@@ -83,11 +83,11 @@ Ini tidak bisa cukup ditekankan untuk mahasiswa internasional. **Dosen yang sama
 
 ### Untuk Mahasiswa yang Tertarik STEM
 
-Jika Anda mempertimbangkan teknik, ilmu komputer, AI, ilmu pengetahuan alam, atau matematika, ini adalah mata kuliah dasar yang harus Anda prioritaskan. Mata kuliah dengan kelas berbahasa Inggris disorot untuk mahasiswa internasional.
+Kalau kamu mempertimbangkan teknik, ilmu komputer, AI, sains, atau matematika, berikut mata kuliah dasar yang harus diprioritaskan. Kelas berbahasa Inggris disorot untuk mahasiswa internasional.
 
 #### Calculus 1 (GEK10095) — 3 SKS
 
-Kalkulus adalah bahasa universal STEM. Tanpanya, Anda tidak bisa melanjutkan ke Calculus 2, Differential Equations, atau mata kuliah inti teknik apa pun. Anggap saja sebagai alfabet dari pemikiran ilmiah — tanpanya, Anda tidak bisa membaca satu kalimat pun dalam bahasa teknik dan sains.
+Kalkulus adalah bahasa universal STEM. Tanpanya, kamu tidak bisa lanjut ke Calculus 2, Differential Equations, atau mata kuliah inti teknik apapun. Anggap saja sebagai alfabet dari pemikiran ilmiah — tanpanya, kamu tidak bisa baca satu kalimat pun dalam bahasa teknik dan sains.
 
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
@@ -96,11 +96,11 @@ Kalkulus adalah bahasa universal STEM. Tanpanya, Anda tidak bisa melanjutkan ke 
 | **03** | **김민재** | **Mon 4, Thu 4** | **100%** | **English** |
 | **04** | **조장환** | **Mon 1, Thu 1** | **100%** | **English, period 1 (early morning)** |
 
-Untuk mahasiswa internasional, Section 03 (김민재) atau Section 04 (조장환) adalah pilihan Anda. Perhatikan bahwa Section 04 adalah kelas period 1 (9:00 AM). Jika Anda bukan orang yang suka bangun pagi, Section 03 di period 4 jauh lebih mudah dikelola.
+Untuk mahasiswa internasional, Section 03 (김민재) atau Section 04 (조장환) adalah pilihanmu. Perhatikan bahwa Section 04 adalah period 1 (jam 9 pagi). Kalau kamu bukan tipe morning person, Section 03 di period 4 jauh lebih manageable.
 
 #### Calculus 2 (GEK10096) — 3 SKS
 
-Biasanya diambil di semester 2, tetapi mahasiswa dengan latar belakang kalkulus SMA yang kuat bisa mengambil Calculus 1 dan 2 secara bersamaan untuk mempercepat progres.
+Biasanya diambil di semester 2, tapi mahasiswa dengan fondasi kalkulus SMA yang kuat bisa ambil Calculus 1 dan 2 bersamaan untuk mempercepat progres.
 
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
@@ -110,7 +110,7 @@ Biasanya diambil di semester 2, tetapi mahasiswa dengan latar belakang kalkulus 
 
 #### Linear Algebra (GEK10082) — 3 SKS
 
-Linear Algebra adalah jantung matematis dari AI dan machine learning. Vektor, matriks, eigenvalue, dan transformasi linear adalah blok bangunan dari hampir setiap algoritma AI modern. Jika Anda berencana mempelajari apa pun yang terkait dengan ilmu komputer, data science, atau teknik, ambil mata kuliah ini di semester pertama bersamaan dengan Calculus 1.
+Linear Algebra adalah jantung matematis dari AI dan machine learning. Vektor, matriks, eigenvalue, dan transformasi linear adalah blok bangunan dari hampir semua algoritma AI modern. Kalau kamu berencana belajar apapun yang berkaitan dengan ilmu komputer, data science, atau teknik, ambil mata kuliah ini di semester pertama bersamaan dengan Calculus 1.
 
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
@@ -130,7 +130,7 @@ Penting untuk teknik elektro, teknik mesin, dan bidang terkait. Mencakup mekanik
 | 01 | 조현지 | Mon 2, Thu 2 | 0% | Korean only |
 | 02 | 조현지 | Mon 3, Thu 3 | 0% | Korean only |
 
-**Sayangnya, tidak ada kelas berbahasa Inggris untuk Physics 1 semester ini.** Mahasiswa internasional yang membutuhkan fisika perlu kemampuan Bahasa Korea yang cukup, atau bisa mempertimbangkan menundanya ke semester depan jika kelas berbahasa Inggris tersedia.
+**Sayangnya, tidak ada kelas berbahasa Inggris untuk Physics 1 semester ini.** Mahasiswa internasional yang butuh fisika perlu kemampuan Bahasa Korea yang cukup, atau bisa pertimbangkan menundanya ke semester depan kalau ada kelas berbahasa Inggris.
 
 #### General Chemistry (GEK10058) — 3 SKS
 
@@ -141,7 +141,7 @@ Wajib untuk ilmu hayat, kimia, dan bidang terkait.
 | 01 | 김민경 | Thu 3, 4 (back-to-back) | 0% | Korean |
 | **02** | **유태준** | **Mon 2, Thu 2** | **100%** | **English** |
 
-Section 02 adalah pilihan berbahasa Inggris Anda.
+Section 02 adalah pilihan berbahasa Inggrismu.
 
 #### General Biology (GEK10057) — 3 SKS
 
@@ -151,13 +151,13 @@ Section 02 adalah pilihan berbahasa Inggris Anda.
 | **02** | **Holzapfel Wilhelm et al.** | **Mon 2, Thu 2** | **100%** | **English** |
 | 03 | 현창기 et al. | Mon 6, Thu 6 | 0% | Korean |
 
-**PERINGATAN: General Biology SANGAT kompetitif.** Hanya ada 3 kelas, dan kakak tingkat serta mahasiswa yang mengulang mengisi kursi sebelum mahasiswa baru. Banyak mahasiswa baru merasa mustahil untuk mendaftar di semester pertama. **Jangan bertaruh seluruh strategi pendaftaran Anda pada masuk mata kuliah ini.** Jika Anda tidak mendapat kursi, ambil Calculus, Linear Algebra, atau pemrograman dan coba lagi di semester 2. Bersikap fleksibel di sini jauh lebih bijak daripada bersikap keras kepala.
+**PERINGATAN: General Biology SANGAT kompetitif.** Hanya ada 3 kelas, dan kakak tingkat serta mahasiswa yang mengulang sudah mengisi kursi sebelum mahasiswa baru sempat daftar. Banyak mahasiswa baru merasa hampir mustahil masuk di semester pertama. **Jangan taruhkan seluruh strategi pendaftaranmu di mata kuliah ini.** Kalau tidak dapat kursi, ambil Calculus, Linear Algebra, atau pemrograman dan coba lagi di semester 2. Fleksibel di sini jauh lebih bijak daripada ngotot.
 
 ---
 
 ### Untuk Mahasiswa yang Tertarik Humaniora/Ilmu Sosial
 
-Jika Anda mempertimbangkan bisnis, ekonomi, hukum, hubungan internasional, psikologi, komunikasi, atau kesejahteraan sosial, mata kuliah pengantar berikut akan membantu Anda mengeksplorasi bidang-bidang ini. Kelas berbahasa Inggris disorot.
+Kalau kamu mempertimbangkan bisnis, ekonomi, hukum, hubungan internasional, psikologi, komunikasi, atau kesejahteraan sosial, mata kuliah pengantar berikut akan membantumu mengeksplorasi bidang-bidang ini. Kelas berbahasa Inggris disorot.
 
 #### Economics Introduction (MEC10001) — 3 SKS
 
@@ -202,7 +202,7 @@ Jika Anda mempertimbangkan bisnis, ekonomi, hukum, hubungan internasional, psiko
 |---------|-----------|------|-----------|
 | **01** | **Shushan Marie Richardson** | **Mon 4, Thu 4** | **100%** |
 
-Mata kuliah yang sangat baik untuk mengembangkan keterampilan diskusi dan presentasi akademik dalam Bahasa Inggris. Professor Richardson dikenal karena aktif melibatkan mahasiswa dalam pembelajaran partisipatif.
+Mata kuliah yang sangat bagus untuk mengembangkan kemampuan diskusi dan presentasi akademik dalam Bahasa Inggris. Professor Richardson dikenal aktif melibatkan mahasiswa dalam pembelajaran partisipatif.
 
 #### Eastern History and Culture (GEK10087) — 3 SKS
 
@@ -222,17 +222,17 @@ Eksplorasi akademis K-pop, K-drama, sinema Korea, dan fenomena Korean Wave. Diaj
 
 ### GCS (Global Convergence Studies)
 
-GCS memungkinkan Anda **merancang jurusan sendiri** dengan menggabungkan mata kuliah dari berbagai departemen. Misalnya, Anda bisa membuat jurusan kustom "Global Policy Analysis" dengan menggabungkan mata kuliah International Relations + Economics + Data Analysis.
+GCS memungkinkan kamu **merancang jurusan sendiri** dengan menggabungkan mata kuliah dari berbagai departemen. Misalnya, kamu bisa buat jurusan kustom "Global Policy Analysis" dengan menggabungkan mata kuliah International Relations + Economics + Data Analysis.
 
-Untuk masuk GCS, Anda harus terlebih dahulu mengambil **"Vision, Work, and Calling"** (비전, 일, 소명). Mata kuliah ini adalah prasyarat untuk program GCS.
+Untuk masuk GCS, kamu harus terlebih dulu ambil **"Vision, Work, and Calling"** (비전, 일, 소명). Mata kuliah ini adalah prasyarat program GCS.
 
-**Mengapa GCS sangat bagus untuk mahasiswa internasional:** Anda bisa dengan bebas menggabungkan mata kuliah berbahasa Inggris dari departemen mana pun, sehingga Anda tidak dibatasi oleh keterbatasan bahasa satu departemen. Jika tidak ada departemen yang ada yang sesuai dengan minat Anda, GCS memberi Anda kebebasan untuk membangun persis apa yang Anda inginkan.
+**Kenapa GCS sangat cocok untuk mahasiswa internasional:** Kamu bisa bebas menggabungkan mata kuliah berbahasa Inggris dari departemen manapun, sehingga tidak dibatasi oleh keterbatasan bahasa satu departemen. Kalau tidak ada departemen yang cocok dengan minatmu, GCS memberi kebebasan untuk membangun persis apa yang kamu mau.
 
 ---
 
 ## Jadwal yang Direkomendasikan (Mahasiswa Internasional)
 
-Di bawah ini adalah contoh jadwal yang disusun secara eksklusif dari **kelas 100% berbahasa Inggris**. Ini adalah contoh referensi — sesuaikan berdasarkan hasil EPT, minat, dan tingkat energi Anda. Ingat aturan emas: daftar lebih banyak mata kuliah dari yang Anda butuhkan dan drop setelah minggu pertama.
+Berikut contoh jadwal yang disusun eksklusif dari **kelas 100% berbahasa Inggris**. Ini hanya contoh referensi — sesuaikan berdasarkan hasil EPT, minat, dan energimu. Ingat aturan emas: daftar lebih banyak mata kuliah dari yang kamu butuhkan dan drop setelah minggu pertama.
 
 ### Schedule A: Fokus Humaniora/Ilmu Sosial (Semua Berbahasa Inggris)
 
@@ -263,9 +263,9 @@ Period | Mon            | Tue              | Wed        | Thu            | Fri
 | + Korean Language Course | — | 3 | TBA | Wajib untuk mahasiswa internasional |
 | **Total** | | **19.5 + Korean (3)** | | |
 
-**Mengapa jadwal ini berhasil:** Selasa dan Jumat membawa beban intelektual berat dengan tiga mata kuliah berturut-turut berbahasa Inggris (Bible, International Relations, Psychology), sementara Senin dan Kamis lebih ringan dengan kelas sore saja. Rabu dicadangkan untuk Chapel dan waktu belajar mandiri. Anda mengeksplorasi dua bidang yang sama sekali berbeda (hubungan internasional dan psikologi) sambil membangun keterampilan pemrograman dan kemampuan presentasi akademik dalam Bahasa Inggris secara bersamaan.
+**Kenapa jadwal ini bisa jalan:** Selasa dan Jumat membawa beban intelektual berat dengan tiga mata kuliah berturut-turut berbahasa Inggris (Bible, International Relations, Psychology), sementara Senin dan Kamis lebih ringan dengan kelas sore saja. Rabu dicadangkan untuk Chapel dan belajar mandiri. Kamu mengeksplorasi dua bidang yang sangat berbeda (hubungan internasional dan psikologi) sambil sekaligus membangun kemampuan programming dan presentasi akademik dalam Bahasa Inggris.
 
-**Konflik CharEd diselesaikan di atas:** Character Education Sec 01 (Mon 5) bentrok dengan Python Sec 05 (Mon 5). Jadwal ini menggunakan CharEd Sec 02-06 (Wed 2, Korean) untuk menghindari tumpang tindih. Jika kemampuan Bahasa Korea Anda tidak cukup, pindahkan Python ke kelas yang bukan Mon 5 sebagai gantinya.
+**Konflik CharEd diselesaikan di atas:** Character Education Sec 01 (Mon 5) bentrok dengan Python Sec 05 (Mon 5). Jadwal ini memakai CharEd Sec 02-06 (Wed 2, Korean) untuk menghindari tumpang tindih. Kalau kemampuan Bahasa Koreamu belum cukup, pindahkan Python ke kelas yang bukan Mon 5.
 
 ### Schedule B: Fokus STEM (Semua Berbahasa Inggris)
 
@@ -296,9 +296,9 @@ Period | Mon              | Tue              | Wed        | Thu              | F
 | + Korean Language Course | — | 3 | TBA | Wajib untuk mahasiswa internasional |
 | **Total** | | **18.5 + Korean (3)** | | |
 
-**Mengapa jadwal ini berhasil:** Mengambil Calculus 1 dan Linear Algebra secara bersamaan menciptakan sinergi yang kuat — konsep vektor dan matriks dari Linear Algebra terhubung langsung dengan ide multivariabel yang Anda temui di Calculus. Python memberikan fondasi pemrograman Anda. Selasa dan Jumat adalah hari yang lebih ringan (hanya Bible + Worldview), memberi Anda waktu untuk mengerjakan soal-soal matematika.
+**Kenapa jadwal ini bisa jalan:** Mengambil Calculus 1 dan Linear Algebra bersamaan menciptakan sinergi yang kuat — konsep vektor dan matriks dari Linear Algebra langsung terhubung dengan ide multivariabel yang kamu temui di Calculus. Python membangun fondasi programming. Selasa dan Jumat lebih ringan (hanya Bible + Worldview), memberi waktu untuk mengerjakan soal-soal matematika.
 
-**Konflik CharEd diselesaikan di atas:** Character Education Sec 01 (Mon 5) bentrok dengan Python Sec 05 (Mon 5). Jadwal ini menggunakan CharEd Sec 02-06 (Wed 2, Korean) untuk menghindari tumpang tindih. Jika kemampuan Bahasa Korea Anda tidak cukup, pindahkan Python ke kelas yang bukan Mon 5 sebagai gantinya.
+**Konflik CharEd diselesaikan di atas:** Character Education Sec 01 (Mon 5) bentrok dengan Python Sec 05 (Mon 5). Jadwal ini memakai CharEd Sec 02-06 (Wed 2, Korean) untuk menghindari tumpang tindih. Kalau kemampuan Bahasa Koreamu belum cukup, pindahkan Python ke kelas yang bukan Mon 5.
 
 ---
 

@@ -1,4 +1,5 @@
 import Navbar from "@/components/Navbar";
+import ChatButton from "@/components/ChatButton";
 import { LANGS, type Lang } from "@/lib/constants";
 
 export function generateStaticParams() {
@@ -20,6 +21,7 @@ export default async function LangLayout({
       <div className="notion-main">
         {children}
       </div>
+      <ChatButton />
     </>
   );
 }

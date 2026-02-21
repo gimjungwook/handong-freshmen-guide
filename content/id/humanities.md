@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 1. Untuk Siapa Panduan Ini?
+## 1. Untuk Siapa Panduan Ini?
 
 Panduan ini ditulis untuk mahasiswa baru yang mempertimbangkan departemen dan jurusan berikut:
 
@@ -16,11 +16,11 @@ Panduan ini ditulis untuk mahasiswa baru yang mempertimbangkan departemen dan ju
 - **School of Counseling, Psychology, & Social Welfare**: Psychology, Counseling, Social Welfare
 - **School of Global Leadership (GLS)**: International Studies
 
-Esensi humaniora dan ilmu sosial adalah **eksplorasi yang luas dan kemampuan menulis yang baik**. Berbeda dengan bidang STEM, di mana jalurnya mengikuti lintasan linear (Matematika → Fisika → Mata kuliah jurusan), humaniora dan ilmu sosial menghargai proses bertemu berbagai disiplin ilmu dan secara bertahap mempersempit minat Anda. Gunakan tahun pertama Anda untuk mengambil beberapa mata kuliah pengantar dan menguji apakah suatu bidang benar-benar cocok untuk Anda.
+Inti dari humaniora dan ilmu sosial adalah **eksplorasi yang luas dan kemampuan menulis yang baik**. Berbeda dengan STEM yang alurnya linear (Matematika → Fisika → Mata kuliah jurusan), humaniora dan ilmu sosial justru menghargai proses bertemu berbagai disiplin ilmu dan secara bertahap mempersempit minat. Gunakan tahun pertama untuk ambil beberapa mata kuliah pengantar dan cek apakah suatu bidang benar-benar cocok untukmu.
 
-### 🌍 Informasi Krusial untuk Mahasiswa Internasional
+### Informasi Krusial untuk Mahasiswa Internasional
 
-Tidak semua jurusan di Handong bisa diselesaikan sepenuhnya dalam Bahasa Inggris — **ini adalah sesuatu yang harus Anda pahami sebelum memilih jalur Anda.** Beberapa departemen menawarkan mata kuliah mereka hampir secara eksklusif dalam Bahasa Korea, membuat kelulusan sangat sulit bagi mahasiswa yang tidak fasih berbahasa Korea.
+Tidak semua jurusan di Handong bisa diselesaikan sepenuhnya dalam Bahasa Inggris — **ini yang harus kamu pahami sebelum memilih jalur.** Beberapa departemen menawarkan mata kuliah mereka hampir eksklusif dalam Bahasa Korea, membuat kelulusan sangat susah bagi mahasiswa yang tidak fasih berbahasa Korea.
 
 **Jurusan dengan cukup mata kuliah berbahasa Inggris untuk kelulusan (direkomendasikan untuk mahasiswa internasional):**
 - **School of Management & Economics**
@@ -28,33 +28,33 @@ Tidak semua jurusan di Handong bisa diselesaikan sepenuhnya dalam Bahasa Inggris
 - **School of Counseling, Psychology, & Social Welfare** (sebagian)
 - **School of Global Leadership (GLS)**
 
-**Jurusan dengan mata kuliah berbahasa Inggris yang tidak memadai (kemahiran Bahasa Korea diperlukan):**
+**Jurusan dengan mata kuliah berbahasa Inggris yang tidak memadai (kemampuan Bahasa Korea diperlukan):**
 - **School of Law**
 - **School of Communication Arts** (sebagian besar diajarkan dalam Bahasa Korea)
 
-Jika Anda tidak yakin dengan kemampuan Bahasa Korea Anda, bijaksana untuk memilih dari jurusan yang direkomendasikan di atas. Sebagai alternatif, pertimbangkan dengan serius **GCS (Global Convergence Studies)**, yang diperkenalkan di bawah.
+Kalau kamu tidak yakin dengan kemampuan Bahasa Koreamu, bijaksana untuk pilih dari jurusan yang direkomendasikan di atas. Atau, pertimbangkan dengan serius **GCS (Global Convergence Studies)** yang diperkenalkan di bawah.
 
-### 🧩 GCS (Global Convergence Studies) — Rancang Jurusan Anda Sendiri
+### GCS (Global Convergence Studies) — Rancang Jurusanmu Sendiri
 
-GCS adalah program yang memungkinkan Anda **merancang jurusan interdisipliner sendiri** tanpa terbatas pada satu departemen. Misalnya, Anda bisa menggabungkan International Relations + Economics + Data Analysis untuk membuat jurusan kustom seperti "Global Policy Analysis."
+GCS adalah program yang memungkinkan kamu **merancang jurusan interdisipliner sendiri** tanpa terikat pada satu departemen. Misalnya, kamu bisa gabungkan International Relations + Economics + Data Analysis untuk membuat jurusan kustom seperti "Global Policy Analysis."
 
-Untuk memulai jalur GCS, Anda harus terlebih dahulu mengambil mata kuliah **"Vision, Work, and Calling"** (비전, 일, 소명). Dalam mata kuliah ini, Anda mengeksplorasi visi pribadi Anda dan melalui proses merancang kurikulum yang selaras dengannya.
+Untuk mulai jalur GCS, kamu harus terlebih dulu ambil mata kuliah **"Vision, Work, and Calling"** (비전, 일, 소명). Di mata kuliah ini, kamu mengeksplorasi visi pribadi dan melalui proses merancang kurikulum yang selaras dengannya.
 
-GCS adalah pilihan yang sangat baik khususnya untuk mahasiswa internasional. Karena Anda bisa dengan bebas menggabungkan mata kuliah yang ditawarkan dalam Bahasa Inggris dari seluruh universitas, Anda tidak dibatasi oleh rasio mata kuliah berbahasa Korea dari departemen tertentu. Jika tidak ada satu departemen pun yang cocok dengan minat Anda, atau jika Anda perlu memastikan semua mata kuliah dalam Bahasa Inggris, GCS memberi Anda fleksibilitas untuk membangun jalur yang berhasil.
+GCS adalah pilihan yang sangat bagus khususnya untuk mahasiswa internasional. Karena kamu bisa bebas gabungkan mata kuliah yang ditawarkan dalam Bahasa Inggris dari seluruh universitas, kamu tidak dibatasi oleh rasio mata kuliah berbahasa Korea dari departemen tertentu. Kalau tidak ada satu departemen pun yang cocok dengan minatmu, atau kalau kamu perlu pastikan semua mata kuliah dalam Bahasa Inggris, GCS memberi fleksibilitas untuk membangun jalur yang berhasil.
 
 ---
 
-## 📚 2. Mata Kuliah yang Direkomendasikan untuk Mahasiswa Baru
+## 2. Mata Kuliah yang Direkomendasikan untuk Mahasiswa Baru
 
-### 🏷️ Cara Membaca Kode Mata Kuliah
+### Cara Membaca Kode Mata Kuliah
 
-**Digit pertama dalam kode mata kuliah menunjukkan level tahun**. `MEC10001` adalah mata kuliah tahun pertama, sementara `MEC30001` adalah mata kuliah tahun ketiga. Sebagai mahasiswa baru, fokus pada mata kuliah dengan `1` dalam kode. Mengambil mata kuliah tahun ketiga atau keempat tanpa fondasi yang tepat bukan hanya buang waktu — itu bisa menghancurkan IPK Anda.
+**Digit pertama dalam kode mata kuliah menunjukkan level tahun**. `MEC10001` adalah mata kuliah tahun pertama, sementara `MEC30001` adalah mata kuliah tahun ketiga. Sebagai mahasiswa baru, fokus pada mata kuliah dengan `1` dalam kode. Ambil mata kuliah tahun ketiga atau keempat tanpa fondasi yang tepat bukan hanya buang waktu — itu bisa hancurkan IPK kamu.
 
-Juga, **jangan mengambil mata kuliah jurusan lanjutan sebelum Anda mendeklarasikan jurusan.** Ambil mata kuliah pengantar terlebih dahulu untuk mencicipi bidangnya, dan baru lanjut ke mata kuliah jurusan setelah Anda yakin dengan pilihan Anda. Itulah urutan yang benar.
+Juga, **jangan ambil mata kuliah jurusan lanjutan sebelum kamu deklarasikan jurusan.** Ambil mata kuliah pengantar dulu untuk mencicipi bidangnya, baru lanjut ke mata kuliah jurusan setelah kamu yakin dengan pilihanmu. Itulah urutan yang benar.
 
-### ✍️ Menulis — Senjata Humaniora
+### Menulis — Senjata Mahasiswa Humaniora
 
-Jika matematika adalah senjata mahasiswa STEM, **menulis** adalah senjata mahasiswa humaniora dan ilmu sosial. Laporan, tesis, proposal, ringkasan kebijakan — semuanya dimulai dan diakhiri dengan menulis. Handong menawarkan beberapa mata kuliah menulis dan presentasi, jadi pilih yang paling sesuai kebutuhan Anda.
+Kalau matematika adalah senjata mahasiswa STEM, **menulis** adalah senjata mahasiswa humaniora dan ilmu sosial. Laporan, tesis, proposal, ringkasan kebijakan — semuanya dimulai dan diakhiri dengan menulis. Handong menawarkan beberapa mata kuliah menulis dan presentasi, jadi pilih yang paling sesuai kebutuhanmu.
 
 > **Humanities & Social Sciences Writing (GCS10012)**
 
@@ -62,7 +62,7 @@ Jika matematika adalah senjata mahasiswa STEM, **menulis** adalah senjata mahasi
 |---------|-----------|------|-----------|
 | 01 | Lee Juho | Thu 4,5 | 0% |
 
-Mata kuliah menulis yang dirancang khusus untuk mahasiswa humaniora dan ilmu sosial. Anda akan mempelajari secara sistematis dasar-dasar penulisan akademis — struktur argumentasi, penggunaan referensi, dan pembacaan kritis. Jika Anda mempertimbangkan jurusan humaniora atau ilmu sosial, ini harus menjadi salah satu mata kuliah pertama di daftar Anda.
+Mata kuliah menulis yang dirancang khusus untuk mahasiswa humaniora dan ilmu sosial. Kamu akan mempelajari secara sistematis dasar-dasar penulisan akademis — struktur argumentasi, penggunaan referensi, dan pembacaan kritis. Kalau kamu mempertimbangkan jurusan humaniora atau ilmu sosial, ini harus jadi salah satu mata kuliah pertama dalam daftarmu.
 
 > **Fundamentals of College Writing (GCS10010)**
 
@@ -70,7 +70,7 @@ Mata kuliah menulis yang dirancang khusus untuk mahasiswa humaniora dan ilmu sos
 |---------|-----------|------|-----------|
 | 01 | Chae Yesong | Mon 3,4 | 0% |
 
-Mata kuliah dasar untuk mahasiswa yang kurang percaya diri dalam menulis. Ini membimbing Anda langkah demi langkah dari konstruksi kalimat ke pengembangan paragraf ke penulisan esai. Jika Anda tidak banyak menulis di SMA, memulai di sini adalah pilihan yang baik.
+Mata kuliah dasar untuk mahasiswa yang belum terlalu percaya diri dalam menulis. Ini membimbingmu langkah demi langkah dari konstruksi kalimat ke pengembangan paragraf ke penulisan esai. Kalau di SMA kamu jarang menulis, mulai dari sini adalah pilihan yang bagus.
 
 > **Discussion and Debate (GCS10015)**
 
@@ -78,7 +78,7 @@ Mata kuliah dasar untuk mahasiswa yang kurang percaya diri dalam menulis. Ini me
 |---------|-----------|------|-----------|
 | 01 | Chae Yesong | Mon 1,2 | 0% |
 
-Jika menulis melatih kemampuan Anda mengekspresikan ide di atas kertas, mata kuliah ini melatih kemampuan Anda mengekspresikannya secara verbal. Presentasi dan debat akan mengikuti Anda sepanjang karir universitas, jadi membangun fondasi di awal tahun pertama akan membuat perbedaan signifikan nantinya. Namun, perhatikan bahwa mata kuliah ini di Period 1 hari Senin (9:00 AM). Jika bangun pagi terlalu berat selama semester pertama adaptasi, pertimbangkan untuk mengambil mata kuliah menulis terlebih dahulu dan menyimpan yang ini untuk semester kedua.
+Kalau menulis melatih kemampuan mengekspresikan ide di atas kertas, mata kuliah ini melatih kemampuan mengekspresikannya secara verbal. Presentasi dan debat akan mengikutimu sepanjang karir universitas, jadi membangun fondasi di awal tahun pertama akan buat perbedaan signifikan nantinya. Tapi perhatikan bahwa mata kuliah ini di Period 1 hari Senin (jam 9 pagi). Kalau bangun pagi terlalu berat di semester pertama adaptasi, pertimbangkan ambil mata kuliah menulis dulu dan simpan ini untuk semester kedua.
 
 > **Discussion and Presentation (GCS10013) — Berbahasa Inggris**
 
@@ -86,7 +86,7 @@ Jika menulis melatih kemampuan Anda mengekspresikan ide di atas kertas, mata kul
 |---------|-----------|------|-----------|
 | **01** | **Shushan Marie Richardson** | **Mon 4, Thu 4** | **100%** |
 
-Ini adalah versi berbahasa Inggris dari mata kuliah diskusi dan presentasi. **Mahasiswa internasional sangat disarankan mengambil mata kuliah ini.** Professor Richardson secara aktif mengajak partisipasi mahasiswa, dan Anda akan belajar cara melakukan diskusi akademis dalam Bahasa Inggris.
+Ini versi berbahasa Inggris dari mata kuliah diskusi dan presentasi. **Mahasiswa internasional sangat disarankan ambil mata kuliah ini.** Professor Richardson aktif mengajak partisipasi mahasiswa, dan kamu akan belajar cara melakukan diskusi akademis dalam Bahasa Inggris.
 
 > **Logic and Critical Thinking (GCS10014)**
 
@@ -94,26 +94,26 @@ Ini adalah versi berbahasa Inggris dari mata kuliah diskusi dan presentasi. **Ma
 |---------|-----------|------|-----------|
 | 01 | Kim Kwanghyun | Fri 6,7 | 0% |
 
-Mata kuliah ini mengajarkan apa artinya "berpikir logis" secara tepat. Anda akan berlatih mengidentifikasi argumen yang cacat dan menyusun penalaran yang solid. Saat menulis laporan di humaniora dan ilmu sosial, atau saat menemukan kelemahan dalam argumen lawan selama debat, apa yang Anda pelajari di sini akan langsung bisa diterapkan. Jadwal Jumat sore juga membuatnya nyaman untuk jadwal Anda.
+Mata kuliah ini mengajarkan apa artinya "berpikir logis" secara tepat. Kamu akan berlatih mengidentifikasi argumen yang cacat dan menyusun penalaran yang solid. Saat menulis laporan di humaniora dan ilmu sosial, atau saat menemukan kelemahan dalam argumen lawan selama debat, apa yang dipelajari di sini bisa langsung diterapkan. Jadwal Jumat sore juga membuatnya nyaman untuk jadwal.
 
-### 🔍 Mata Kuliah Pengantar untuk Eksplorasi Jurusan
+### Mata Kuliah Pengantar untuk Eksplorasi Jurusan
 
-Kunci selama tahun pertama adalah **mengambil minimal dua mata kuliah pengantar**. Mata kuliah pengantar setiap departemen berfungsi sebagai etalase — menunjukkan apa yang dicakup bidang tersebut dan karir apa yang bisa dituju. Perasaan "Saya rasa bidang ini cocok untuk saya" bisa sangat berbeda dari perasaan Anda sebenarnya setelah mempelajarinya, jadi pastikan untuk mengambil mata kuliahnya sebelum memutuskan.
+Kunci selama tahun pertama adalah **ambil minimal dua mata kuliah pengantar**. Mata kuliah pengantar setiap departemen berfungsi sebagai etalase — menunjukkan apa yang dicakup bidang itu dan karir apa yang bisa dituju. Perasaan "kayaknya bidang ini cocok buat saya" bisa sangat berbeda dari perasaan kamu sebenarnya setelah betul-betul mempelajarinya, jadi pastikan ambil mata kuliahnya sebelum memutuskan.
 
-#### 🔍 Introduction to Economics (MEC10001)
+#### Introduction to Economics (MEC10001)
 
-Ekonomi adalah studi tentang bagaimana masyarakat mengalokasikan sumber daya. Anda akan mempelajari pendekatan sistematis terhadap pertanyaan seperti "Mengapa harga naik?" dan "Apa dampak menaikkan upah minimum terhadap lapangan kerja?" Konsep seperti penawaran dan permintaan, keseimbangan pasar, dan PDB mungkin terasa abstrak pada awalnya, tetapi menjadi lensa yang kuat untuk memahami berita dan kebijakan publik.
+Ekonomi adalah studi tentang bagaimana masyarakat mengalokasikan sumber daya. Kamu akan mempelajari pendekatan sistematis terhadap pertanyaan seperti "Kenapa harga naik?" dan "Apa dampak menaikkan upah minimum terhadap lapangan kerja?" Konsep seperti penawaran dan permintaan, keseimbangan pasar, dan PDB mungkin terasa abstrak pada awalnya, tapi jadi lensa yang kuat untuk memahami berita dan kebijakan publik.
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | **01** | **Kim Suntae** | **Mon 3, Thu 3** | **100%** |
 | 02 | Ahn Jinwon | Tue 2, Fri 2 | 0% |
 
-**Section 01 diajarkan 100% dalam Bahasa Inggris dan ideal untuk mahasiswa internasional.** Jika Anda lebih suka instruksi Bahasa Korea, pilih Section 02 (Professor Ahn Jinwon).
+**Section 01 diajarkan 100% dalam Bahasa Inggris dan ideal untuk mahasiswa internasional.** Kalau kamu lebih suka instruksi Bahasa Korea, pilih Section 02 (Professor Ahn Jinwon).
 
-#### 🔍 Introduction to Business Administration (MEC10002)
+#### Introduction to Business Administration (MEC10002)
 
-Administrasi bisnis adalah tentang bagaimana perusahaan dikelola. Ini memberikan pandangan menyeluruh tentang semua fungsi bisnis — marketing, finance, human resources, dan strategy. Mungkin terlihat mirip dengan ekonomi, tetapi perspektifnya sama sekali berbeda. Sementara ekonomi meneliti "bagaimana masyarakat mengalokasikan sumber daya secara keseluruhan," bisnis bertanya "bagaimana satu perusahaan bertahan dan berkembang." Kami merekomendasikan untuk mencoba keduanya dan memilih yang paling Anda rasakan.
+Administrasi bisnis adalah tentang bagaimana perusahaan dikelola. Ini memberikan pandangan menyeluruh tentang semua fungsi bisnis — marketing, finance, human resources, dan strategy. Mungkin terlihat mirip dengan ekonomi, tapi perspektifnya berbeda. Sementara ekonomi meneliti "bagaimana masyarakat mengalokasikan sumber daya secara keseluruhan," bisnis bertanya "bagaimana satu perusahaan bertahan dan berkembang." Kami rekomendasikan coba keduanya dan pilih yang paling kamu rasakan.
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -121,11 +121,11 @@ Administrasi bisnis adalah tentang bagaimana perusahaan dikelola. Ini memberikan
 | 02 | Lee Hyegyu | Mon 2, Thu 2 | 0% |
 | 03 | Kim Eunseok | Mon 5, Thu 5 | 0% |
 
-Dengan tiga kelas tersedia, Anda bisa memilih secara fleksibel berdasarkan jadwal. **Section 01 adalah kelas berbahasa Inggris.**
+Dengan tiga kelas tersedia, kamu bisa pilih secara fleksibel berdasarkan jadwal. **Section 01 adalah kelas berbahasa Inggris.**
 
-#### 🔍 Introduction to Psychology (CSW10003)
+#### Introduction to Psychology (CSW10003)
 
-Psikologi adalah studi ilmiah tentang pikiran dan perilaku manusia. Ini membahas pertanyaan seperti "Mengapa orang membuat keputusan irasional dalam situasi tertentu?" dan "Bagaimana kepribadian terbentuk?" Sub-bidangnya beragam — psikologi klinis, konseling, industrial-organisasional, perkembangan, dan lainnya — sehingga mata kuliah pengantar sangat penting untuk menyurvei seluruh lanskap. Mata kuliah ini populer tidak hanya di kalangan mahasiswa humaniora tetapi juga mahasiswa STEM.
+Psikologi adalah studi ilmiah tentang pikiran dan perilaku manusia. Ini membahas pertanyaan seperti "Kenapa orang membuat keputusan irasional dalam situasi tertentu?" dan "Bagaimana kepribadian terbentuk?" Sub-bidangnya beragam — psikologi klinis, konseling, industrial-organisasional, perkembangan, dan lainnya — sehingga mata kuliah pengantar penting untuk menyurvei seluruh lanskap. Mata kuliah ini populer tidak hanya di kalangan mahasiswa humaniora tapi juga STEM.
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -133,11 +133,11 @@ Psikologi adalah studi ilmiah tentang pikiran dan perilaku manusia. Ini membahas
 | **02** | **Ji Wongeun** | **Tue 2, Fri 2** | **100%** |
 | 03 | Kim Yunhee | Mon 4, Thu 4 | 0% |
 
-**Mahasiswa internasional direkomendasikan mengambil Section 02 (Professor Ji Wongeun, 100% English).** Untuk kelas berbahasa Korea, pilih antara 01 dan 03 berdasarkan jadwal Anda.
+**Mahasiswa internasional direkomendasikan ambil Section 02 (Professor Ji Wongeun, 100% English).** Untuk kelas berbahasa Korea, pilih antara 01 dan 03 berdasarkan jadwal.
 
-#### 🔍 Introduction to International Relations (ISE10052)
+#### Introduction to International Relations (ISE10052)
 
-Jika Anda menginginkan perspektif global, ini adalah mata kuliah untuk Anda. Ini mencakup hubungan antar negara, diplomasi, keamanan, organisasi internasional, dan tata kelola global. Pertanyaan seperti "Mengapa negara terkadang bekerja sama dan terkadang berkonflik?" dan "Apa peran sebenarnya PBB?" didekati melalui teori politik internasional.
+Kalau kamu ingin perspektif global, ini mata kuliah untuk kamu. Mencakup hubungan antar negara, diplomasi, keamanan, organisasi internasional, dan tata kelola global. Pertanyaan seperti "Kenapa negara kadang bekerja sama dan kadang berkonflik?" dan "Apa peran sebenarnya PBB?" didekati melalui teori politik internasional.
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -146,37 +146,37 @@ Jika Anda menginginkan perspektif global, ini adalah mata kuliah untuk Anda. Ini
 
 **Section 01 diajarkan 100% dalam Bahasa Inggris dan sangat cocok untuk mahasiswa internasional.**
 
-#### 🔍 Introduction to Law (LAW10004)
+#### Introduction to Law (LAW10004)
 
-Mata kuliah ini mengajarkan penalaran hukum. Bahkan jika Anda tidak mempertimbangkan School of Law, memahami "bagaimana aturan masyarakat dibuat dan diterapkan" berguna di bidang apa pun. Namun, perlu diingat bahwa sebagian besar mata kuliah di School of Law diajarkan dalam Bahasa Korea, jadi jika Anda tidak fasih berbahasa Korea, Anda harus berpikir matang sebelum memilih Hukum sebagai jurusan.
+Mata kuliah ini mengajarkan penalaran hukum. Bahkan kalau kamu tidak mempertimbangkan School of Law, memahami "bagaimana aturan masyarakat dibuat dan diterapkan" berguna di bidang apapun. Tapi perlu diingat bahwa sebagian besar mata kuliah di School of Law diajarkan dalam Bahasa Korea, jadi kalau kamu tidak fasih berbahasa Korea, kamu perlu pikir matang sebelum pilih Hukum sebagai jurusan.
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | 01 | Song Inho | Thu 7,8 | 0% |
 
-Ini adalah kelas malam hari Kamis. Perhatikan ini saat menyusun jadwal.
+Ini kelas malam hari Kamis. Perhatikan ini saat menyusun jadwal.
 
-#### 🔍 Mata Kuliah Pengantar Humaniora & Ilmu Sosial Lainnya
+#### Mata Kuliah Pengantar Humaniora & Ilmu Sosial Lainnya
 
-Mata kuliah di bawah ini memperluas eksplorasi Anda melampaui departemen utama. Kami merekomendasikan untuk menambahkan satu atau dua berdasarkan minat dan jadwal Anda.
+Mata kuliah di bawah ini memperluas eksplorasimu melampaui departemen utama. Kami rekomendasikan tambahkan satu atau dua berdasarkan minat dan jadwal.
 
-**🔍 Introduction to Sociology (GEK10040)**
+**Introduction to Sociology (GEK10040)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | 01 | Kwon Dongguk | Tue 2,3 | 0% |
 
-Mata kuliah yang mempertajam cara Anda melihat masyarakat. Anda akan mempelajari kerangka kerja untuk menganalisis fenomena sosial seperti kelas, ketimpangan, institusi, dan budaya. Ini menjadi fondasi untuk hubungan internasional, studi kebijakan, kesejahteraan sosial, dan lainnya.
+Mata kuliah yang mempertajam cara kamu melihat masyarakat. Kamu akan mempelajari kerangka kerja untuk menganalisis fenomena sosial seperti kelas, ketimpangan, institusi, dan budaya. Ini jadi fondasi untuk hubungan internasional, studi kebijakan, kesejahteraan sosial, dan lainnya.
 
-**🔍 Introduction to Social Welfare (CSW10005)**
+**Introduction to Social Welfare (CSW10005)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | 01 | Kang Byeongdeok et al. | Mon 3, Thu 3 | 0% |
 
-Gambaran umum tentang sejarah, teori, dan praktik kesejahteraan sosial. Jika Anda mempertimbangkan School of Counseling, Psychology, & Social Welfare, mengambil ini bersamaan dengan Introduction to Psychology memungkinkan Anda mengalami kedua pilar departemen.
+Gambaran umum tentang sejarah, teori, dan praktik kesejahteraan sosial. Kalau kamu mempertimbangkan School of Counseling, Psychology, & Social Welfare, ambil ini bersamaan dengan Introduction to Psychology memungkinkan kamu rasakan kedua pilar departemen.
 
-**🔍 Media and Society (CCC10020)**
+**Media and Society (CCC10020)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -184,28 +184,28 @@ Gambaran umum tentang sejarah, teori, dan praktik kesejahteraan sosial. Jika And
 
 Mencakup dampak media terhadap masyarakat, produksi dan konsumsi berita, dan transformasi yang dibawa oleh media digital. Mata kuliah eksplorasi penting bagi mahasiswa yang tertarik dengan School of Communication Arts.
 
-**🔍 Introduction to Education (GEK20042)**
+**Introduction to Education (GEK20042)**
 
-Beberapa kelas ditawarkan, dan beberapa kelas diajarkan 100% dalam Bahasa Inggris. Direkomendasikan untuk mahasiswa yang tertarik dengan pendidikan atau mempertimbangkan sertifikat mengajar.
+Beberapa kelas ditawarkan, dan beberapa diajarkan 100% dalam Bahasa Inggris. Direkomendasikan untuk mahasiswa yang tertarik dengan pendidikan atau mempertimbangkan sertifikat mengajar.
 
-**🔍 Introduction to Philosophy (GEK10030)**
+**Introduction to Philosophy (GEK10030)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | **01** | **Son Hwacheol** | **Mon 5, Thu 5** | **100%** |
 | 02 | Kim Kwanghyun | Thu 6,7 | 0% |
 
-"Apa artinya mengetahui?" "Apa standar benar dan salah?" — disiplin ini menangani pertanyaan paling fundamental. Mungkin tidak langsung membantu dalam mencari kerja, tetapi sebagai akar dari semua ilmu, ini mengangkat kedalaman pemikiran Anda satu dimensi penuh. **Section 01 diajarkan 100% dalam Bahasa Inggris dan dapat diakses oleh mahasiswa internasional.**
+"Apa artinya mengetahui?" "Apa standar benar dan salah?" — disiplin ini menangani pertanyaan paling fundamental. Mungkin tidak langsung membantu dalam cari kerja, tapi sebagai akar dari semua ilmu, ini mengangkat kedalaman pemikiranmu satu dimensi penuh. **Section 01 diajarkan 100% dalam Bahasa Inggris dan bisa diakses oleh mahasiswa internasional.**
 
-**🔍 Understanding Korean Literature (GEK10033)**
+**Understanding Korean Literature (GEK10033)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | 01 | Lee Juho | Thu 6,7 | 0% |
 
-Mata kuliah yang memperdalam pemahaman Anda tentang masyarakat dan budaya Korea melalui karya sastra Korea. Cara yang bagus untuk membangun keterampilan Bahasa Korea sambil mendapatkan literasi budaya.
+Mata kuliah yang memperdalam pemahamanmu tentang masyarakat dan budaya Korea melalui karya sastra Korea. Cara yang bagus untuk membangun kemampuan Bahasa Korea sambil mendapat literasi budaya.
 
-**🔍 Understanding the Structure and Culture of Korean Society (GEK10103)**
+**Understanding the Structure and Culture of Korean Society (GEK10103)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -213,31 +213,31 @@ Mata kuliah yang memperdalam pemahaman Anda tentang masyarakat dan budaya Korea 
 
 Pandangan sistematis tentang karakteristik masyarakat Korea — struktur keluarga, budaya pendidikan, budaya perusahaan, dan lainnya. Berguna bagi setiap mahasiswa yang berencana tinggal dan bekerja di Korea.
 
-**🔍 Globalization and Korean Popular Culture (GEK10104)**
+**Globalization and Korean Popular Culture (GEK10104)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | **01** | **Kim Changwook** | **Tue 2, Fri 2** | **100%** |
 
-Analisis akademis tentang Korean Wave — K-pop, K-drama, sinema Korea, dan lainnya. **Diajarkan 100% dalam Bahasa Inggris, membuatnya dapat diakses oleh mahasiswa internasional.** Direkomendasikan bagi yang tertarik dengan industri budaya dan globalisasi.
+Analisis akademis tentang Korean Wave — K-pop, K-drama, sinema Korea, dan lainnya. **Diajarkan 100% dalam Bahasa Inggris, membuatnya bisa diakses oleh mahasiswa internasional.** Direkomendasikan bagi yang tertarik dengan industri budaya dan globalisasi.
 
-**🔍 Civic Life and Law (GEK20044)**
+**Civic Life and Law (GEK20044)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | 01 | Bae Junseong | Mon 1,2 | 0% |
 
-Sementara Introduction to Law mencakup dasar-dasar penalaran hukum, mata kuliah ini membahas isu-isu hukum yang Anda temui dalam kehidupan sehari-hari — kontrak, sewa, hak konsumen, dan lainnya. Pengetahuan praktis yang layak dimiliki terlepas dari jurusan Anda.
+Sementara Introduction to Law mencakup dasar-dasar penalaran hukum, mata kuliah ini membahas isu-isu hukum yang kamu temui dalam kehidupan sehari-hari — kontrak, sewa, hak konsumen, dan lainnya. Pengetahuan praktis yang layak dimiliki terlepas dari jurusan.
 
-**🔍 East Asian History and Culture (GEK10087)**
+**East Asian History and Culture (GEK10087)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | **01** | **Shin Seungyeop** | **Mon 3, Thu 3** | **100%** |
 
-**Mata kuliah tentang sejarah dan budaya Asia Timur yang diajarkan 100% dalam Bahasa Inggris.** Pilihan yang bagus untuk mahasiswa yang tertarik dengan hubungan internasional atau studi kawasan, dan bagi mereka yang lebih suka mata kuliah berbahasa Inggris.
+**Mata kuliah tentang sejarah dan budaya Asia Timur yang diajarkan 100% dalam Bahasa Inggris.** Pilihan bagus untuk mahasiswa yang tertarik dengan hubungan internasional atau studi kawasan, dan bagi mereka yang lebih suka mata kuliah berbahasa Inggris.
 
-**🔍 Western History and Culture (GEK10088)**
+**Western History and Culture (GEK10088)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -246,49 +246,49 @@ Sementara Introduction to Law mencakup dasar-dasar penalaran hukum, mata kuliah 
 
 Survei peradaban Barat dari zaman kuno hingga era modern. Memahami konteks sejarah menambah kedalaman signifikan saat mempelajari mata pelajaran humaniora dan ilmu sosial lainnya seperti hubungan internasional, ilmu politik, dan ekonomi.
 
-### 📊 Statistics — Bahasa Ilmu Sosial
+### Statistik — Bahasa Ilmu Sosial
 
-Jika Anda berpikir berada di humaniora berarti Anda bisa menghindari angka, pikir lagi. Penelitian psikologi mustahil tanpa analisis statistik, ekonomi pada dasarnya adalah menafsirkan data, dan sosiologi mengandalkan analisis survei dengan statistik. Statistik adalah **bahasa umum** ilmu sosial, jadi membangun fondasi di tahun pertama memberi Anda keuntungan besar saat Anda mencapai mata kuliah jurusan di tahun kedua dan seterusnya.
+Kalau kamu pikir berada di humaniora berarti bisa hindari angka, pikir lagi. Penelitian psikologi mustahil tanpa analisis statistik, ekonomi pada dasarnya adalah menafsirkan data, dan sosiologi mengandalkan analisis survei dengan statistik. Statistik adalah **bahasa umum** ilmu sosial, jadi membangun fondasi di tahun pertama memberi kamu keuntungan besar saat mencapai mata kuliah jurusan di tahun kedua dan seterusnya.
 
-**📊 Statistics (GEK20053)**
+**Statistics (GEK20053)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | 01 | Son Junggwon | Mon 4, Thu 4 | 0% |
 | 02 | Kim Heonju | Tue 2, Fri 2 | 0% |
 
-Mencakup konsep fundamental statistik: probabilitas, distribusi, pengujian hipotesis, dan analisis regresi. Mahasiswa yang lemah dalam matematika tidak perlu khawatir — ini bukan mata kuliah matematika murni dalam statistika matematis, melainkan statistik terapan sebagaimana digunakan dalam ilmu sosial.
+Mencakup konsep fundamental statistik: probabilitas, distribusi, pengujian hipotesis, dan analisis regresi. Mahasiswa yang lemah dalam matematika tidak perlu khawatir — ini bukan mata kuliah matematika murni, melainkan statistik terapan sebagaimana digunakan dalam ilmu sosial.
 
-**📊 Data and Statistical Processing (GCS20005)**
+**Data and Statistical Processing (GCS20005)**
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
 | 01 | Do Haeyoung | Mon 2, Thu 2 | 0% |
 | 02 | Do Haeyoung | Mon 3, Thu 3 | 0% |
 
-Melampaui teori statistik untuk mengajarkan cara memproses data menggunakan komputer. Jika Anda mengambil Statistics terlebih dahulu lalu mata kuliah ini, Anda akan memiliki keterampilan teoretis dan praktis. Perhatikan bahwa kode mata kuliah adalah `GCS20005` (level tahun kedua), jadi daripada mengambilnya di semester pertama, kami merekomendasikan menyelesaikan Statistics terlebih dahulu dan mengambil ini di semester kedua.
+Melampaui teori statistik untuk mengajarkan cara memproses data menggunakan komputer. Kalau kamu ambil Statistics dulu lalu mata kuliah ini, kamu akan punya kemampuan teoretis dan praktis. Perhatikan bahwa kode mata kuliah adalah `GCS20005` (level tahun kedua), jadi daripada ambil di semester pertama, kami rekomendasikan selesaikan Statistics dulu dan ambil ini di semester kedua.
 
 ---
 
-## 💻 3. ICT Programming — Wajib Bahkan untuk Mahasiswa Humaniora
+## 3. ICT Programming — Wajib Bahkan untuk Mahasiswa Humaniora
 
-Pemikiran "Saya mahasiswa humaniora, jadi saya tidak perlu coding" sudah **usang dan salah**. Handong mewajibkan semua mahasiswa menyelesaikan 7 SKS ICT convergence fundamentals, dan mahasiswa humaniora tidak terkecuali. Analisis data sentral dalam bisnis, dan literasi digital esensial di media — ini adalah realitas era kita.
+Pikiran "Saya mahasiswa humaniora, jadi tidak perlu coding" sudah **ketinggalan zaman dan salah**. Handong mewajibkan semua mahasiswa menyelesaikan 7 SKS ICT convergence fundamentals, dan mahasiswa humaniora tidak terkecuali. Analisis data sentral dalam bisnis, dan literasi digital esensial di media — ini adalah realitas era kita.
 
-Jika terasa berat, mulai dengan **Introduction to Software** (2 SKS). Ini memperkenalkan konsep pemrograman dasar secara ringan. Jika Anda ingin tantangan lebih, kami merekomendasikan **Python Programming** (3 SKS). Python mudah dipelajari namun sangat berguna secara praktis untuk analisis data, automasi, web scraping, dan aplikasi lain yang relevan dengan humaniora dan ilmu sosial.
+Kalau terasa berat, mulai dengan **Introduction to Software** (2 SKS). Ini memperkenalkan konsep programming dasar secara ringan. Kalau kamu mau tantangan lebih, kami rekomendasikan **Python Programming** (3 SKS). Python mudah dipelajari tapi sangat berguna secara praktis untuk analisis data, automasi, web scraping, dan aplikasi lain yang relevan dengan humaniora dan ilmu sosial.
 
-Jika Anda mempelajari statistik dan Python, Anda menjadi "lulusan humaniora/ilmu sosial yang bisa menangani data" — pembeda yang kuat di pasar kerja. Karena Anda harus mengambil mata kuliah ini, jangan sekadar formalitas — **pelajari dengan sungguh-sungguh.**
+Kalau kamu pelajari statistik dan Python, kamu jadi "lulusan humaniora/ilmu sosial yang bisa handle data" — pembeda yang kuat di pasar kerja. Karena kamu harus ambil mata kuliah ini, jangan sekadar formalitas — **pelajari dengan sungguh-sungguh.**
 
 > Untuk informasi kelas detail tentang Introduction to Software dan Python Programming, lihat [[STEM Freshman Guide]].
 
 ---
 
-## 🗓️ 4. Jadwal yang Direkomendasikan
+## 4. Jadwal yang Direkomendasikan
 
-Dua contoh jadwal di bawah ini disesuaikan dengan minat yang berbeda. Anda tidak perlu mengikutinya persis — sesuaikan dengan situasi Anda sendiri. Prinsip intinya adalah: **(1) minimal 2 mata kuliah pengantar, (2) 1 mata kuliah menulis, (3) 1 mata kuliah ICT, dan (4) pendidikan umum wajib (Bible, Character Education, Chapel)** — jangan lewatkan satupun.
+Dua contoh jadwal di bawah ini disesuaikan dengan minat yang berbeda. Kamu tidak perlu mengikutinya persis — sesuaikan dengan situasimu sendiri. Prinsip intinya: **(1) minimal 2 mata kuliah pengantar, (2) 1 mata kuliah menulis, (3) 1 mata kuliah ICT, dan (4) pendidikan umum wajib (Bible, Character Education, Chapel)** — jangan lewatkan satupun.
 
 **Referensi sistem period:** Period 1 = 9:00 AM, Period 2 = 10:00 AM, Period 3 = 11:00 AM, Period 4 = 12:00 PM (siang), Period 5 = 1:00 PM, Period 6 = 2:00 PM, Period 7 = 3:00 PM, Period 8 = 4:00 PM.
 
-### 📋 Schedule A: Eksplorasi Bisnis/Ekonomi (Fokus Bahasa Korea)
+### Schedule A: Eksplorasi Bisnis/Ekonomi (Fokus Bahasa Korea)
 
 ```
 Period | Mon              | Tue             | Wed       | Thu              | Fri
@@ -314,9 +314,9 @@ Period | Mon              | Tue             | Wed       | Thu              | Fri
 | + English (based on EPT results) | - | 3 | Add section |
 | **Total** | | **18.5 + English** | |
 
-**Inti dari jadwal ini:** Dengan mengambil Business dan Economics secara bersamaan, Anda bisa membandingkan dan memutuskan: "Apakah saya lebih cocok untuk manajemen perusahaan, atau untuk analisis ekonomi?" Fundamentals of College Writing membangun fondasi penulisan akademis Anda, dan Intro to Software memulai persyaratan ICT Anda. Rabu hanya ada Character Education dan Chapel, menyisakan waktu untuk tugas.
+**Inti dari jadwal ini:** Dengan ambil Business dan Economics bersamaan, kamu bisa bandingkan dan putuskan: "Apakah saya lebih cocok untuk manajemen perusahaan, atau analisis ekonomi?" Fundamentals of College Writing membangun fondasi penulisan akademismu, dan Intro to Software memulai persyaratan ICT. Rabu hanya ada Character Education dan Chapel, menyisakan waktu untuk tugas.
 
-### 📋 Schedule B: Eksplorasi Internasional/Psikologi (Fokus Bahasa Inggris, direkomendasikan untuk mahasiswa internasional)
+### Schedule B: Eksplorasi Internasional/Psikologi (Fokus Bahasa Inggris, direkomendasikan untuk mahasiswa internasional)
 
 ```
 Period | Mon              | Tue                 | Wed       | Thu              | Fri
@@ -341,51 +341,51 @@ Period | Mon              | Tue                 | Wed       | Thu              |
 | + Korean Language (required for intl students) | - | 3 | Add section |
 | **Total** | | **16.5 + Korean** | |
 
-**Inti dari jadwal ini:** Semua mata kuliah utama diajarkan 100% dalam Bahasa Inggris, sehingga mahasiswa internasional yang masih mengembangkan kemampuan Bahasa Korea bisa langsung mengambilnya. Anda bisa mengeksplorasi dua bidang yang sangat berbeda — International Relations dan Psychology — sambil membangun keterampilan presentasi melalui D&P. Kelas Sen/Kam hanya di sore hari, dan kelas Sel/Jum hanya di pagi hari, menciptakan rutinitas harian yang relatif rapi.
+**Inti dari jadwal ini:** Semua mata kuliah utama diajarkan 100% dalam Bahasa Inggris, sehingga mahasiswa internasional yang masih mengembangkan kemampuan Bahasa Korea bisa langsung ambil semuanya. Kamu bisa eksplorasi dua bidang yang sangat berbeda — International Relations dan Psychology — sambil membangun kemampuan presentasi melalui D&P. Kelas Sen/Kam hanya di sore hari, dan kelas Sel/Jum hanya di pagi hari, menciptakan rutinitas harian yang relatif rapi.
 
-> **💡 Catatan Mata Kuliah Worldview:** Tidak satu pun dari jadwal di atas yang menyertakan mata kuliah Worldview (Creation and Evolution / Christians and Mission / Christian Worldview). Worldview adalah **persyaratan kelulusan**, jadi Anda harus menyelesaikannya di suatu titik. Jika Anda memiliki ruang di jadwal semester pertama, tambahkan satu; jika tidak, pastikan untuk mengambilnya di semester kedua. Untuk detail kelas, lihat bagian Worldview di [[Spring 2026 Freshman Registration Guide]].
-
----
-
-## ⚠️ 5. Kesalahan Umum yang Dilakukan Mahasiswa Humaniora & Ilmu Sosial
-
-### ❌ "Mata kuliah pengantar itu mudah, jadi saya bisa ambil nanti"
-
-Memang benar mata kuliah pengantar relatif lebih mudah. Tetapi **tahun pertama Anda adalah satu-satunya waktu yang Anda miliki untuk mengeksplorasi.** Di tahun kedua, Anda harus mendeklarasikan jurusan, dan mata kuliah jurusan mulai menumpuk. Jendela untuk mencicipi berbagai bidang melalui mata kuliah pengantar adalah sekarang. Jika Anda menyadari di tahun kedua bahwa "jurusan ini bukan untuk saya," Anda sudah membuang satu tahun. Eksplorasi dengan tekun sekarang.
-
-### ❌ "Coding itu untuk orang STEM, jadi saya cukup lewati saja"
-
-7 SKS ICT adalah persyaratan kelulusan. Jika Anda mendekatinya dengan sikap "sekadar lewat saja," Anda akan mendapat nilai buruk, dan nilai itu langsung tercermin di IPK Anda. Karena Anda harus mengambil mata kuliah ini, **pelajari dengan sungguh-sungguh.** Di era digital, lulusan humaniora yang memahami coding memiliki daya saing yang jauh lebih kuat di pasar kerja. Terutama di bisnis, marketing, dan ilmu sosial, kemampuan analisis data bukan lagi opsional — itu esensial.
-
-### ❌ "Saya akan pilih mata kuliah elektif termudah untuk nilai bagus"
-
-Manajemen IPK memang penting, tetapi mata kuliah pendidikan umum adalah **satu-satunya kesempatan Anda untuk memperluas wawasan.** Jika Anda hanya memilih mata kuliah yang nyaman, Anda akan lulus tanpa sesuatu yang bisa ditunjukkan. Sistem open major Handong dirancang agar Anda mengeksplorasi sendiri. Jangan sia-siakan kesempatan itu.
-
-### ❌ "Mengambil mata kuliah jurusan lanjutan sebelum mendeklarasikan jurusan"
-
-Beberapa mahasiswa mengambil mata kuliah jurusan tahun ketiga atau keempat karena rasa penasaran semata sebelum mereka mendeklarasikan jurusan. Selalu periksa digit pertama kode mata kuliah. Mata kuliah seperti `MEC30001` adalah level tahun ketiga. Mengambil mata kuliah lanjutan tanpa fondasi yang tepat berarti Anda tidak akan memahami materinya, dan kemungkinan besar akan mendapat nilai buruk. Ikuti urutannya: Introduction → Foundational → Advanced.
-
-### ❌ "Tidak memeriksa rasio mata kuliah berbahasa Inggris" (Mahasiswa internasional)
-
-Seperti yang ditekankan sebelumnya, beberapa jurusan memiliki mata kuliah berbahasa Inggris yang sangat sedikit. Sebelum memutuskan jurusan, **Anda harus memeriksa rasio mata kuliah berbahasa Inggris di departemen tersebut.** Anda mungkin menemukan bahwa mata kuliah pengantar tersedia dalam Bahasa Inggris selama tahun pertama, tetapi mulai tahun kedua, semua mata kuliah jurusan dalam Bahasa Korea — di titik mana kelulusan menjadi sangat sulit.
+> **Catatan Mata Kuliah Worldview:** Tidak ada satupun jadwal di atas yang menyertakan mata kuliah Worldview (Creation and Evolution / Christians and Mission / Christian Worldview). Worldview adalah **persyaratan kelulusan**, jadi kamu harus menyelesaikannya di suatu titik. Kalau ada ruang di jadwal semester pertama, tambahkan satu; kalau tidak, pastikan ambil di semester kedua. Untuk detail kelas, lihat bagian Worldview di [[Spring 2026 Freshman Registration Guide]].
 
 ---
 
-## 🔭 6. Pratinjau Semester Kedua
+## 5. Kesalahan Umum yang Dilakukan Mahasiswa Humaniora & Ilmu Sosial
 
-Berdasarkan eksplorasi semester pertama Anda, inilah bagaimana Anda bisa merencanakan semester kedua:
+### "Mata kuliah pengantar itu mudah, jadi nanti saja"
 
-**Persempit arah jurusan:** Jika Anda mengambil dua atau lebih mata kuliah pengantar di semester pertama, ambil mata kuliah dasar di semester kedua di bidang yang paling menarik minat Anda. Misalnya, jika Introduction to Economics menarik, lanjut ke Microeconomics atau Macroeconomics.
+Memang benar mata kuliah pengantar relatif lebih mudah. Tapi **tahun pertama adalah satu-satunya waktu yang kamu punya untuk mengeksplorasi.** Di tahun kedua, kamu harus deklarasikan jurusan, dan mata kuliah jurusan mulai menumpuk. Jendela untuk mencicipi berbagai bidang melalui mata kuliah pengantar adalah sekarang. Kalau kamu sadar di tahun kedua bahwa "jurusan ini bukan buat saya," kamu sudah buang satu tahun. Eksplorasi dengan serius sekarang.
 
-**Isi pengantar yang terlewat:** Jika ada mata kuliah pengantar di bidang lain yang tidak muat di jadwal semester pertama, eksplorasi di semester kedua. Jika Anda belum menentukan pilihan jurusan, melanjutkan eksplorasi adalah hal yang tepat.
+### "Coding itu untuk orang STEM, saya skip saja"
 
-**Ambil Statistics:** Jika Anda tidak mengambil Statistics di semester pertama, pastikan untuk mengambilnya di semester kedua. Ini adalah alat esensial untuk penelitian ilmu sosial dan keterampilan yang akan Anda butuhkan segera di mata kuliah jurusan.
+7 SKS ICT adalah persyaratan kelulusan. Kalau kamu dekati dengan sikap "asal lulus saja," kamu akan dapat nilai buruk, dan nilai itu langsung tercermin di IPK. Karena kamu harus ambil mata kuliah ini, **pelajari dengan sungguh-sungguh.** Di era digital, lulusan humaniora yang paham coding punya daya saing yang jauh lebih kuat di pasar kerja. Terutama di bisnis, marketing, dan ilmu sosial, kemampuan analisis data bukan lagi opsional — itu esensial.
 
-**Data and Statistical Processing:** Jika Anda menyelesaikan Statistics di semester pertama, ambil Data and Statistical Processing di semester kedua untuk melengkapi keterampilan praktis Anda.
+### "Saya akan pilih mata kuliah elektif yang paling mudah untuk nilai bagus"
 
-**Logic and Critical Thinking:** Jika Anda mengambil mata kuliah menulis di semester pertama, tambahkan pelatihan berpikir logis di semester kedua. Writing + Logical Thinking = kombinasi paling kuat untuk menghasilkan laporan dan makalah di humaniora dan ilmu sosial.
+Manajemen IPK memang penting, tapi mata kuliah pendidikan umum adalah **satu-satunya kesempatanmu untuk perluas wawasan.** Kalau kamu hanya pilih yang nyaman, kamu akan lulus tanpa sesuatu yang bisa ditunjukkan. Open Major System Handong dirancang agar kamu eksplorasi sendiri. Jangan sia-siakan kesempatan itu.
 
-**Eksplorasi GCS:** Jika tidak ada departemen yang terasa cocok, Anda bisa mulai merancang jurusan sendiri melalui GCS dengan mengambil mata kuliah "Vision, Work, and Calling."
+### Ambil mata kuliah jurusan lanjutan sebelum deklarasi jurusan
+
+Beberapa mahasiswa ambil mata kuliah jurusan tahun ketiga atau keempat karena rasa penasaran semata sebelum mereka deklarasikan jurusan. Selalu cek digit pertama kode mata kuliah. Mata kuliah seperti `MEC30001` adalah level tahun ketiga. Ambil mata kuliah lanjutan tanpa fondasi yang tepat berarti kamu tidak akan pahami materinya, dan kemungkinan besar akan dapat nilai buruk. Ikuti urutannya: Introduction → Foundational → Advanced.
+
+### Tidak cek rasio mata kuliah berbahasa Inggris (Mahasiswa internasional)
+
+Seperti yang sudah ditekankan, beberapa jurusan punya mata kuliah berbahasa Inggris yang sangat sedikit. Sebelum putuskan jurusan, **kamu harus cek rasio mata kuliah berbahasa Inggris di departemen itu.** Kamu mungkin menemukan bahwa mata kuliah pengantar tersedia dalam Bahasa Inggris di tahun pertama, tapi mulai tahun kedua, semua mata kuliah jurusan dalam Bahasa Korea — di titik mana kelulusan jadi sangat sulit.
+
+---
+
+## 6. Pratinjau Semester Kedua
+
+Berdasarkan eksplorasi semester pertamamu, inilah cara kamu bisa rencanakan semester kedua:
+
+**Persempit arah jurusan:** Kalau kamu ambil dua atau lebih mata kuliah pengantar di semester pertama, ambil mata kuliah dasar di semester kedua di bidang yang paling menarik minatmu. Misalnya, kalau Introduction to Economics menarik, lanjut ke Microeconomics atau Macroeconomics.
+
+**Isi pengantar yang terlewat:** Kalau ada mata kuliah pengantar di bidang lain yang tidak muat di jadwal semester pertama, eksplorasi di semester kedua. Kalau belum menentukan pilihan jurusan, melanjutkan eksplorasi adalah hal yang tepat.
+
+**Ambil Statistics:** Kalau kamu tidak ambil Statistics di semester pertama, pastikan ambil di semester kedua. Ini alat esensial untuk penelitian ilmu sosial dan kemampuan yang akan kamu butuhkan segera di mata kuliah jurusan.
+
+**Data and Statistical Processing:** Kalau kamu selesaikan Statistics di semester pertama, ambil Data and Statistical Processing di semester kedua untuk melengkapi kemampuan praktismu.
+
+**Logic and Critical Thinking:** Kalau kamu ambil mata kuliah menulis di semester pertama, tambahkan pelatihan berpikir logis di semester kedua. Writing + Logical Thinking = kombinasi paling kuat untuk menghasilkan laporan dan makalah di humaniora dan ilmu sosial.
+
+**Eksplorasi GCS:** Kalau tidak ada departemen yang terasa cocok, kamu bisa mulai rancang jurusan sendiri melalui GCS dengan ambil mata kuliah "Vision, Work, and Calling."
 
 ---
 
