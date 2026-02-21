@@ -4,14 +4,14 @@ import { LANGS, LANG_LABELS, NAV_ITEMS, getFlagUrl, type Lang } from "@/lib/cons
 import { useRouter, usePathname } from "next/navigation";
 
 const PROMO_TEXT: Record<Lang, { title: string; desc: string }> = {
-  ko: { title: "이 가이드, AI가 만들었다면 믿어지나요?", desc: "이 사이트 만든 선배가 AI 활용법도 가르쳐줍니다 →" },
-  en: { title: "This guide was built with AI. Wanna learn how?", desc: "The senior who made this site teaches AI skills too →" },
-  ja: { title: "このガイド、AIで作ったって信じる？", desc: "作った先輩がAI活用法も教えてるよ →" },
-  zh: { title: "这个指南是用AI做的，信吗？", desc: "做这个网站的学长也教AI技巧 →" },
-  mn: { title: "Энэ гарын авлагыг AI-аар хийсэн гэж итгэх үү?", desc: "Үүнийг бүтээсэн ахлах оюутан AI заадаг →" },
-  ru: { title: "Этот гайд сделан с помощью AI. Хочешь научиться?", desc: "Автор этого сайта ещё и учит пользоваться AI →" },
-  ne: { title: "यो गाइड AI ले बनाएको हो, विश्वास लाग्छ?", desc: "बनाउने दाइले AI पनि सिकाउँछन् →" },
-  id: { title: "Guide ini dibuat pakai AI. Mau belajar caranya?", desc: "Kakak yang bikin ini juga ngajarin AI lho →" },
+  ko: { title: "🔥 새내기 필수! AI 활용법 알아보기", desc: "과제, 시간표, 공부 — AI로 대학생활 한 단계 업그레이드" },
+  en: { title: "🔥 Freshman must-know: AI skills for uni life", desc: "Assignments, schedules, studying — level up with AI" },
+  ja: { title: "🔥 新入生必見！AI活用スキル", desc: "課題、時間割、勉強 — AIで大学生活をレベルアップ" },
+  zh: { title: "🔥 新生必看！AI 技能速成", desc: "作业、课表、学习 — 用AI让大学生活升级" },
+  mn: { title: "🔥 Шинэ оюутны заавал мэдэх AI ур чадвар", desc: "Даалгавар, хуваарь, суралцах — AI-аар дараагийн түвшинд" },
+  ru: { title: "🔥 Первокурснику: AI-навыки для учёбы", desc: "Задания, расписание, учёба — прокачайся с помощью AI" },
+  ne: { title: "🔥 नयाँ विद्यार्थीको लागि AI सीप", desc: "Assignment, तालिका, पढाइ — AI ले level up गर" },
+  id: { title: "🔥 Wajib buat maba: skill AI untuk kuliah", desc: "Tugas, jadwal, belajar — upgrade kehidupan kampus dengan AI" },
 };
 
 export default function LandingHeader({ lang }: { lang: Lang }) {
