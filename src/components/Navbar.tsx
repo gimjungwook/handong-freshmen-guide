@@ -196,6 +196,19 @@ export default function Navbar({ lang }: { lang: Lang }) {
             </svg>
             {{ en: "Ask AI", ko: "AI에게 질문하기", ne: "AI लाई सोध्नुहोस्", id: "Tanya AI", ja: "AIに質問する", mn: "AI-аас асуух", ru: "Спросить AI", zh: "问AI" }[lang] || "Ask AI"}
           </a>
+          <a
+            href="https://bouncy-gorilla-1b4.notion.site/Dorm-Essentials-Shopping-30ed3d97522481d291dac8f2f18cb0ba"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 px-2 py-1.5 rounded text-sm text-[var(--muted)] hover:bg-[var(--sidebar-hover)] hover:text-[var(--foreground)] transition-colors"
+          >
+            <svg className="w-4 h-4 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} strokeLinecap="round" strokeLinejoin="round">
+              <path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2" />
+              <rect x="9" y="3" width="6" height="4" rx="1" />
+              <path d="M9 14l2 2 4-4" />
+            </svg>
+            {{ en: "Dorm Essentials", ko: "기숙사 생필품", ne: "Dorm Essentials", id: "Dorm Essentials", ja: "寮の必需品", mn: "Дотуур байрны хэрэгсэл", ru: "Вещи для общежития", zh: "宿舍必备" }[lang] || "Dorm Essentials"}
+          </a>
         </div>
 
         {/* Bottom controls */}
