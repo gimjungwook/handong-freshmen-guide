@@ -108,7 +108,24 @@ export default function Navbar({ lang }: { lang: Lang }) {
 
       {/* Left Sidebar */}
       <aside className={`notion-sidebar ${sidebarOpen ? "open" : ""}`}>
-        <nav className="flex-1 overflow-y-auto px-1.5 pt-3 pb-1">
+        {/* Site title */}
+        <Link
+          href={`/${lang}`}
+          onClick={() => setSidebarOpen(false)}
+          className="shrink-0 flex items-center gap-2 px-3 pt-3 pb-2 hover:opacity-80 transition-opacity"
+        >
+          <span className="text-lg">🎓</span>
+          <div className="min-w-0">
+            <div className="text-sm font-bold truncate text-[var(--foreground)]">
+              {{ ko: "새내기 가이드", en: "Freshman Guide", ja: "新入生ガイド", zh: "新生指南", mn: "Шинэ оюутан", ru: "Гид первокурсника", ne: "नयाँ विद्यार्थी", id: "Panduan Maba" }[lang] || "Freshman Guide"}
+            </div>
+            <div className="text-[10px] text-[var(--muted)] leading-tight">
+              by Get(it)Done
+            </div>
+          </div>
+        </Link>
+
+        <nav className="flex-1 overflow-y-auto px-1.5 pt-1 pb-1">
           {items.map((item) => {
             const href = item.slug === "hub" ? `/${lang}` : `/${lang}/${item.slug}`;
             const isActive = item.slug === currentSlug;
