@@ -10,11 +10,11 @@
 
 ## Kenapa Kamu Butuh Panduan Ini
 
-Pendaftaran mata kuliah di universitas jauh berbeda dari SMA. Di SMA, sekolah yang atur jadwalmu. Di universitas, **kamu sendiri** yang tentukan mata kuliah apa yang diambil, kelas (분반) dosen mana yang dipilih, dan berapa SKS yang diambil. Ini bukan sekadar urusan administratif — ini adalah **keputusan besar pertama yang akan membentuk empat tahun hidupmu di kampus**.
+Pendaftaran mata kuliah di universitas jauh berbeda dari SMA, dan wajar banget kalau kamu merasa bingung di awal. Tenang aja, semua kakak tingkat juga pernah di posisi yang sama. Di SMA, sekolah yang atur jadwalmu. Di universitas, **kamu sendiri** yang tentukan mata kuliah apa yang diambil, kelas (분반) dosen mana yang dipilih, dan berapa SKS yang diambil. Ini bukan sekadar urusan administratif — ini adalah **keputusan besar pertama yang akan membentuk empat tahun hidupmu di kampus**.
 
 Yang membuat Handong unik adalah **Open Major System** (자유전공제). Kamu tidak memilih jurusan saat masuk. Sebaliknya, kamu mengeksplorasi berbagai bidang selama tahun pertama, lalu secara resmi memilih jurusan di **semester ketiga** (tahun kedua). Artinya, mata kuliah umum dan pengantar yang kamu ambil sebagai mahasiswa baru langsung memengaruhi jurusan mana yang bisa kamu masuki nanti. Salah pilih sekarang bisa memundurkan masuk jurusan atau memblokir mata kuliah yang kamu butuhkan di kemudian hari.
 
-Satu hal penting: course registration dilakukan di **[sugang.handong.edu](https://sugang.handong.edu)** — BUKAN di HISNet. Kamu login dengan ID dan password HISNet, tapi situsnya berbeda. Pastikan kamu sudah coba masuk ke situs itu **sebelum** hari pendaftaran.
+Oh iya, satu hal penting: course registration dilakukan di **[sugang.handong.edu](https://sugang.handong.edu)** — BUKAN di HISNet. Kamu login dengan ID dan password HISNet, tapi situsnya berbeda. Pastikan kamu sudah coba masuk ke situs itu **sebelum** hari pendaftaran.
 
 ### Struktur Semester Universitas Korea
 

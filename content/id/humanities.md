@@ -16,11 +16,11 @@ Panduan ini ditulis untuk mahasiswa baru yang mempertimbangkan departemen dan ju
 - **School of Counseling, Psychology, & Social Welfare**: Psychology, Counseling, Social Welfare
 - **School of Global Leadership (GLS)**: International Studies
 
-Inti dari humaniora dan ilmu sosial adalah **eksplorasi yang luas dan kemampuan menulis yang baik**. Berbeda dengan STEM yang alurnya linear (Matematika → Fisika → Mata kuliah jurusan), humaniora dan ilmu sosial justru menghargai proses bertemu berbagai disiplin ilmu dan secara bertahap mempersempit minat. Gunakan tahun pertama untuk ambil beberapa mata kuliah pengantar dan cek apakah suatu bidang benar-benar cocok untukmu.
+Inti dari humaniora dan ilmu sosial adalah **eksplorasi yang luas dan kemampuan menulis yang baik**. Berbeda dengan STEM yang alurnya linear (Matematika → Physics → Mata kuliah jurusan), humaniora dan ilmu sosial justru menghargai proses bertemu berbagai disiplin ilmu dan secara bertahap mempersempit minat. Gunakan tahun pertama untuk ambil beberapa mata kuliah pengantar dan cek apakah suatu bidang benar-benar cocok untukmu.
 
 ### Informasi Krusial untuk Mahasiswa Internasional
 
-Tidak semua jurusan di Handong bisa diselesaikan sepenuhnya dalam Bahasa Inggris — **ini yang harus kamu pahami sebelum memilih jalur.** Beberapa departemen menawarkan mata kuliah mereka hampir eksklusif dalam Bahasa Korea, membuat kelulusan sangat susah bagi mahasiswa yang tidak fasih berbahasa Korea.
+Tidak semua jurusan di Handong bisa diselesaikan sepenuhnya dalam Bahasa Inggris — **ini penting banget untuk kamu pahami sebelum memilih jalur.** Beberapa departemen menawarkan mata kuliah mereka hampir eksklusif dalam Bahasa Korea, membuat kelulusan sangat susah bagi mahasiswa yang tidak fasih berbahasa Korea.
 
 **Jurusan dengan cukup mata kuliah berbahasa Inggris untuk kelulusan (direkomendasikan untuk mahasiswa internasional):**
 - **School of Management & Economics**
@@ -272,9 +272,9 @@ Melampaui teori statistik untuk mengajarkan cara memproses data menggunakan komp
 
 ## 3. ICT Programming — Wajib Bahkan untuk Mahasiswa Humaniora
 
-Pikiran "Saya mahasiswa humaniora, jadi tidak perlu coding" sudah **ketinggalan zaman dan salah**. Handong mewajibkan semua mahasiswa menyelesaikan 7 SKS ICT convergence fundamentals, dan mahasiswa humaniora tidak terkecuali. Analisis data sentral dalam bisnis, dan literasi digital esensial di media — ini adalah realitas era kita.
+Pikiran "Saya mahasiswa humaniora, jadi tidak perlu coding" sudah **tidak relevan lagi di zaman sekarang**. Handong mewajibkan semua mahasiswa menyelesaikan 7 SKS ICT convergence fundamentals, dan mahasiswa humaniora tidak terkecuali. Analisis data sentral dalam bisnis, dan literasi digital esensial di media — ini adalah realitas era kita.
 
-Kalau terasa berat, mulai dengan **Introduction to Software** (2 SKS). Ini memperkenalkan konsep programming dasar secara ringan. Kalau kamu mau tantangan lebih, kami rekomendasikan **Python Programming** (3 SKS). Python mudah dipelajari tapi sangat berguna secara praktis untuk analisis data, automasi, web scraping, dan aplikasi lain yang relevan dengan humaniora dan ilmu sosial.
+Kalau terasa berat, tenang aja — mulai dengan **Introduction to Software** (2 SKS). Ini memperkenalkan konsep programming dasar secara ringan. Kalau kamu mau tantangan lebih, kami rekomendasikan **Python Programming** (3 SKS). Python mudah dipelajari tapi sangat berguna secara praktis untuk analisis data, automasi, web scraping, dan aplikasi lain yang relevan dengan humaniora dan ilmu sosial.
 
 Kalau kamu pelajari statistik dan Python, kamu jadi "lulusan humaniora/ilmu sosial yang bisa handle data" — pembeda yang kuat di pasar kerja. Karena kamu harus ambil mata kuliah ini, jangan sekadar formalitas — **pelajari dengan sungguh-sungguh.**
 

@@ -7,7 +7,7 @@
 
 ## 1. Untuk Siapa Panduan Ini
 
-Belum pilih jurusan **bukan sesuatu yang memalukan.** Justru, kamu berada di posisi terbaik untuk memanfaatkan sepenuhnya Open Major System Handong.
+Belum pilih jurusan? **Santai aja, itu bukan sesuatu yang memalukan.** Justru, kamu berada di posisi terbaik untuk memanfaatkan sepenuhnya Open Major System Handong.
 
 Banyak mahasiswa mengunci jurusan sebelum tiba di kampus — "Teknik prospek kerjanya bagus," atau "Orang tua saya ingin saya belajar bisnis." Lalu tahun kedua datang dan penyesalan muncul: "Ini bukan jalur yang tepat buat saya." Memilih jurusan adalah keputusan yang akan membentuk setidaknya tiga tahun ke depan, dan berpotensi seluruh karirmu. Mengambil satu semester untuk eksplorasi sebelum memutuskan bukan terlambat — itu bijaksana.
 
@@ -82,7 +82,7 @@ Mata kuliah praktis di mana kamu membangun situs web nyata. Kamu akan pelajari H
 
 **Introduction to Physics (GEK10090)** — 3 credits, Tue period 2 & Fri period 2 / Tue period 3 & Fri period 3
 
-Mata kuliah yang mencakup konsep fisika inti pada level yang bisa diakses non-jurusan. Cakupannya lebih luas tapi kedalamannya lebih dangkal dari Physics 1, jadi ideal untuk mahasiswa yang berpikir, "Saya ingin pahami apa itu fisika, tapi tidak berencana jadikannya jurusan." Ini membantu membangun intuisi teknik, dan bahkan kalau kamu kemudian pilih jurusan STEM, ini jadi fondasi yang solid.
+Mata kuliah yang mencakup konsep Physics inti pada level yang bisa diakses non-jurusan. Cakupannya lebih luas tapi kedalamannya lebih dangkal dari Physics 1, jadi ideal untuk mahasiswa yang berpikir, "Saya ingin pahami apa itu Physics, tapi tidak berencana jadikannya jurusan." Ini membantu membangun intuisi teknik, dan bahkan kalau kamu kemudian pilih jurusan STEM, ini jadi fondasi yang solid.
 
 ### Pencicipan Humaniora & Ilmu Sosial
 
@@ -122,7 +122,7 @@ Mata kuliah seni dan desain cenderung berat pada praktik, sehingga investasi wak
 
 **Drawing Fundamentals 1 (IID10004)** — 3 credits, Fri periods 2–3 / Fri periods 5–6 / Fri periods 7–8
 
-Mata kuliah dasar menggambar dan ekspresi visual. Kalau kamu berpikir "Saya tidak bisa menggambar" — jangan khawatir. Mata kuliah ini melatih keterampilan observasi dan teknik ekspresi, bukan bakat bawaan. Ini titik awal yang bagus bagi siapapun yang mempertimbangkan desain, arsitektur, atau media. Bonus: kelasnya hanya di hari Jumat, sehingga tidak memengaruhi jadwal di hari lain.
+Mata kuliah dasar menggambar dan ekspresi visual. Kalau kamu berpikir "Saya tidak bisa menggambar" — tenang aja, jangan khawatir. Mata kuliah ini melatih keterampilan observasi dan teknik ekspresi, bukan bakat bawaan. Ini titik awal yang bagus bagi siapapun yang mempertimbangkan desain, arsitektur, atau media. Bonus: kelasnya hanya di hari Jumat, sehingga tidak memengaruhi jadwal di hari lain.
 
 **Introduction to Spatial Studies (CUE10004)** — 3 credits, Tue period 1 & Fri period 1 / Mon period 4 & Thu period 4
 
@@ -242,7 +242,7 @@ Digit pertama kode mata kuliah menunjukkan level tahun target. Mata kuliah denga
 
 ### Menunda Keputusan Tetap Sebuah Keputusan
 
-Eksplorasi itu penting, tapi **kamu tidak bisa eksplorasi selamanya.** Habiskan semester pertama untuk mendapat pengalaman, lalu mulai tetapkan arah di semester kedua. Pilihan sempurna tidak ada di dunia ini. Ketika kamu mencapai 70% keyakinan, bergeraklah. 30% sisanya terisi sendiri melalui tindakan. Mereka yang menunggu momen sempurna berakhir tidak pernah mulai apapun sama sekali.
+Eksplorasi itu penting, tapi ingat ya, **kamu tidak bisa eksplorasi selamanya.** Habiskan semester pertama untuk mendapat pengalaman, lalu mulai tetapkan arah di semester kedua. Pilihan sempurna tidak ada di dunia ini. Ketika kamu mencapai 70% keyakinan, bergeraklah. 30% sisanya terisi sendiri melalui tindakan. Mereka yang menunggu momen sempurna berakhir tidak pernah mulai apapun sama sekali.
 
 ---
 

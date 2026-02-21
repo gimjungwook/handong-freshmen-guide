@@ -1,16 +1,16 @@
 # Required Courses
 
-> Every freshman at Handong Global University must complete a fixed set of required courses before anything else. Regardless of your intended major, your nationality, or whether you lean toward STEM or humanities, these courses form the non-negotiable foundation of your degree. Build your timetable around these first, then fill in electives and major exploration courses around them.
+> Every freshman at Handong has to complete a fixed set of required courses — no exceptions. It doesn't matter what major you're eyeing, where you're from, or whether you're a STEM person or a humanities person. These courses are the non-negotiable foundation of your degree. Build your timetable around these first, then fill in electives and exploration courses around them.
 
 ---
 
 ## ⛪ Chapel 1 (0 credits, every semester)
 
-Chapel carries zero credits but is **mandatory every semester**. You must complete Chapel 1 through Chapel 6 over six semesters, and failure to do so will prevent you from graduating.
+Chapel carries zero credits but it's **mandatory every semester**. You'll need to complete Chapel 1 through Chapel 6 over six semesters, and if you don't? You can't graduate. Simple as that.
 
-Here is the most common freshman mistake with Chapel: many students assume they can simply show up without registering. **You must register for Chapel in the course registration system.** Every year, students attend Chapel faithfully for an entire semester only to discover at the end that they never registered — and their attendance does not count. This mistake is extremely difficult to reverse.
+Here's the most common freshman mistake with Chapel — and we really need you to hear this: many students assume they can just show up without registering. **You MUST register for Chapel in the course registration system.** Every single year, students attend Chapel faithfully for an entire semester only to discover at the end that they never registered — and their attendance doesn't count. Imagine that gut-punch feeling. Don't let it happen to you.
 
-Chapel attendance uses a **QR code tagging system**. You must arrive on time and scan the QR code. If you miss the scan, retroactive corrections are nearly impossible. Do not be late.
+Chapel attendance uses a **QR code tagging system**. You've got to arrive on time and scan the QR code. If you miss the scan, getting it corrected retroactively is nearly impossible. So don't be late!
 
 > **Spring 2026:** Chapel 1 (GEK10001), Section 01 — Wed periods 4, 5, 6 (Hyoam Main Building) / Language: Korean (0% English)
 
@@ -18,7 +18,7 @@ Chapel attendance uses a **QR code tagging system**. You must arrive on time and
 
 ## 🤝 Community Leadership Training 1 (0.5 credits, every semester)
 
-Like Chapel, this course is required every semester. It focuses on leadership and teamwork within your residential community. **The same registration mistake happens here** — students participate in weekly team meetings all semester without actually registering in the system. Register it.
+Just like Chapel, this one's required every semester. It focuses on leadership and teamwork within your residential community. And guess what? **The exact same registration mistake happens here** — students participate in weekly team meetings all semester without actually registering in the system. Don't be that person. Register it!
 
 > **Spring 2026:** Community Leadership Training 1 (GEK10008), Section 01 — Time TBA (announced later)
 
@@ -26,7 +26,7 @@ Like Chapel, this course is required every semester. It focuses on leadership an
 
 ## 💎 Handong Character Education (1 credit, one-time requirement)
 
-This is a core course in Handong's character education philosophy. Multiple sections are available. **Section 01 is taught 100% in English**, making it the ideal choice for international students.
+This is a core course in Handong's character education philosophy. Multiple sections are available, and here's the good news — **Section 01 is taught 100% in English**, making it the perfect choice for international students.
 
 > **Spring 2026 Sections:**
 
@@ -39,17 +39,17 @@ This is a core course in Handong's character education philosophy. Multiple sect
 | 05 | 최혜봉 | Wed 2 | 0% | Korean |
 | 06 | 윤상헌 | Wed 2 | 0% | Korean |
 
-Sections 02 through 06 all meet on Wednesday period 2, so they differ only by professor. If you are comfortable in Korean, ask your 섬김이 (student mentor) about each professor's teaching style before choosing.
+Sections 02 through 06 all meet on Wednesday period 2, so the only difference is the professor. If you're comfortable in Korean, ask your 섬김이 (student mentor) about each professor's teaching style before choosing — they'll give you the real scoop.
 
 ---
 
 ## ✝️ Christian Faith Foundation (CF1) — 2 credits
 
-You must complete one course from this category: Understanding the Bible, Bible and Life, or Bible and Spiritual Growth. These are treated as equivalent courses, so you only need to take one.
+You'll need to complete one course from this category: Understanding the Bible, Bible and Life, or Bible and Spiritual Growth. They're treated as equivalent, so just pick one that fits your schedule.
 
 ### 📖 Understanding the Bible (GEK20058) — 15 Sections
 
-This is the most widely offered course, with 15 sections available, making it the easiest to fit into any timetable.
+This is the most widely offered course with 15 sections available, which makes it the easiest to fit into any timetable. You've got plenty of options here!
 
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
@@ -69,7 +69,7 @@ This is the most widely offered course, with 15 sections available, making it th
 | 14 | 한은선 | Mon 2, Thu 2 | 0% | |
 | 15 | 한은선 | Mon 3, Thu 3 | 0% | |
 
-**For international students**: Choose Section 07 (Joshua Kim, 100% English), Section 11 (최성호, 100% English), or Section 12 (최성호, 100% English). Be aware that English sections are popular and may fill up quickly during pre-registration — always have a backup plan.
+**For international students**: Go for Section 07 (Joshua Kim, 100% English), Section 11 (최성호, 100% English), or Section 12 (최성호, 100% English). Just a heads-up though — English sections are popular and can fill up fast during pre-registration. Always have a backup plan ready!
 
 ### 📖 Understanding Christianity (GEK20059)
 
@@ -78,13 +78,13 @@ This is the most widely offered course, with 15 sections available, making it th
 | **01** | **Gregory T. Brown** | **Mon 2, Thu 2** | **100%** | **English** |
 | **02** | **Gregory T. Brown** | **Mon 3, Thu 3** | **100%** | **English** |
 
-Both sections are taught entirely in English. This is an excellent alternative if the English sections of Understanding the Bible are full.
+Both sections are taught entirely in English. This is an excellent backup if the English sections of Understanding the Bible are full — don't sleep on this option!
 
 ---
 
 ## 🌐 Worldview — 2 credits
 
-You must take one course from this category: Creation and Evolution, Christians and Mission, or Christian Worldview. Each has both Korean and English sections available.
+You'll need to take one course from this category: Creation and Evolution, Christians and Mission, or Christian Worldview. Each has both Korean and English sections available, so you've got choices.
 
 | Course | Section | Professor | Time | English % |
 |--------|---------|-----------|------|-----------|
@@ -95,13 +95,13 @@ You must take one course from this category: Creation and Evolution, Christians 
 | Christian Worldview (GEK20011) | 01 | 최용준 | Mon 3, Thu 3 | 0% |
 | **Christian Worldview (GEK20011)** | **02** | **최용준** | **Tue 2, Fri 2** | **100%** |
 
-**Watch for time conflicts:** Several courses cluster in the Wed 2-3 time slot. If you are taking Character Education sections 02-06 (Wed 2), you cannot also take a Worldview course at Wed 2-3. Plan accordingly.
+**Watch out for time conflicts!** Several courses cluster in the Wed 2-3 time slot. If you're taking Character Education sections 02-06 (Wed 2), you can't also take a Worldview course at Wed 2-3. Plan ahead — you don't want to discover this conflict on registration day.
 
 ---
 
 ## 🫶 Social Service (1 credit x 2 courses total)
 
-You must complete two Social Service courses (out of Social Service 1-4) before graduation. Taking one per semester is recommended.
+You'll need to complete two Social Service courses (out of Social Service 1-4) before graduation. Taking one per semester is the way to go.
 
 > **Spring 2026:** Social Service 1 (GEK10046) Section 01, Social Service 2 (GEK20046) Section 01 — No fixed class time (practice-based)
 
@@ -109,7 +109,7 @@ You must complete two Social Service courses (out of Social Service 1-4) before 
 
 ## 💻 ICT Requirement (7 credits for ALL students)
 
-Every Handong student, regardless of major, must complete **7 credits of ICT Convergence courses**: 5 credits of Programming + 2 credits of Application. This is not optional, and it applies equally to humanities and social science students.
+Every Handong student — yes, *every* student, regardless of major — must complete **7 credits of ICT Convergence courses**: 5 credits of Programming + 2 credits of Application. This isn't optional, and it applies equally to humanities and social science students. Don't worry though — it's totally doable, and honestly, you'll be glad you learned this stuff.
 
 ### Recommended English-Taught ICT Courses for International Students
 
@@ -118,7 +118,7 @@ Every Handong student, regardless of major, must complete **7 credits of ICT Con
 | **Python Programming** | GCS10004 | 3 | **05** | 박지현 | Mon 5, Thu 5 | **100%** |
 | **Frontend Introduction** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
 
-**A useful note:** The OIA (Office of International Admissions) sometimes reserves seats in programming courses specifically for international freshmen. If you are an international student, ask OIA about this — it could save you a registration battle.
+**A helpful tip:** The OIA (Office of International Admissions) sometimes reserves seats in programming courses specifically for international freshmen. If you're an international student, definitely ask OIA about this — it could save you a stressful registration battle!
 
 ### Choosing Your Path: C, Python, or Software Introduction?
 
@@ -133,7 +133,7 @@ flowchart TD
     B --> G["Take a 3-credit<br/>course next semester"]
 ```
 
-If you have no coding background and feel intimidated, Software Introduction (GCS10001, 2 credits) is a gentle starting point. However, if you are seriously considering any STEM major, challenge yourself to take Python or C directly — it saves you a full semester.
+If you've never coded before and it feels intimidating — don't worry, you're not alone! Software Introduction (GCS10001, 2 credits) is a gentle starting point. But here's our honest advice: if you're seriously considering any STEM major, challenge yourself to take Python or C directly. It's tougher, sure, but it saves you a full semester. You're capable of more than you think!
 
 ---
 

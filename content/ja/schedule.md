@@ -8,7 +8,7 @@
 
 ## 💻 履修登録システムの概要
 
-履修登録（course registration）は **[sugang.handong.edu](https://sugang.handong.edu)** で行います。HISNetのIDとパスワードでログインします。初めて使うときは戸惑うかもしれませんが、予備登録の期間を使ってシステムに慣れておけば、本登録のときに焦らずに済みます。
+履修登録（course registration）は **[sugang.handong.edu](https://sugang.handong.edu)** で行います。HISNetのIDとパスワードでログインします。初めて使うときは戸惑うかもしれませんが、予備登録の期間を使ってシステムに慣れておけば、本登録のときに焦らずに済みますよ。
 
 ---
 

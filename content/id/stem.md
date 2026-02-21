@@ -15,7 +15,7 @@ Panduan ini ditulis untuk **mahasiswa baru Angkatan 2026** yang mempertimbangkan
 - **Spatial Environment & Systems Engineering**: Construction, Environmental, Urban Engineering
 - **Life Sciences**: Biology, Biotechnology, Bioengineering
 
-Bahkan kalau kamu berpikir "Saya belum yakin jurusan pastinya, tapi tahu saya orang STEM" — panduan ini untuk kamu. Di Handong, kamu tidak mendeklarasikan jurusan di tahun pertama. Artinya strategi intinya adalah **mengisi tahun pertama dengan mata kuliah dasar yang akan berguna apapun jurusan STEM yang akhirnya kamu pilih.**
+Bahkan kalau kamu berpikir "Saya belum yakin jurusan pastinya, tapi tahu saya orang STEM" — tenang, panduan ini memang untuk kamu. Di Handong, kamu tidak mendeklarasikan jurusan di tahun pertama. Artinya strategi intinya adalah **mengisi tahun pertama dengan mata kuliah dasar yang akan berguna apapun jurusan STEM yang akhirnya kamu pilih.**
 
 ### Kenapa Fondasi Tahun Pertama Sangat Penting
 
@@ -40,9 +40,9 @@ Demikian pula, ambil mata kuliah jurusan lanjutan sebelum jurusanmu dikonfirmasi
 
 ### 2.1 Calculus 1 — Titik Awal untuk Semua STEM
 
-Kalkulus adalah **bahasa umum** dari hampir setiap bidang: teknik, fisika, ilmu komputer, bahkan ekonomi. Diferensiasi berkaitan dengan "laju perubahan," dan integrasi berkaitan dengan "kuantitas terakumulasi" — tanpa kedua konsep ini, tidak ada mata kuliah STEM tingkat lanjut yang bisa diakses.
+Calculus adalah **bahasa umum** dari hampir setiap bidang: teknik, fisika, ilmu komputer, bahkan ekonomi. Diferensiasi berkaitan dengan "laju perubahan," dan integrasi berkaitan dengan "kuantitas terakumulasi" — tanpa kedua konsep ini, tidak ada mata kuliah STEM tingkat lanjut yang bisa diakses.
 
-Bayangkan Kalkulus sebagai **alfabet** dari belajar bahasa asing. Tanpa alfabet kamu tidak bisa baca kata, dan tanpa kata kamu tidak bisa pahami kalimat. Tidak peduli apakah kamu jago atau tidak jago matematika di SMA — Kalkulus universitas berada di kedalaman yang berbeda secara fundamental. Kamu akan melatih pemikiran matematis yang ketat, dimulai dari definisi epsilon-delta.
+Bayangkan Calculus sebagai **alfabet** dari belajar bahasa asing. Tanpa alfabet kamu tidak bisa baca kata, dan tanpa kata kamu tidak bisa pahami kalimat. Tidak peduli apakah kamu jago atau tidak jago matematika di SMA — Calculus universitas berada di kedalaman yang berbeda secara fundamental. Kamu akan melatih pemikiran matematis yang ketat, dimulai dari definisi epsilon-delta.
 
 **Peta jalan ideal**: Semester 1 Calculus 1 → Semester 2 Calculus 2 → Semester 3 Differential Equations. Kalau urutan ini bergeser bahkan satu semester, masukmu ke mata kuliah jurusan ikut tertunda.
 
@@ -66,7 +66,7 @@ Bayangkan Kalkulus sebagai **alfabet** dari belajar bahasa asing. Tanpa alfabet 
 
 ### 2.2 Calculus 2 — Ambil di Semester 1 Kalau Bisa
 
-Biasanya Calculus 2 diambil di Semester 2, tapi kalau kamu punya fondasi kalkulus SMA yang kuat, kamu bisa ambil Calculus 1 dan 2 bersamaan di Semester 1. Ini memungkinkan kamu ambil Differential Equations paling cepat di Semester 2, mempercepat masuk ke mata kuliah jurusan satu semester penuh.
+Biasanya Calculus 2 diambil di Semester 2, tapi kalau kamu punya fondasi Calculus SMA yang kuat, kamu bisa ambil Calculus 1 dan 2 bersamaan di Semester 1. Ini memungkinkan kamu ambil Differential Equations paling cepat di Semester 2, mempercepat masuk ke mata kuliah jurusan satu semester penuh.
 
 Tapi ini **hanya direkomendasikan kalau kamu benar-benar yakin dengan kemampuan matematikamu**. Lebih baik kuasai satu mata kuliah dengan solid daripada memaksakan diri dan kehilangan keduanya.
 
@@ -82,7 +82,7 @@ Tapi ini **hanya direkomendasikan kalau kamu benar-benar yakin dengan kemampuan 
 
 Kalau kamu mengarah ke jalur teknik (Computer & Electronic, Mechanical & Control, Spatial Environment), Physics **bukan opsional — wajib**. Physics 1 mencakup mekanika dan termodinamika, mengajarkan cara menangani gaya, energi, dan momentum dengan ketelitian matematis. Ini berujung ke Physics 2 (elektromagnetisme) di Semester 2, yang merupakan fondasi langsung Electronic Engineering.
 
-Bayangkan Fisika sebagai **bahasa pemrograman alam**. Untuk merancang apapun sebagai insinyur, kamu perlu pahami hukum alam — dan hukum-hukum itu adalah Fisika.
+Bayangkan Physics sebagai **bahasa pemrograman alam**. Untuk merancang apapun sebagai insinyur, kamu perlu pahami hukum alam — dan hukum-hukum itu adalah Physics.
 
 > **2026 Spring — Physics 1 (GEK10055):**
 
@@ -91,7 +91,7 @@ Bayangkan Fisika sebagai **bahasa pemrograman alam**. Untuk merancang apapun seb
 | 01 | Cho Hyunji | Mon P2, Thu P2 | 0% |
 | 02 | Cho Hyunji | Mon P3, Thu P3 | 0% |
 
-**Physics 1 vs. Introduction to Physics**: Kalau kamu mempertimbangkan Computer Science atau AI, kamu bisa ganti dengan "Introduction to Physics" (물리학 개론). Cakupannya lebih luas dari Physics 1 tapi dengan kedalaman yang lebih dangkal — cukup untuk membangun intuisi teknik. Tapi kalau kamu serius mempertimbangkan Electronic Engineering atau Mechanical Engineering, di mana fisika sangat erat kaitannya dengan jurusan, **ambil Physics 1 tanpa pikir panjang.**
+**Physics 1 vs. Introduction to Physics**: Kalau kamu mempertimbangkan Computer Science atau AI, kamu bisa ganti dengan "Introduction to Physics" (물리학 개론). Cakupannya lebih luas dari Physics 1 tapi dengan kedalaman yang lebih dangkal — cukup untuk membangun intuisi teknik. Tapi kalau kamu serius mempertimbangkan Electronic Engineering atau Mechanical Engineering, di mana Physics sangat erat kaitannya dengan jurusan, **ambil Physics 1 tanpa pikir panjang.**
 
 > **Introduction to Physics (GEK10090) — Alternatif untuk Physics 1:**
 
@@ -102,7 +102,7 @@ Bayangkan Fisika sebagai **bahasa pemrograman alam**. Untuk merancang apapun seb
 
 ### 2.4 Linear Algebra — Matematika Esensial untuk Era AI
 
-Linear Algebra adalah salah satu **dua pilar besar** matematika STEM bersama Kalkulus. Ini mencakup vektor, matriks, eigenvalue, dan transformasi linear — dan merupakan **jantung matematis** dari AI dan machine learning.
+Linear Algebra adalah salah satu **dua pilar besar** matematika STEM bersama Calculus. Ini mencakup vektor, matriks, eigenvalue, dan transformasi linear — dan merupakan **jantung matematis** dari AI dan machine learning.
 
 Kenapa? Dalam machine learning, data direpresentasikan sebagai matriks, dan pelatihan model dilakukan melalui operasi matriks. Bahkan backpropagation dalam deep learning pada akhirnya adalah diferensiasi matriks. Tanpa Linear Algebra, kamu tidak bisa pahami *kenapa* hal-hal bekerja dalam mata kuliah AI — kamu hanya akan menyalin kode tanpa pengertian.
 
@@ -296,7 +296,7 @@ Berikut **contoh jadwal** yang dibangun dari mata kuliah nyata yang ditawarkan d
 | + English (per EPT result) | - | 3 | TBD | Likely placed on Tue/Fri |
 | **Total** | | **16.5 + English 3** | | |
 
-> **Kenapa kombinasi ini?** Electronic dan Mechanical Engineering dibangun di atas fondasi fisika. Mengambil Calculus + Physics bersamaan berarti konsep diferensiasi yang kamu pelajari di Calculus langsung diterapkan pada masalah kecepatan dan percepatan di Physics — efek **saling memperkuat** yang kuat. C Programming adalah fondasi embedded system dan kontrol hardware, menjadikannya pilihan ideal untuk calon mahasiswa Electronic/Mechanical Engineering.
+> **Kenapa kombinasi ini?** Electronic dan Mechanical Engineering dibangun di atas fondasi Physics. Mengambil Calculus + Physics bersamaan berarti konsep diferensiasi yang kamu pelajari di Calculus langsung diterapkan pada masalah kecepatan dan percepatan di Physics — efek **saling memperkuat** yang kuat. C Programming adalah fondasi embedded system dan kontrol hardware, menjadikannya pilihan ideal untuk calon mahasiswa Electronic/Mechanical Engineering.
 
 ---
 
@@ -304,7 +304,7 @@ Berikut **contoh jadwal** yang dibangun dari mata kuliah nyata yang ditawarkan d
 
 ### "Saya akan ambil matematika nanti"
 
-Ini adalah **kesalahan paling fatal**. Struktur mata kuliah di STEM paling tepat dipahami sebagai domino:
+Ini **kesalahan yang paling sering bikin menyesal**. Struktur mata kuliah di STEM paling tepat dipahami sebagai domino:
 
 ```mermaid
 flowchart LR
@@ -320,7 +320,7 @@ Menunda Calculus 1 ke Semester 2 → Calculus 2 terdorong ke Semester 3 → Diff
 
 ### "Saya belum pernah coding, jadi cukup ambil Intro to Software saja"
 
-Intro to Software adalah mata kuliah 2 SKS yang bersifat pengenalan. Kalau kamu serius mempertimbangkan Computer Science atau AI, skip dan langsung ambil Python atau C. Ya, ini akan lebih susah — tapi menghindari kesulitan berarti menghindari pertumbuhan. Kalau kamu ambil Intro to Software di Semester 1 dan Python di Semester 2, kamu habiskan satu tahun penuh hanya untuk dasar-dasar programming.
+Intro to Software adalah mata kuliah 2 SKS yang bersifat pengenalan. Kalau kamu serius mempertimbangkan Computer Science atau AI, skip dan langsung ambil Python atau C. Ya, ini akan lebih susah — tapi percaya deh, tantangan ini worth it untuk pertumbuhanmu. Kalau kamu ambil Intro to Software di Semester 1 dan Python di Semester 2, kamu habiskan satu tahun penuh hanya untuk dasar-dasar programming.
 
 ### Ngotot soal General Biology
 
@@ -348,7 +348,7 @@ Kalau kamu berhasil selesaikan mata kuliah di atas di Semester 1, inilah yang pe
 
 | Course | Target | Why It Matters |
 |--------|--------|----------------|
-| **Calculus 2** | All STEM | Kelanjutan Calculus 1. Mencakup deret, kalkulus multivariabel, dan prasyarat untuk Differential Equations |
+| **Calculus 2** | All STEM | Kelanjutan Calculus 1. Mencakup deret, Calculus multivariabel, dan prasyarat untuk Differential Equations |
 | **Physics 2** | Electronic/Mechanical tracks | Mencakup elektromagnetisme — fondasi langsung Electronic Engineering |
 | **Data Structures** | Computer Science/AI tracks | Array, list, tree, graph — konsep programming inti dan favorit wawancara coding |
 | **General Chemistry** | Life Sciences/Chemistry | Kalau tidak bisa ambil di Semester 1, wajib di Semester 2 |

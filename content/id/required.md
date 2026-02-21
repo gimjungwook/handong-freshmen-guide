@@ -1,6 +1,6 @@
 # Mata Kuliah Wajib untuk Mahasiswa Baru
 
-Apapun jurusan yang kamu tuju — STEM atau humaniora — dan dari negara manapun kamu berasal, **setiap mahasiswa baru wajib menyelesaikan** mata kuliah berikut. Susun jadwalmu berdasarkan mata kuliah ini dulu, baru isi sisanya.
+Apapun jurusan yang kamu tuju — STEM atau humaniora — dan dari negara manapun kamu berasal, **setiap mahasiswa baru wajib menyelesaikan** mata kuliah berikut. Jangan khawatir, daftarnya kelihatan banyak tapi sebenarnya cukup straightforward kok. Susun jadwalmu berdasarkan mata kuliah ini dulu, baru isi sisanya.
 
 ---
 
@@ -8,7 +8,7 @@ Apapun jurusan yang kamu tuju — STEM atau humaniora — dan dari negara manapu
 
 Chapel tidak ada SKS-nya, tapi **wajib setiap semester**. Kamu harus menyelesaikan Chapel 1 sampai Chapel 6 selama enam semester — kalau tidak, kamu tidak bisa lulus.
 
-Kesalahan paling umum mahasiswa baru soal Chapel: banyak yang kira cukup datang hadir tanpa perlu daftar. **Salah besar — kamu harus mendaftarkan Chapel di sistem pendaftaran mata kuliah.** Setiap tahun ada mahasiswa yang rajin hadir Chapel selama satu semester penuh, tapi di akhir semester baru sadar mereka tidak pernah mendaftar — dan kehadirannya tidak dihitung. Kesalahan ini sangat susah diperbaiki.
+Kesalahan paling umum mahasiswa baru soal Chapel: banyak yang kira cukup datang hadir tanpa perlu daftar. **Ini salah ya — kamu harus mendaftarkan Chapel di sistem pendaftaran mata kuliah.** Setiap tahun ada mahasiswa yang rajin hadir Chapel selama satu semester penuh, tapi di akhir semester baru sadar mereka tidak pernah mendaftar — dan kehadirannya tidak dihitung. Kesalahan ini sangat susah diperbaiki.
 
 Kehadiran Chapel menggunakan **sistem scan kode QR**. Kamu harus datang tepat waktu dan scan kode QR-nya. Kalau terlewat, koreksi retroaktif hampir mustahil dilakukan. Jangan telat.
 
@@ -133,7 +133,7 @@ flowchart TD
     B --> G["Take a 3-credit<br/>course next semester"]
 ```
 
-Kalau kamu sama sekali tidak punya background coding dan merasa gentar, Software Introduction (GCS10001, 2 SKS) bisa jadi titik awal yang lebih nyaman. Tapi kalau kamu serius mempertimbangkan jurusan STEM apapun, tantang dirimu untuk langsung ambil Python atau C — ini menghemat satu semester penuh.
+Kalau kamu sama sekali tidak punya background coding dan merasa gentar, tenang aja — Software Introduction (GCS10001, 2 SKS) bisa jadi titik awal yang lebih nyaman. Tapi kalau kamu serius mempertimbangkan jurusan STEM apapun, tantang dirimu untuk langsung ambil Python atau C — ini menghemat satu semester penuh.
 
 ---
 

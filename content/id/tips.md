@@ -1,6 +1,6 @@
 # Tips Menyusun Jadwal dan Memilih Mata Kuliah
 
-Memilih mata kuliah yang tepat baru separuh tantangan. Cara kamu menyusunnya dalam jadwal, berapa SKS yang diambil, dan mata kuliah apa yang dipilih berdasarkan minat — semuanya sama pentingnya. Pilihan mata kuliah yang bagus pun bisa menghasilkan semester yang menderita kalau penyusunannya asal-asalan.
+Memilih mata kuliah yang tepat baru separuh tantangan. Cara kamu menyusunnya dalam jadwal, berapa SKS yang diambil, dan mata kuliah apa yang dipilih berdasarkan minat — semuanya sama pentingnya. Tapi tenang aja, panduan ini akan bantu kamu langkah demi langkah. Pilihan mata kuliah yang bagus pun bisa menghasilkan semester yang menderita kalau penyusunannya asal-asalan.
 
 ---
 
@@ -17,7 +17,7 @@ flowchart LR
 
 Kalau kamu lulus EPT di level yang lebih tinggi, kamu bisa skip level yang lebih rendah. Kamu juga bisa dibebaskan dari level tertentu kalau punya skor yang memenuhi syarat dari tes standar seperti TOEFL, IELTS, atau TOEIC.
 
-**JANGAN tunda kursus Bahasa Inggrismu.** Beberapa semester terakhir, dosen semakin ketat menerapkan batas kapasitas. Mahasiswa yang menunda dengan pikiran "nanti saja semester depan" sering kali menemukan semua kursi sudah terisi. Ambil level Bahasa Inggris yang ditugaskan **langsung di semester pertama**. Kursi cepat habis, dan menunggu tidak menguntungkan kamu sama sekali.
+**Jangan tunda kursus Bahasa Inggrismu ya.** Beberapa semester terakhir, dosen semakin ketat menerapkan batas kapasitas. Mahasiswa yang menunda dengan pikiran "nanti saja semester depan" sering kali menemukan semua kursi sudah terisi. Ambil level Bahasa Inggris yang ditugaskan **langsung di semester pertama**. Kursi cepat habis, dan menunggu tidak menguntungkan kamu sama sekali.
 
 ---
 
@@ -30,7 +30,7 @@ Persyaratan ini berlaku untuk **mahasiswa dengan paspor asing** serta **warga ne
 - Kalau kamu mulai dari **Korean 1** (level terendah), kamu dapat SKS yang mudah dan aman sambil membangun fondasi yang kuat. Beban kuliah lebih ringan, dan kamu bisa membangun kepercayaan diri.
 - Kalau kamu ngasal sampai masuk **Korean 3**, sekarang kamu harus mengisi SKS yang seharusnya diisi Korean 1 dan Korean 2 dengan mata kuliah lain. Plus kamu harus menghadapi materi Bahasa Korea yang lebih susah dari kemampuan aktualmu.
 
-**Jawab dengan jujur.** Mulai dari level lebih rendah dan naik bertahap jauh lebih menguntungkan jangka panjang daripada berjuang di level yang melampaui kemampuanmu. Ini bukan soal gengsi — ini soal strategi.
+**Jawab dengan jujur ya.** Mulai dari level lebih rendah dan naik bertahap jauh lebih menguntungkan jangka panjang daripada berjuang di level yang melampaui kemampuanmu. Ini bukan soal gengsi — ini soal strategi, dan percaya deh, kakak-kakak tingkat yang sudah lewat proses ini pasti setuju.
 
 ---
 
@@ -87,7 +87,7 @@ Kalau kamu mempertimbangkan teknik, ilmu komputer, AI, sains, atau matematika, b
 
 #### Calculus 1 (GEK10095) — 3 SKS
 
-Kalkulus adalah bahasa universal STEM. Tanpanya, kamu tidak bisa lanjut ke Calculus 2, Differential Equations, atau mata kuliah inti teknik apapun. Anggap saja sebagai alfabet dari pemikiran ilmiah — tanpanya, kamu tidak bisa baca satu kalimat pun dalam bahasa teknik dan sains.
+Calculus adalah bahasa universal STEM. Tanpanya, kamu tidak bisa lanjut ke Calculus 2, Differential Equations, atau mata kuliah inti teknik apapun. Anggap saja sebagai alfabet dari pemikiran ilmiah — tanpanya, kamu tidak bisa baca satu kalimat pun dalam bahasa teknik dan sains.
 
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
@@ -100,7 +100,7 @@ Untuk mahasiswa internasional, Section 03 (김민재) atau Section 04 (조장환
 
 #### Calculus 2 (GEK10096) — 3 SKS
 
-Biasanya diambil di semester 2, tapi mahasiswa dengan fondasi kalkulus SMA yang kuat bisa ambil Calculus 1 dan 2 bersamaan untuk mempercepat progres.
+Biasanya diambil di semester 2, tapi mahasiswa dengan fondasi Calculus SMA yang kuat bisa ambil Calculus 1 dan 2 bersamaan untuk mempercepat progres.
 
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
@@ -130,7 +130,7 @@ Penting untuk teknik elektro, teknik mesin, dan bidang terkait. Mencakup mekanik
 | 01 | 조현지 | Mon 2, Thu 2 | 0% | Korean only |
 | 02 | 조현지 | Mon 3, Thu 3 | 0% | Korean only |
 
-**Sayangnya, tidak ada kelas berbahasa Inggris untuk Physics 1 semester ini.** Mahasiswa internasional yang butuh fisika perlu kemampuan Bahasa Korea yang cukup, atau bisa pertimbangkan menundanya ke semester depan kalau ada kelas berbahasa Inggris.
+**Sayangnya, tidak ada kelas berbahasa Inggris untuk Physics 1 semester ini.** Mahasiswa internasional yang butuh Physics perlu kemampuan Bahasa Korea yang cukup, atau bisa pertimbangkan menundanya ke semester depan kalau ada kelas berbahasa Inggris.
 
 #### General Chemistry (GEK10058) — 3 SKS
 

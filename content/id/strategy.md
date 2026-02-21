@@ -1,6 +1,6 @@
 # Strategi Pendaftaran Mata Kuliah
 
-Course registration bukan sekadar isi formulir — ini pertempuran yang butuh persiapan matang. Punya rencana yang jelas adalah pembeda antara semester yang sukses dan semester yang kacau. Pahami jadwal penting, kuasai aturan pra-pendaftaran, dan masuk ke hari pendaftaran dengan strategi yang solid.
+Course registration bukan sekadar isi formulir — ini butuh persiapan matang. Tapi jangan khawatir, asal kamu baca panduan ini dan siap-siap dengan baik, kamu pasti bisa kok. Pahami jadwal penting, kuasai aturan pra-pendaftaran, dan masuk ke hari pendaftaran dengan strategi yang solid.
 
 ---
 
@@ -84,7 +84,7 @@ Kesalahan-kesalahan ini terjadi setiap semester. Belajar dari pengalaman mereka 
 
 ### Tidak Mendaftarkan Chapel
 
-Ini adalah kesalahan mahasiswa baru nomor satu. Kamu hadir Chapel setiap hari Rabu selama satu semester penuh. Kamu scan kode QR dengan setia. Di akhir semester, kamu cek transkrip — Chapel tidak ada di sana. Kamu tidak pernah mendaftarkannya di sistem. Satu semester penuh kehadiran, sia-sia. **Daftarkan Chapel di sistem pendaftaran mata kuliah.**
+Ini kesalahan mahasiswa baru yang paling sering terjadi, dan sayang banget kalau kamu sampai mengalaminya. Kamu hadir Chapel setiap hari Rabu selama satu semester penuh. Kamu scan kode QR dengan setia. Di akhir semester, kamu cek transkrip — Chapel tidak ada di sana. Kamu tidak pernah mendaftarkannya di sistem. Satu semester penuh kehadiran, sia-sia. **Daftarkan Chapel di sistem pendaftaran mata kuliah.**
 
 ### Ambil Mata Kuliah 3xxx/4xxx sebagai Mahasiswa Baru
 
@@ -121,7 +121,7 @@ Kalau Plan A gagal — dan untuk mata kuliah kompetitif, ini sering terjadi — 
 | Dormitory Operations (생활관운영팀) | Asrama | 054-260-1603~4 |
 | Career Development (경력개발팀) | Bimbingan karir, pemilihan jurusan | 054-260-1892 |
 
-Tapi sebelum telepon kantor manapun, **tanyakan 섬김이 (student mentor) kamu dulu.** Mereka sudah pernah melalui proses ini sendiri dan bisa jawab sebagian besar pertanyaanmu langsung. Itulah kenapa mereka ada.
+Tapi sebelum telepon kantor manapun, **tanyakan 섬김이 (student mentor) kamu dulu ya.** Mereka sudah pernah melalui proses ini sendiri dan bisa jawab sebagian besar pertanyaanmu langsung. Jangan sungkan — justru itulah kenapa mereka ada.
 
 Untuk informasi lebih detail, lihat PDF course catalog resmi di folder `수강편람/`, dan jadwal mata kuliah lengkap di `2026-1 개설시간표.xls`.
 

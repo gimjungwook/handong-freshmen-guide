@@ -8,7 +8,7 @@
 
 ## Gambaran Umum Sistem Pendaftaran Mata Kuliah
 
-Course registration dilakukan di **[sugang.handong.edu](https://sugang.handong.edu)**. Kamu login menggunakan ID dan password HISNet. Kalau sistemnya terasa asing pada awalnya, tidak perlu khawatir — periode pra-pendaftaran memberi kamu banyak waktu untuk berlatih dan membiasakan diri sebelum pendaftaran utama dimulai.
+Course registration dilakukan di **[sugang.handong.edu](https://sugang.handong.edu)**. Kamu login menggunakan ID dan password HISNet. Kalau sistemnya terasa asing pada awalnya, tenang aja — periode pra-pendaftaran memberi kamu banyak waktu untuk berlatih dan membiasakan diri sebelum pendaftaran utama dimulai.
 
 ---
 
