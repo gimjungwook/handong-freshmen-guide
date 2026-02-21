@@ -46,12 +46,6 @@
 *Korean version (한국어): [[2026-1 새내기 수강신청 가이드 Hub|2026-1 새내기 수강신청 가이드]]*
 
 
----
-
-> 🤖 Это руководство создано **김정욱 (Jungwook Kim)** и **Claude Opus 4.6**.
-
-> 🎓 [Курс по использованию AI →](https://getitdone-nous.vercel.app/) — курс от старшекурсника Handong по эффективному использованию AI!
-
 > ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *Last updated: 2026-02-21*

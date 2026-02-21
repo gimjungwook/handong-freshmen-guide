@@ -193,10 +193,4 @@ To enter GCS, you'll first need to take **"Vision, Work, and Calling"** (비전,
 *Schedule details: [[Registration Schedule]]*
 *Korean version (한국어): [[2026-1 새내기 수강신청 가이드 Hub|2026-1 새내기 수강신청 가이드]]*
 
----
-
-> 🤖 This guide was built by **Jungwook Kim** & **Claude Opus 4.6**.
-
-> 🎓 [Learn to use AI effectively →](https://getitdone-nous.vercel.app/) — A course by a Handong senior on leveraging AI for university life!
-
 *Last updated: 2026-02-21*

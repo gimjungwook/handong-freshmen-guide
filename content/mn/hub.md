@@ -76,12 +76,6 @@ Handong-ийг онцгой болгодог зүйл бол **Open Major System
 ---
 
 
----
-
-> 🤖 Энэ гарын авлагыг **김정욱 (Jungwook Kim)** болон **Claude Opus 4.6** хамтран бүтээв.
-
-> 🎓 [AI ашиглах сургалт →](https://getitdone-nous.vercel.app/) — Handong-ийн ахлах оюутан бүтээсэн AI ашиглалтын хичээл!
-
 > ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *Сүүлд шинэчилсэн: 2026-02-21*
