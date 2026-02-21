@@ -1,7 +1,7 @@
 "use client";
 
-import { LANGS, LANG_LABELS, NAV_ITEMS, getFlagUrl, type Lang } from "@/lib/constants";
-import { useRouter, usePathname } from "next/navigation";
+import { LANGS, LANG_LABELS, getFlagUrl, type Lang } from "@/lib/constants";
+import { useRouter } from "next/navigation";
 
 const PROMO_TEXT: Record<Lang, { title: string; desc: string; badge: string }> = {
   ko: { title: "🔥 새내기 필수! AI 활용법 알아보기", desc: "과제, 시간표, 공부 — AI로 대학생활 한 단계 업그레이드", badge: "💬 이 가이드 만든 선배가 직접 만든 플랫폼이에요" },
@@ -16,8 +16,6 @@ const PROMO_TEXT: Record<Lang, { title: string; desc: string; badge: string }> =
 
 export default function LandingHeader({ lang }: { lang: Lang }) {
   const router = useRouter();
-  const pathname = usePathname();
-  const items = NAV_ITEMS[lang];
   const promo = PROMO_TEXT[lang];
 
   const handleLangSwitch = (newLang: Lang) => {
@@ -45,30 +43,6 @@ export default function LandingHeader({ lang }: { lang: Lang }) {
               <img src={getFlagUrl(flag, 16)} alt={name} width={16} height={12} className="rounded-sm" />
               {name}
             </button>
-          );
-        })}
-      </div>
-
-      {/* Section cards */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 mb-6">
-        {items.map((item) => {
-          const href = item.slug === "hub" ? `/${lang}` : `/${lang}/${item.slug}`;
-          const isActive = item.slug === "hub"
-            ? pathname === `/${lang}`
-            : pathname === `/${lang}/${item.slug}`;
-          return (
-            <a
-              key={item.slug}
-              href={href}
-              className={`flex items-center gap-2 px-3 py-2.5 rounded-lg border text-xs font-medium transition-all ${
-                isActive
-                  ? "border-[var(--primary)] bg-[var(--primary)]/10 text-[var(--primary)]"
-                  : "border-[var(--border)] hover:border-[var(--primary)] hover:bg-[var(--surface-hover)]"
-              }`}
-            >
-              <span className="text-base">{item.icon}</span>
-              <span className="truncate">{item.label}</span>
-            </a>
           );
         })}
       </div>
