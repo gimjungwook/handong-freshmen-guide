@@ -113,9 +113,9 @@ Chapel не даёт кредитов, но **обязателен каждый 
 
 ```mermaid
 flowchart LR
-    A["EF\nEnglish Foundation\n(Level 0)"] --> B["EC\nEnglish Communication\n(Level 1)"]
-    B --> C["ERC\nEnglish Reading\n& Composition\n(Level 2)"]
-    C --> D["EAP\nEnglish for\nAcademic Purposes\n(Level 3)"]
+    A["EF<br/>English Foundation<br/>(Level 0)"] --> B["EC<br/>English Communication<br/>(Level 1)"]
+    B --> C["ERC<br/>English Reading<br/>& Composition<br/>(Level 2)"]
+    C --> D["EAP<br/>English for<br/>Academic Purposes<br/>(Level 3)"]
 ```
 
 Если вы сдали EPT на более высокий уровень, нижние можно пропустить. Также возможно освобождение при наличии достаточных баллов по TOEFL, IELTS или TOEIC.
@@ -154,13 +154,13 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    A["Do you have programming\nexperience?"] -->|"None at all"| B["Software Introduction\n(2 credits)"]
-    A -->|"Some experience"| C{"Which major\ninterest?"}
-    A -->|"Significant experience"| D["Jump straight to\nC or Python (3 credits)"]
-    C -->|"Computer/Electronics\nEngineering"| E["C Programming\n(3 credits)"]
-    C -->|"AI / Data Science"| F["Python Programming\n(3 credits)"]
+    A["Do you have programming<br/>experience?"] -->|"None at all"| B["Software Introduction<br/>(2 credits)"]
+    A -->|"Some experience"| C{"Which major<br/>interest?"}
+    A -->|"Significant experience"| D["Jump straight to<br/>C or Python (3 credits)"]
+    C -->|"Computer/Electronics<br/>Engineering"| E["C Programming<br/>(3 credits)"]
+    C -->|"AI / Data Science"| F["Python Programming<br/>(3 credits)"]
     C -->|"Not sure yet"| F
-    B --> G["Take a 3-credit\ncourse next semester"]
+    B --> G["Take a 3-credit<br/>course next semester"]
 ```
 
 Если у вас нет опыта программирования и это пугает, Software Introduction (GCS10001, 2 кредита) — мягкий старт. Но если вы серьёзно рассматриваете любую STEM-специальность, бросьте себе вызов и возьмите Python или C сразу. Сэкономите целый семестр.

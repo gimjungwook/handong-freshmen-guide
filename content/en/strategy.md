@@ -46,6 +46,15 @@ This is a crucial distinction. Many freshmen assume that pre-registration guaran
 
 **After pre-registration ends, you MUST log into HISNet to check which courses were confirmed.** Any course that was not confirmed must be re-registered during the main registration period. Prepare accordingly.
 
+### 📊 Use Pre-registration Numbers to Prioritize
+
+After pre-registration closes, you can **check the number of pre-registration applicants for each course on HISNet**. Compare this number to the course capacity to determine your main registration priority:
+
+- **High applicant-to-capacity ratio** → Fierce competition → Register this course **first** on main registration day
+- **Ratio at or below 1.0** → Already auto-confirmed in pre-registration → **No action needed**
+
+For example, if General Biology has 40 seats and 120 pre-registrants (ratio: 3.0), that's extreme competition. But if Chapel has 200 seats and 150 pre-registrants, it's already confirmed — ignore it. Planning your registration order based on these ratios helps you stay calm and systematic on the day.
+
 ---
 
 ## ⚔️ Registration Day Strategy

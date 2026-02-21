@@ -169,13 +169,13 @@ Section 02 देखि 06 सम्म सबै बुधबार अवध�
 
 ```mermaid
 flowchart TD
-    A["Do you have programming\nexperience?"] -->|"None at all"| B["Software Introduction\n(2 credits)"]
-    A -->|"Some experience"| C{"Which major\ninterest?"}
-    A -->|"Significant experience"| D["Jump straight to\nC or Python (3 credits)"]
-    C -->|"Computer/Electronics\nEngineering"| E["C Programming\n(3 credits)"]
-    C -->|"AI / Data Science"| F["Python Programming\n(3 credits)"]
+    A["Do you have programming<br/>experience?"] -->|"None at all"| B["Software Introduction<br/>(2 credits)"]
+    A -->|"Some experience"| C{"Which major<br/>interest?"}
+    A -->|"Significant experience"| D["Jump straight to<br/>C or Python (3 credits)"]
+    C -->|"Computer/Electronics<br/>Engineering"| E["C Programming<br/>(3 credits)"]
+    C -->|"AI / Data Science"| F["Python Programming<br/>(3 credits)"]
     C -->|"Not sure yet"| F
-    B --> G["Take a 3-credit\ncourse next semester"]
+    B --> G["Take a 3-credit<br/>course next semester"]
 ```
 
 यदि तपाईंसँग कुनै coding पृष्ठभूमि छैन र डर लागिरहेको छ भने, Software Introduction (GCS10001, 2 credits) एक सहज सुरुवात बिन्दु हो। तर, यदि तपाईं कुनै पनि STEM major को बारेमा गम्भीर हुनुहुन्छ भने, आफूलाई चुनौती दिनुहोस् र सिधै Python वा C लिनुहोस् — यसले तपाईंलाई पूरै एक semester बचत गर्छ।

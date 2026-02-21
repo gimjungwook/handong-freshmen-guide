@@ -10,9 +10,9 @@ HanSTオリエンテーション中に、全新入生が**EPT (English Placement
 
 ```mermaid
 flowchart LR
-    A["EF\nEnglish Foundation\n(Level 0)"] --> B["EC\nEnglish Communication\n(Level 1)"]
-    B --> C["ERC\nEnglish Reading\n& Composition\n(Level 2)"]
-    C --> D["EAP\nEnglish for\nAcademic Purposes\n(Level 3)"]
+    A["EF<br/>English Foundation<br/>(Level 0)"] --> B["EC<br/>English Communication<br/>(Level 1)"]
+    B --> C["ERC<br/>English Reading<br/>& Composition<br/>(Level 2)"]
+    C --> D["EAP<br/>English for<br/>Academic Purposes<br/>(Level 3)"]
 ```
 
 EPTで上位レベルに合格すれば、下位レベルをスキップできます。TOEFL、IELTS、TOEICなどのスコアがあれば、特定のレベルが免除される場合もあります。

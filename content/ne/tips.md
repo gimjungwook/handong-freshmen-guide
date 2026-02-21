@@ -11,9 +11,9 @@ HanST orientation मा, सबै नयाँ विद्यार्थी�
 
 ```mermaid
 flowchart LR
-    A["EF\nEnglish Foundation\n(Level 0)"] --> B["EC\nEnglish Communication\n(Level 1)"]
-    B --> C["ERC\nEnglish Reading\n& Composition\n(Level 2)"]
-    C --> D["EAP\nEnglish for\nAcademic Purposes\n(Level 3)"]
+    A["EF<br/>English Foundation<br/>(Level 0)"] --> B["EC<br/>English Communication<br/>(Level 1)"]
+    B --> C["ERC<br/>English Reading<br/>& Composition<br/>(Level 2)"]
+    C --> D["EAP<br/>English for<br/>Academic Purposes<br/>(Level 3)"]
 ```
 
 यदि तपाईंले EPT मा उच्च स्तरमा उत्तीर्ण हुनुभयो भने, तपाईं तल्लो स्तरहरू छोड्न सक्नुहुन्छ। TOEFL, IELTS, वा TOEIC जस्ता standardized परीक्षामा योग्य score भएमा तपाईं निश्चित स्तरहरूबाट पनि छुट पाउन सक्नुहुन्छ।

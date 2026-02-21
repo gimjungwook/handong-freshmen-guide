@@ -10,9 +10,9 @@
 
 ```mermaid
 flowchart LR
-    A["EF\nEnglish Foundation\n(Level 0)"] --> B["EC\nEnglish Communication\n(Level 1)"]
-    B --> C["ERC\nEnglish Reading\n& Composition\n(Level 2)"]
-    C --> D["EAP\nEnglish for\nAcademic Purposes\n(Level 3)"]
+    A["EF<br/>English Foundation<br/>(Level 0)"] --> B["EC<br/>English Communication<br/>(Level 1)"]
+    B --> C["ERC<br/>English Reading<br/>& Composition<br/>(Level 2)"]
+    C --> D["EAP<br/>English for<br/>Academic Purposes<br/>(Level 3)"]
 ```
 
 如果你 EPT 成绩较高，可以跳过低级别直接进入更高级别。如果你有 TOEFL、IELTS 或 TOEIC 等标准化考试的合格分数，也可能免修某些级别。
@@ -88,13 +88,13 @@ Handong 每位学生，无论专业，都必须完成 **7学分的 ICT 融合课
 
 ```mermaid
 flowchart TD
-    A["Do you have programming\nexperience?"] -->|"None at all"| B["Software Introduction\n(2 credits)"]
-    A -->|"Some experience"| C{"Which major\ninterest?"}
-    A -->|"Significant experience"| D["Jump straight to\nC or Python (3 credits)"]
-    C -->|"Computer/Electronics\nEngineering"| E["C Programming\n(3 credits)"]
-    C -->|"AI / Data Science"| F["Python Programming\n(3 credits)"]
+    A["Do you have programming<br/>experience?"] -->|"None at all"| B["Software Introduction<br/>(2 credits)"]
+    A -->|"Some experience"| C{"Which major<br/>interest?"}
+    A -->|"Significant experience"| D["Jump straight to<br/>C or Python (3 credits)"]
+    C -->|"Computer/Electronics<br/>Engineering"| E["C Programming<br/>(3 credits)"]
+    C -->|"AI / Data Science"| F["Python Programming<br/>(3 credits)"]
     C -->|"Not sure yet"| F
-    B --> G["Take a 3-credit\ncourse next semester"]
+    B --> G["Take a 3-credit<br/>course next semester"]
 ```
 
 如果你没有任何编程基础、感到有些紧张，Software Introduction（GCS10001，2学分）是个温和的起点。但如果你认真考虑任何理工科专业，建议直接挑战 Python 或 C——这能给你节省整整一个学期的时间。

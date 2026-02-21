@@ -21,7 +21,8 @@ export default function MermaidInit() {
         const encoded = el.getAttribute("data-chart");
         if (!encoded) continue;
         try {
-          const code = atob(encoded);
+          const bytes = Uint8Array.from(atob(encoded), (c) => c.charCodeAt(0));
+          const code = new TextDecoder().decode(bytes);
           const { svg } = await mermaid.render(`mermaid-${i}-${Date.now()}`, code);
           el.innerHTML = svg;
           el.classList.add("mermaid");

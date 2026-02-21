@@ -124,13 +124,13 @@ Setiap mahasiswa Handong, apapun jurusannya, wajib menyelesaikan **7 SKS mata ku
 
 ```mermaid
 flowchart TD
-    A["Do you have programming\nexperience?"] -->|"None at all"| B["Software Introduction\n(2 credits)"]
-    A -->|"Some experience"| C{"Which major\ninterest?"}
-    A -->|"Significant experience"| D["Jump straight to\nC or Python (3 credits)"]
-    C -->|"Computer/Electronics\nEngineering"| E["C Programming\n(3 credits)"]
-    C -->|"AI / Data Science"| F["Python Programming\n(3 credits)"]
+    A["Do you have programming<br/>experience?"] -->|"None at all"| B["Software Introduction<br/>(2 credits)"]
+    A -->|"Some experience"| C{"Which major<br/>interest?"}
+    A -->|"Significant experience"| D["Jump straight to<br/>C or Python (3 credits)"]
+    C -->|"Computer/Electronics<br/>Engineering"| E["C Programming<br/>(3 credits)"]
+    C -->|"AI / Data Science"| F["Python Programming<br/>(3 credits)"]
     C -->|"Not sure yet"| F
-    B --> G["Take a 3-credit\ncourse next semester"]
+    B --> G["Take a 3-credit<br/>course next semester"]
 ```
 
 Kalau kamu sama sekali tidak punya background coding dan merasa gentar, Software Introduction (GCS10001, 2 SKS) bisa jadi titik awal yang lebih nyaman. Tapi kalau kamu serius mempertimbangkan jurusan STEM apapun, tantang dirimu untuk langsung ambil Python atau C — ini menghemat satu semester penuh.

@@ -10,9 +10,9 @@ During HanST orientation, all freshmen take the **EPT (English Placement Test)**
 
 ```mermaid
 flowchart LR
-    A["EF\nEnglish Foundation\n(Level 0)"] --> B["EC\nEnglish Communication\n(Level 1)"]
-    B --> C["ERC\nEnglish Reading\n& Composition\n(Level 2)"]
-    C --> D["EAP\nEnglish for\nAcademic Purposes\n(Level 3)"]
+    A["EF<br/>English Foundation<br/>(Level 0)"] --> B["EC<br/>English Communication<br/>(Level 1)"]
+    B --> C["ERC<br/>English Reading<br/>& Composition<br/>(Level 2)"]
+    C --> D["EAP<br/>English for<br/>Academic Purposes<br/>(Level 3)"]
 ```
 
 If you pass the EPT at a higher level, you can skip lower levels. You may also be exempt from certain levels if you have qualifying scores on standardized tests such as TOEFL, IELTS, or TOEIC.
