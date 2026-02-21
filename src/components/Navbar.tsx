@@ -209,6 +209,15 @@ export default function Navbar({ lang }: { lang: Lang }) {
             </svg>
             {{ en: "Dorm Essentials", ko: "기숙사 생필품", ne: "Dorm Essentials", id: "Dorm Essentials", ja: "寮の必需品", mn: "Дотуур байрны хэрэгсэл", ru: "Вещи для общежития", zh: "宿舍必备" }[lang] || "Dorm Essentials"}
           </a>
+          <a
+            href="https://getitdone-nous.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 px-2 py-1.5 rounded text-sm text-[var(--primary)] hover:bg-[var(--sidebar-hover)] font-medium transition-colors"
+          >
+            <span className="text-base shrink-0">🚀</span>
+            {{ en: "AI Course for Students", ko: "AI 활용 강의", ne: "AI कोर्स", id: "Kursus AI", ja: "AI活用講座", mn: "AI сургалт", ru: "Курс по AI", zh: "AI课程" }[lang] || "AI Course"}
+          </a>
         </div>
 
         {/* Bottom controls */}
