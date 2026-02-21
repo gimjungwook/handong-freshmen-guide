@@ -388,4 +388,6 @@ GPA 很重要，但通识课程是**你拓宽视野的唯一机会**。如果你
 *本指南是 [[Spring 2026 Freshman Registration Guide]] 的学院专属指南。*
 *另请参阅：[[Registration Schedule]] | [[STEM Freshman Guide]] | [[Exploratory Freshman Guide]]*
 *韩语版本：[[인문사회 신입생 가이드]]*
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 *Last updated: 2026-02-21*

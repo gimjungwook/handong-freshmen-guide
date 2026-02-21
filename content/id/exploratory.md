@@ -260,4 +260,6 @@ Tergantung hasil eksplorasi semester pertamamu, tiga jalur terbuka.
 
 *Panduan ini adalah dokumen jalur detail dalam [[Spring 2026 Freshman Registration Guide]]. Lihat juga: [[Registration Schedule]]*
 *Versi Bahasa Korea: [[탐색형 신입생 가이드]]*
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 *Terakhir diperbarui: 2026-02-21*

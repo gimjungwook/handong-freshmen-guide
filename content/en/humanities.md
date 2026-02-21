@@ -308,7 +308,7 @@ The two sample schedules below are tailored to different interests. You definite
 | Understanding the Bible | GEK20058 | 2 | Choose section fitting your schedule |
 | Chapel 1 | GEK10001 | 0 | Wed 4,5,6 |
 | Community Leadership Training 1 | GEK10008 | 0.5 | Time TBD |
-| Community Service 1 | GEK10046 | 1 | Separate |
+| Social Service 1 | GEK10046 | 1 | Separate |
 | + English (based on EPT results) | - | 3 | Add section |
 | **Total** | | **18.5 + English** | |
 
@@ -333,7 +333,7 @@ The two sample schedules below are tailored to different interests. You definite
 | Understanding the Bible (English) | GEK20058 | 2 | Choose from Sec. 07/11/12 |
 | Chapel 1 | GEK10001 | 0 | Wed 4,5,6 |
 | Community Leadership Training 1 | GEK10008 | 0.5 | Time TBD |
-| Community Service 1 | GEK10046 | 1 | Separate |
+| Social Service 1 | GEK10046 | 1 | Separate |
 | + Korean Language (required for intl students) | - | 3 | Add section |
 | **Total** | | **16.5 + Korean** | |
 

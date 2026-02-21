@@ -10,7 +10,7 @@ Chapel carries zero credits but it's **mandatory every semester**. You'll need t
 
 Here's the most common freshman mistake with Chapel — and we really need you to hear this: many students assume they can just show up without registering. **You MUST register for Chapel in the course registration system.** Every single year, students attend Chapel faithfully for an entire semester only to discover at the end that they never registered — and their attendance doesn't count. Imagine that gut-punch feeling. Don't let it happen to you.
 
-Chapel attendance uses a **QR code tagging system**. You've got to arrive on time and scan the QR code. If you miss the scan, getting it corrected retroactively is nearly impossible. So don't be late!
+Chapel attendance uses a **QR code scanning system**. You've got to arrive on time and scan the QR code. If you miss the scan, getting it corrected retroactively is nearly impossible. So don't be late!
 
 > **Spring 2026:** Chapel 1 (GEK10001), Section 01 — Wed periods 4, 5, 6 (Hyoam Main Building) / Language: Korean (0% English)
 
@@ -116,7 +116,7 @@ Every Handong student — yes, *every* student, regardless of major — must com
 | Course | Code | Credits | Section | Professor | Time | English % |
 |--------|------|---------|---------|-----------|------|-----------|
 | **Python Programming** | GCS10004 | 3 | **05** | 박지현 | Mon 5, Thu 5 | **100%** |
-| **Frontend Introduction** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
+| **Intro to Frontend** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
 
 **A helpful tip:** The OIA (Office of International Admissions) sometimes reserves seats in programming courses specifically for international freshmen. If you're an international student, definitely ask OIA about this — it could save you a stressful registration battle!
 

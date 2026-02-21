@@ -23,7 +23,7 @@
 
 | Date | Event | Details |
 |------|-------|---------|
-| 2/27 (Fri) 14:00 ~ 3/4 (Wed) 14:00 | **Course Adjustment Period 1** | Начинается сразу после основной регистрации. Меняйте или добавляйте курсы, если откроются места. |
+| 2/27 (Fri) 14:00 ~ 3/4 (Wed) 14:00 | **Course Adjustment Period 1** | Начинается сразу после основной регистрации. Меняй или добавляй курсы, если откроются места. |
 | **3/2 (Mon)** | **First Day of Classes** | Семестр официально начинается. |
 | **3/6 (Fri) 10:00 ~ 3/12 (Thu) 21:00** | **Course Adjustment Period 2 (FINAL)** | Твой **последний шанс** скорректировать расписание. После этого дедлайна расписание фиксируется на весь семестр. Принимай решения взвешенно. |
 
@@ -135,5 +135,7 @@
 | General Education Curriculum (GLS) | [Google Drive](https://drive.google.com/file/d/147bIk6ZXk2bzSDZQfxnAdSMXGOC_ctNw/view?usp=sharing) |
 
 ---
+
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *Last updated: 2026-02-21*

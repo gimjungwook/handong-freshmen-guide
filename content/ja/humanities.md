@@ -388,4 +388,6 @@ GPA管理は大切ですが、一般教養科目は**視野を広げるための
 *このガイドは[[Spring 2026 Freshman Registration Guide]]の学部別詳細ガイドです。*
 *参照：[[Registration Schedule]] | [[STEM Freshman Guide]] | [[Exploratory Freshman Guide]]*
 *韓国語版：[[인문사회 신입생 가이드]]*
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 *最終更新：2026-02-21*

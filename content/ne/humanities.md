@@ -308,7 +308,7 @@ Statistical theory भन्दा बाहिर गएर computer प्र�
 | Understanding the Bible | GEK20058 | 2 | Choose section fitting your schedule |
 | Chapel 1 | GEK10001 | 0 | Wed 4,5,6 |
 | Community Leadership Training 1 | GEK10008 | 0.5 | Time TBD |
-| Community Service 1 | GEK10046 | 1 | Separate |
+| Social Service 1 | GEK10046 | 1 | Separate |
 | + English (based on EPT results) | - | 3 | Add section |
 | **Total** | | **18.5 + English** | |
 
@@ -333,7 +333,7 @@ Statistical theory भन्दा बाहिर गएर computer प्र�
 | Understanding the Bible (English) | GEK20058 | 2 | Choose from Sec. 07/11/12 |
 | Chapel 1 | GEK10001 | 0 | Wed 4,5,6 |
 | Community Leadership Training 1 | GEK10008 | 0.5 | Time TBD |
-| Community Service 1 | GEK10046 | 1 | Separate |
+| Social Service 1 | GEK10046 | 1 | Separate |
 | + Korean Language (required for intl students) | - | 3 | Add section |
 | **Total** | | **16.5 + Korean** | |
 
@@ -388,4 +388,6 @@ GPA management महत्त्वपूर्ण छ, तर general educatio
 *यो गाइड [[Spring 2026 Freshman Registration Guide]] को विभाग-विशिष्ट साथी हो।*
 *यो पनि हेर: [[Registration Schedule]] | [[STEM Freshman Guide]] | [[Exploratory Freshman Guide]]*
 *कोरियाली संस्करण: [[인문사회 신입생 가이드]]*
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 *अन्तिम अपडेट: 2026-02-21*

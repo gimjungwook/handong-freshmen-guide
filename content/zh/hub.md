@@ -43,6 +43,12 @@ Handong 最独特的地方之一是 **Open Major System（自由专业制度）*
 *Korean version (한국어): [[2026-1 새내기 수강신청 가이드 Hub|2026-1 새내기 수강신청 가이드]]*
 
 
+---
+
+> 🤖 本指南由 **김정욱 (Jungwook Kim)** 和 **Claude Opus 4.6** 共同制作。
+
+> 🎓 [AI活用课程 →](https://getitdone-nous.vercel.app/) — Handong学长制作的AI活用课程，让大学生活更高效！
+
 > ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *Last updated: 2026-02-21*

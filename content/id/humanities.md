@@ -388,4 +388,6 @@ Berdasarkan eksplorasi semester pertamamu, inilah cara kamu bisa rencanakan seme
 *Panduan ini adalah pendamping spesifik departemen dari [[Spring 2026 Freshman Registration Guide]].*
 *Lihat juga: [[Registration Schedule]] | [[STEM Freshman Guide]] | [[Exploratory Freshman Guide]]*
 *Versi Bahasa Korea: [[인문사회 신입생 가이드]]*
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 *Terakhir diperbarui: 2026-02-21*

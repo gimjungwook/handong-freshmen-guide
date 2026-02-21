@@ -362,4 +362,6 @@ Intro to Software бол 2 кредитийн амталгааны хичээл.
 *Энэ гарын авлага нь [[Spring 2026 Freshman Registration Guide]]-ийн STEM дэлгэрэнгүй баримт бичиг юм.*
 *Солонгос хувилбарыг [[이공계 신입생 가이드]]-аас үзнэ үү.*
 *Мөн үзнэ үү: [[Registration Schedule]]*
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 *Сүүлд шинэчилсэн: 2026-02-21*

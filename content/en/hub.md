@@ -165,7 +165,7 @@ If you're thinking about business, economics, law, international relations, psyc
 
 An excellent course for building your academic discussion and presentation skills in English. Professor Richardson is known for really drawing students into the conversation — it's one of the most engaging classes you can take.
 
-#### 🏯 Eastern History and Culture (GEK10087) — 3 credits
+#### 🏯 East Asian History and Culture (GEK10087) — 3 credits
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
@@ -192,5 +192,11 @@ To enter GCS, you'll first need to take **"Vision, Work, and Calling"** (비전,
 *For detailed track-specific guides, see: [[STEM Freshman Guide]], [[Humanities & Social Science Guide]], [[Exploratory Freshman Guide]]*
 *Schedule details: [[Registration Schedule]]*
 *Korean version (한국어): [[2026-1 새내기 수강신청 가이드 Hub|2026-1 새내기 수강신청 가이드]]*
+
+---
+
+> 🤖 This guide was built by **Jungwook Kim** & **Claude Opus 4.6**.
+
+> 🎓 [Learn to use AI effectively →](https://getitdone-nous.vercel.app/) — A course by a Handong senior on leveraging AI for university life!
 
 *Last updated: 2026-02-21*

@@ -1,5 +1,6 @@
 import { getPageContent } from "@/lib/markdown";
 import ContentRenderer from "@/components/ContentRenderer";
+import PageNav from "@/components/PageNav";
 import { LANGS, SLUGS, type Lang, type Slug } from "@/lib/constants";
 
 export function generateStaticParams() {
@@ -24,6 +25,7 @@ export default async function GuidePage({
   return (
     <div className="max-w-[900px] mx-auto px-4 sm:px-6 lg:px-16 py-4">
       <ContentRenderer html={html} />
+      <PageNav lang={lang as Lang} slug={slug as Slug} />
     </div>
   );
 }

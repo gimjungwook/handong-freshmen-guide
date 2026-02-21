@@ -48,7 +48,7 @@ Based on our experience helping freshmen, the ideal first semester for an explor
 | Category | Course | Notes |
 |----------|--------|-------|
 | Required | Chapel 1, Community Leadership Training 1 | Every semester |
-| Required | Handong Character Education (한동인성교육) | Complete once |
+| Required | Handong Character Education | Complete once |
 | Required | 1 English course | Placed by EPT results |
 | Required | 1 Korean course | International students only |
 | Required | 1 CF1 course (e.g., Understanding the Bible) | Christian Faith foundations |
@@ -68,7 +68,7 @@ Pick **3 fields that catch your eye** from the options below. Every course liste
 
 Most intro courses here are 2 credits, making them low-commitment. Think of them as a small investment to answer one big question: "Is engineering right for me?"
 
-**Introduction to Software (GCS10001)** — 2 credits, 6 sections (분반) offered
+**Introduction to Software (GCS10001)** — 2 credits, 6 sections offered
 
 A course that teaches foundational programming concepts and logical thinking. Never coded before? That's totally fine — this course is literally designed for people starting from zero. You'll begin with the basics (variables, conditionals, loops) and build simple programs. It's your first step in figuring out whether programming fits your brain, and it builds essential digital-era skills no matter what you end up majoring in.
 
@@ -132,11 +132,11 @@ A foundational course in architecture and spatial design. It explores how the sp
 
 History and culture courses broaden the lens through which you see the world. They're valuable as liberal arts regardless of your major, and they build both writing ability and critical thinking at the same time. Win-win.
 
-**History and Culture of the East (GEK10087)** — 3 credits, Mon period 3 & Thu period 3, **100% English**
+**East Asian History and Culture (GEK10087)** — 3 credits, Mon period 3 & Thu period 3, **100% English**
 
 A course covering the arc of East Asian civilization — China, Japan, and Korea. Since it's taught entirely in English, you'll sharpen your language skills too. Excellent background for international relations, cultural content, or diplomacy.
 
-**History and Culture of the West (GEK10088)** — 3 credits, Mon periods 2–3 / Mon periods 5–6
+**Western History and Culture (GEK10088)** — 3 credits, Mon periods 2–3 / Mon periods 5–6
 
 A journey through Western civilization — from ancient Greece and Rome through modern democratic revolutions and the Industrial Revolution. It's essential context for understanding why today's global political, economic, and social structures look the way they do. Both sections run as back-to-back classes on Mondays, which means you can concentrate your lectures and keep the rest of the week free.
 

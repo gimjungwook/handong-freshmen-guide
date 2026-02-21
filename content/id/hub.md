@@ -45,6 +45,12 @@ Panduan ini dibagi menjadi beberapa bagian supaya lebih mudah dinavigasi:
 *Versi Bahasa Korea (한국어): [[2026-1 새내기 수강신청 가이드 Hub|2026-1 새내기 수강신청 가이드]]*
 
 
+---
+
+> 🤖 Panduan ini dibuat oleh **김정욱 (Jungwook Kim)** & **Claude Opus 4.6**.
+
+> 🎓 [Belajar pakai AI →](https://getitdone-nous.vercel.app/) — Kursus dari kakak tingkat Handong tentang cara memanfaatkan AI!
+
 > ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *Last updated: 2026-02-21*
