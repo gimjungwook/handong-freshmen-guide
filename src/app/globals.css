@@ -124,7 +124,7 @@ body {
   --tw-prose-body: var(--foreground);
   --tw-prose-headings: var(--foreground);
   --tw-prose-links: var(--primary);
-  --tw-prose-bold: var(--foreground);
+  --tw-prose-bold: var(--primary);
   --tw-prose-code: var(--foreground);
   --tw-prose-th-borders: var(--border);
   --tw-prose-td-borders: var(--border);
