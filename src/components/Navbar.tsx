@@ -80,17 +80,17 @@ export default function Navbar({ lang }: { lang: Lang }) {
 
   return (
     <>
-      {/* Mobile top bar */}
-      <div className="lg:hidden notion-topbar">
+      {/* Top bar — hamburger on mobile, page title on all sizes */}
+      <div className="notion-topbar">
         <button
           onClick={() => setSidebarOpen(true)}
-          className="p-1.5 -ml-1 rounded hover:bg-[var(--surface-hover)] transition-colors"
+          className="lg:hidden p-1.5 -ml-1 rounded hover:bg-[var(--surface-hover)] transition-colors"
         >
           <svg className="w-5 h-5 text-[var(--muted)]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 6h16M4 12h16M4 18h16" />
           </svg>
         </button>
-        <span className="ml-2 text-sm font-medium text-[var(--muted)]">
+        <span className="ml-2 lg:ml-0 text-sm font-medium text-[var(--muted)]">
           {items.find((item) => {
             const href = item.slug === "hub" ? `/${lang}` : `/${lang}/${item.slug}`;
             return pathname === href;
@@ -230,6 +230,7 @@ export default function Navbar({ lang }: { lang: Lang }) {
             href="https://getitdone-nous.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
+            title={{ en: "Built by the same 선배 who made this guide — AI skills for assignments, schedules & studying", ko: "이 가이드 만든 선배가 직접 만든 플랫폼 — 과제, 시간표, 공부에 AI 활용하기", ja: "このガイドを作った先輩のプラットフォーム — 課題・時間割・勉強にAIを活用", zh: "指南制作者打造的平台 — 用AI搞定作业、课表、学习", mn: "Энэ гарын авлагыг бүтээсэн ахлах оюутны платформ", ru: "Платформа от создателя этого гайда — AI для учёбы", ne: "यो गाइड बनाउने दाइको प्लाटफर्म — AI ले पढाइ level up", id: "Dibuat oleh kakak yang bikin guide ini — skill AI untuk kuliah" }[lang] || "AI platform by the guide creator"}
             className="flex items-center gap-2 px-2 py-1.5 rounded text-sm text-[var(--primary)] hover:bg-[var(--sidebar-hover)] font-medium transition-colors"
           >
             <span className="text-base shrink-0">🔥</span>
