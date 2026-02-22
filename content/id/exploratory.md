@@ -156,7 +156,7 @@ Jadwal di bawah ini menunjukkan bagaimana kamu bisa benar-benar susun mata kulia
 
 > **Referensi sistem period:** Period 1 = 9:00 AM, Period 2 = 10:00 AM, Period 3 = 11:00 AM, Period 4 = 12:00 PM, Period 5 = 1:00 PM, Period 6 = 2:00 PM, Period 7 = 3:00 PM, Period 8 = 4:00 PM. Setiap period (교시) berdurasi satu jam.
 
-### Schedule A: Eksplorasi Seimbang STEM–Humaniora (~19.5 SKS)
+### Schedule A: Eksplorasi Seimbang STEM–Humaniora (~21.5 SKS)
 
 Campuran setengah-setengah STEM dan humaniora — jadwal paling eksploratif. Dalam satu semester, kamu mengalami **4 bidang yang sama sekali berbeda**: pemrograman (teknologi), ekonomi (ilmu sosial), psikologi (pemahaman manusia), dan filsafat (berpikir kritis).
 
@@ -185,7 +185,7 @@ Campuran setengah-setengah STEM dan humaniora — jadwal paling eksploratif. Dal
 
 Kekuatan inti jadwal ini adalah **keluasan perbandingan.** Di akhir semester, kamu akan punya dasar yang solid untuk bilang "Coding paling menyenangkan" atau "Psikologi cocok buat saya." Probabilitas momen "Ini dia!" dari 4 bidang berbeda sangat tinggi.
 
-### Schedule B: Eksplorasi Condong STEM (~18.5 SKS)
+### Schedule B: Eksplorasi Condong STEM (~20.5 SKS)
 
 Untuk mahasiswa yang cenderung ke STEM tapi belum yakin. Jadwal ini membangun fondasi STEM dengan matematika (Calculus) dan sains (Physics) sambil mencicipi satu bidang humaniora/ilmu sosial melalui Business Administration.
 

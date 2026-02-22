@@ -156,7 +156,7 @@ Here's how you might actually arrange required courses + exploration courses. Yo
 
 > **Period system reference:** Period 1 = 9:00 AM, Period 2 = 10:00 AM, Period 3 = 11:00 AM, Period 4 = 12:00 PM, Period 5 = 1:00 PM, Period 6 = 2:00 PM, Period 7 = 3:00 PM, Period 8 = 4:00 PM. Each period (교시) is one hour.
 
-### 📋 Schedule A: Balanced STEM–Humanities Exploration (~19.5 credits)
+### 📋 Schedule A: Balanced STEM–Humanities Exploration (~21.5 credits)
 
 A half-and-half mix of STEM and humanities — the ultimate exploratory schedule. In a single semester, you'll experience **4 completely different fields**: programming (technology), economics (social science), psychology (understanding humans), and philosophy (critical thinking). By the end, you'll know a lot more about yourself.
 
@@ -185,7 +185,7 @@ A half-and-half mix of STEM and humanities — the ultimate exploratory schedule
 
 The real power of this schedule is **breadth of comparison.** By the end of the semester, you'll have a solid basis to say "Coding was the most fun" or "Psychology is definitely my thing." The chances of having a "This is it!" moment across 4 different fields are really high.
 
-### 📋 Schedule B: STEM-Leaning Exploration (~18.5 credits)
+### 📋 Schedule B: STEM-Leaning Exploration (~20.5 credits)
 
 For students who are leaning toward STEM but aren't 100% sure yet. This schedule builds a STEM foundation with math (Calculus) and science (Physics) while keeping one window open to the humanities through Business Administration.
 

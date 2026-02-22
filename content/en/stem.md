@@ -221,7 +221,7 @@ Curious about the School of AI Computer & Electronic Engineering? This introduct
 
 | Section | Professor | Time | English % | Notes |
 |---------|-----------|------|-----------|-------|
-| 01 | Hwang Sungsu et al. | Mon P6, P7 (consecutive) | 0% | Monday late time slot |
+| 01 | Hwang Sungsu + 1 | Mon P6, P7 (consecutive) | 0% | Monday late time slot |
 
 ### 📐 2.9 Differential Equations and Applications — If Your Math Is Strong
 
