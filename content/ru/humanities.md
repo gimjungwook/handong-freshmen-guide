@@ -176,7 +176,7 @@
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
-| 01 | Kang Byeongdeok et al. | Mon 3, Thu 3 | 0% |
+| 01 | Kang Byeongdeok et al. 4 | Mon 3, Thu 3 | 0% |
 
 Обзор истории, теорий и практик социального обеспечения. Если ты рассматриваешь School of Counseling, Psychology, & Social Welfare, прохождение этого курса вместе с Introduction to Psychology даст знакомство с обоими столпами факультета.
 
@@ -191,6 +191,13 @@
 **🔍 Introduction to Education (GEK20042)**
 
 Предлагается несколько секций, некоторые — на 100% на английском. Рекомендуется студентам, интересующимся образованием или планирующим получить педагогический сертификат.
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Han Ji-hee | Mon P6, Thu P6 | 0% |
+| 02 | Kim Jenny | Mon P2, Thu P2 | 100% |
+| 03 | Kim Se-young | Mon P4, Thu P4 | 100% |
+| 04 | Bae Ji-yeon | Tue P4, Fri P4 | 100% |
 
 **🔍 Introduction to Philosophy (GEK10030)**
 

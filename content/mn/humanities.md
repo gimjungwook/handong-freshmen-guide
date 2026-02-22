@@ -176,7 +176,7 @@ Mathematics бол STEM оюутнуудын зэвсэг бол **бичих ч
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
-| 01 | Kang Byeongdeok et al. | Mon 3, Thu 3 | 0% |
+| 01 | Kang Byeongdeok et al. 4 | Mon 3, Thu 3 | 0% |
 
 Нийгмийн халамжийн түүх, онол, практикийн тойм. School of Counseling, Psychology, & Social Welfare-ийг бодож байгаа бол Introduction to Psychology-тай хамт авснаар тэнхмийн хоёр тулгуурыг хоёуланг нь мэдрэх болно.
 
@@ -191,6 +191,13 @@ Mathematics бол STEM оюутнуудын зэвсэг бол **бичих ч
 **Introduction to Education (GEK20042)**
 
 Хэд хэдэн анги санал болгогдож, зарим анги нь 100% англи хэлээр заагддаг. Боловсрол эсвэл багшлах гэрчилгээ авахыг бодож буй оюутнуудад санал болгоно.
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Han Ji-hee | Mon P6, Thu P6 | 0% |
+| 02 | Kim Jenny | Mon P2, Thu P2 | 100% |
+| 03 | Kim Se-young | Mon P4, Thu P4 | 100% |
+| 04 | Bae Ji-yeon | Tue P4, Fri P4 | 100% |
 
 **Introduction to Philosophy (GEK10030)**
 

@@ -51,6 +51,7 @@ Main registration is literally a **battle for limited seats**. Popular courses t
 | **2/27 (Fri) 14:00 – 3/4 (Wed) 14:00** | **Course Adjustment Period 1** | Starts right after main registration. If a course you wanted opens up or you decide to switch things around after attending classes, this is your window. |
 | **3/2 (Mon)** | **Classes Begin** | Your first day of classes — exciting! A friendly tip: for your first semester, it's wise to avoid 8:00 AM classes if you can. You'll be adjusting to a lot of new things. |
 | **3/6 (Fri) 10:00 – 3/12 (Thu) 21:00** | **Course Adjustment Period 2** | This is your **last chance to change your schedule**. **After this period ends, you're locked in for the entire semester.** Make your final decisions carefully — but don't overthink it either! |
+| **3/13 (Fri) – 3/15 (Sun)** | **HISNet Course Withdrawal** | All course registration is finalized. No changes possible after this period. |
 
 ## 📅 May–July: Exams and Grades
 
@@ -58,7 +59,7 @@ Main registration is literally a **battle for limited seats**. Popular courses t
 |------|-------|
 | 5/4 (Mon) – 5/15 (Fri) | Midterm Exams |
 | 6/15 (Mon) – 6/19 (Fri) | Final Exams |
-| 7/6 (Mon) 16:00 | Grade Release |
+| 7/6 (Mon) | Grade Release and grade correction begins |
 
 ---
 

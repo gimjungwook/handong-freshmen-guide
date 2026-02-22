@@ -209,9 +209,9 @@ In Semester 1, lock down your spots in Calculus, Linear Algebra, and Programming
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
-| 01 | Hyun Changgi et al. | Mon P5, Thu P5 | 0% |
+| 01 | Hyun Changgi et al. 2 | Mon P5, Thu P5 | 0% |
 | **02** | **Holzapfel Wilhelm et al.** | **Mon P2, Thu P2** | **100%** |
-| 03 | Hyun Changgi et al. | Mon P6, Thu P6 | 0% |
+| 03 | Hyun Changgi et al. 2 | Mon P6, Thu P6 | 0% |
 
 ### 🤖 2.8 Introduction to AI, Computer & Electronic Engineering — A Taste of the Major
 

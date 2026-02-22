@@ -176,7 +176,7 @@ Discussion and Presentationの英語版です。**留学生には強くおすす
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
-| 01 | Kang Byeongdeok et al. | Mon 3, Thu 3 | 0% |
+| 01 | Kang Byeongdeok et al. 4 | Mon 3, Thu 3 | 0% |
 
 社会福祉の歴史、理論、実践の概観。School of Counseling, Psychology, & Social Welfareを検討しているなら、Introduction to Psychologyと並行して取ることで、学部の両方の柱を体験できます。
 
@@ -191,6 +191,13 @@ Discussion and Presentationの英語版です。**留学生には強くおすす
 **🔍 Introduction to Education (GEK20042)**
 
 複数のセクションが開講され、一部は100%英語で行われます。教育に興味がある学生や教員免許の取得を考えている学生におすすめです。
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Han Ji-hee | Mon P6, Thu P6 | 0% |
+| 02 | Kim Jenny | Mon P2, Thu P2 | 100% |
+| 03 | Kim Se-young | Mon P4, Thu P4 | 100% |
+| 04 | Bae Ji-yeon | Tue P4, Fri P4 | 100% |
 
 **🔍 Introduction to Philosophy (GEK10030)**
 

@@ -170,7 +170,7 @@ A course that sharpens the way you see society. You'll learn frameworks for anal
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
-| 01 | Kang Byeongdeok et al. | Mon 3, Thu 3 | 0% |
+| 01 | Kang Byeongdeok et al. 4 | Mon 3, Thu 3 | 0% |
 
 An overview of the history, theories, and practices of social welfare. If you're thinking about the School of Counseling Psychology and Social Welfare, taking this alongside Introduction to Psychology lets you experience both pillars of the department. Smart combo!
 
@@ -185,6 +185,13 @@ Covers how media shapes society, how news gets produced and consumed, and the tr
 **🔍 Introduction to Education (GEK20042)**
 
 Multiple sections are offered, and some are taught 100% in English. Great for students interested in education or considering a teaching certificate.
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Han Ji-hee | Mon P6, Thu P6 | 0% |
+| 02 | Kim Jenny | Mon P2, Thu P2 | 100% |
+| 03 | Kim Se-young | Mon P4, Thu P4 | 100% |
+| 04 | Bae Ji-yeon | Tue P4, Fri P4 | 100% |
 
 **🔍 Introduction to Philosophy (GEK10030)**
 

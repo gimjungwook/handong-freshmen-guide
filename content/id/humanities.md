@@ -172,7 +172,7 @@ Mata kuliah yang mempertajam cara kamu melihat masyarakat. Kamu akan mempelajari
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
-| 01 | Kang Byeongdeok et al. | Mon 3, Thu 3 | 0% |
+| 01 | Kang Byeongdeok et al. 4 | Mon 3, Thu 3 | 0% |
 
 Gambaran umum tentang sejarah, teori, dan praktik kesejahteraan sosial. Kalau kamu mempertimbangkan School of Counseling, Psychology, & Social Welfare, ambil ini bersamaan dengan Introduction to Psychology memungkinkan kamu rasakan kedua pilar departemen.
 
@@ -187,6 +187,13 @@ Mencakup dampak media terhadap masyarakat, produksi dan konsumsi berita, dan tra
 **Introduction to Education (GEK20042)**
 
 Beberapa kelas ditawarkan, dan beberapa diajarkan 100% dalam Bahasa Inggris. Direkomendasikan untuk mahasiswa yang tertarik dengan pendidikan atau mempertimbangkan sertifikat mengajar.
+
+| Section | Professor | Time | English % |
+|---------|-----------|------|-----------|
+| 01 | Han Ji-hee | Mon P6, Thu P6 | 0% |
+| 02 | Kim Jenny | Mon P2, Thu P2 | 100% |
+| 03 | Kim Se-young | Mon P4, Thu P4 | 100% |
+| 04 | Bae Ji-yeon | Tue P4, Fri P4 | 100% |
 
 **Introduction to Philosophy (GEK10030)**
 
