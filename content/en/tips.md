@@ -139,6 +139,8 @@ Below are sample timetables built exclusively from **100% English sections**. Th
 
 **CharEd conflict resolved above:** Character Education Sec 01 (Mon 5) conflicts with Python Sec 05 (Mon 5). This schedule uses CharEd Sec 02-06 (Wed 2, Korean) to avoid the overlap. If your Korean isn't strong enough for that, swap Python to a non-Mon 5 section instead.
 
+> This guide was written with the help of **Claude Opus 4.6**. This guide is also available in [other languages](/), but translations may contain inaccuracies — when in doubt, refer to this English version or the [한국어](/ko) version.
+
 ---
 
 *Last updated: 2026-02-21*

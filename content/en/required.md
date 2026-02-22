@@ -135,6 +135,8 @@ flowchart TD
 
 If you've never coded before and it feels intimidating — don't worry, you're not alone! Software Introduction (GCS10001, 2 credits) is a gentle starting point. But here's our honest advice: if you're seriously considering any STEM major, challenge yourself to take Python or C directly. It's tougher, sure, but it saves you a full semester. You're capable of more than you think!
 
+> This guide was written with the help of **Claude Opus 4.6**. This guide is also available in [other languages](/), but translations may contain inaccuracies — when in doubt, refer to this English version or the [한국어](/ko) version.
+
 ---
 
 *Last updated: 2026-02-21*

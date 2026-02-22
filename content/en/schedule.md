@@ -60,6 +60,8 @@ Main registration is literally a **battle for limited seats**. Popular courses t
 | 6/15 (Mon) – 6/19 (Fri) | Final Exams |
 | 7/6 (Mon) 16:00 | Grade Release |
 
+> This guide was written with the help of **Claude Opus 4.6**. This guide is also available in [other languages](/), but translations may contain inaccuracies — when in doubt, refer to this English version or the [한국어](/ko) version.
+
 ---
 
 *Last updated: 2026-02-21*

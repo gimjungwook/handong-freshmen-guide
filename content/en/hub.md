@@ -16,6 +16,8 @@ Your first day of classes as a Spring 2026 freshman is **March 2, 2026 (Monday)*
 
 Each class period (교시) is **1 hour long**. When you see "Mon 4, Thu 4" in a course listing, it means the class meets Monday period 4 and Thursday period 4. One credit (학점) generally equals one hour of class per week.
 
+> This guide was written with the help of **Claude Opus 4.6**. This guide is also available in [other languages](/), but translations may contain inaccuracies — when in doubt, refer to this English version or the [한국어](/ko) version.
+
 ---
 
 *Last updated: 2026-02-22*
