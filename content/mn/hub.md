@@ -16,6 +16,8 @@ Handong Global University нь **Open Major System** тогтолцоог хэр
 
 Хичээлийн нэг цаг (교시) нь **1 цагийн** урттай. Нэг кредит (학점) = долоо хоногт нэг цагийн хичээл.
 
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 ---
 
 *Сүүлд шинэчилсэн: 2026-02-21*

@@ -16,6 +16,8 @@ Course registration **[sugang.handong.edu](https://sugang.handong.edu)** मा 
 
 प्रत्येक कक्षा अवधि (교시) **१ घण्टा** लामो हुन्छ। एक credit (학점) = प्रति हप्ता एक घण्टा कक्षा।
 
+> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
+
 ---
 
 *अन्तिम अपडेट: 2026-02-21*
