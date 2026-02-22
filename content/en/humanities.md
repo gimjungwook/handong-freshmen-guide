@@ -11,7 +11,7 @@ This guide is for freshmen considering any of the following departments and majo
 
 - **School of Management and Economics**: Business Administration, Economics, Accounting, Marketing
 - **School of International Language and Culture**: International Area Studies, International Relations
-- **School of Law**: Law
+- **School of Law**: Korean Law, US & International Law (UIL — 100% English)
 - **School of Communication Arts**: Media Communication, Performing & Visual Arts
 - **School of Counseling Psychology and Social Welfare**: Counseling Psychology, Social Welfare
 - **Global Leadership School (GLS)**: International Studies
@@ -29,7 +29,7 @@ Not all majors at Handong can be completed entirely in English — and **this is
 - **Global Leadership School (GLS)**
 
 **Majors without enough English-taught courses (Korean proficiency required):**
-- **School of Law**
+- **School of Law** — Korean Law track (but the **UIL (US & International Law) track is 100% English** and fully completable!)
 - **School of Communication Arts** (mostly taught in Korean)
 
 If you're not confident in your Korean yet, it's wise to pick from the recommended majors above. Or consider **Student-Designed Convergence Studies** or **Global Convergence Studies**, which we'll introduce below.
@@ -146,7 +146,7 @@ If you want a global perspective, this is your course. It covers how nations int
 
 #### 🔍 Introduction to Law (LAW10004)
 
-This course teaches you how legal reasoning works. Even if you're not planning to go into the School of Law, understanding "how the rules of society are created and applied" is useful in literally any field. Just keep in mind that most courses in the School of Law are taught in Korean, so if you're not fluent, think carefully before choosing Law as your major.
+This course teaches you how legal reasoning works. Even if you're not planning to go into the School of Law, understanding "how the rules of society are created and applied" is useful in literally any field. Note that the School of Law has two tracks: **Korean Law** (mostly taught in Korean) and **UIL (US & International Law)**, which is **100% in English**. If you're an international student interested in law, UIL is definitely worth a serious look!
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|

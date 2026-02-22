@@ -11,7 +11,7 @@ Panduan ini ditulis untuk mahasiswa baru yang mempertimbangkan departemen dan ju
 
 - **School of Management & Economics**: Business Administration, Economics, Accounting, Marketing
 - **School of International Studies & English**: International Relations, English, Chinese
-- **School of Law**: Law
+- **School of Law**: Hukum Korea, US & International Law (UIL — 100% English)
 - **School of Communication Arts**: Media, Journalism, Content Creation
 - **School of Counseling, Psychology, & Social Welfare**: Counseling Psychology, Social Welfare
 - **School of Global Leadership (GLS)**: International Studies
@@ -29,7 +29,7 @@ Tidak semua jurusan di Handong bisa diselesaikan sepenuhnya dalam Bahasa Inggris
 - **School of Global Leadership (GLS)**
 
 **Jurusan dengan mata kuliah berbahasa Inggris yang tidak memadai (kemampuan Bahasa Korea diperlukan):**
-- **School of Law**
+- **School of Law** — Program Hukum Korea (tapi **UIL (US & International Law) 100% English**!)
 - **School of Communication Arts** (sebagian besar diajarkan dalam Bahasa Korea)
 
 Kalau kamu tidak yakin dengan kemampuan Bahasa Koreamu, bijaksana untuk pilih dari jurusan yang direkomendasikan di atas. Atau, pertimbangkan dengan serius **학생설계융합전공 (Student-Designed Convergence Studies)** yang diperkenalkan di bawah.
@@ -148,7 +148,7 @@ Kalau kamu ingin perspektif global, ini mata kuliah untuk kamu. Mencakup hubunga
 
 #### Introduction to Law (LAW10004)
 
-Mata kuliah ini mengajarkan penalaran hukum. Bahkan kalau kamu tidak mempertimbangkan School of Law, memahami "bagaimana aturan masyarakat dibuat dan diterapkan" berguna di bidang apapun. Tapi perlu diingat bahwa sebagian besar mata kuliah di School of Law diajarkan dalam Bahasa Korea, jadi kalau kamu tidak fasih berbahasa Korea, kamu perlu pikir matang sebelum pilih Hukum sebagai jurusan.
+Mata kuliah ini mengajarkan penalaran hukum. Bahkan kalau kamu tidak mempertimbangkan School of Law, memahami "bagaimana aturan masyarakat dibuat dan diterapkan" berguna di bidang apapun. Tapi ingat: School of Law punya 2 program: **Hukum Korea** (sebagian besar Bahasa Korea) dan **UIL (US & International Law)** (100% English). Untuk mahasiswa internasional, UIL sangat direkomendasikan.
 
 | Section | Professor | Time | English % |
 |---------|-----------|------|-----------|
