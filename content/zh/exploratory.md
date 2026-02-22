@@ -260,6 +260,5 @@ Handong 还提供一个独特的选择叫 **학생설계융합전공（Student-D
 
 *本指南是 [[Spring 2026 Freshman Registration Guide]] 中的详细方向文档。另请参阅：[[Registration Schedule]]*
 *韩语版本：[[탐색형 신입생 가이드]]*
-> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *Last updated: 2026-02-21*

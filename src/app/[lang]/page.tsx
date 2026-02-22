@@ -1,6 +1,7 @@
 import { getPageContent } from "@/lib/markdown";
 import ContentRenderer from "@/components/ContentRenderer";
 import PageNav from "@/components/PageNav";
+import Disclaimer from "@/components/Disclaimer";
 import LandingHeader from "@/components/LandingHeader";
 import HubHero from "@/components/HubHero";
 import { LANGS, type Lang } from "@/lib/constants";
@@ -23,6 +24,7 @@ export default async function HubPage({
       <HubHero lang={lang as Lang} />
       <ContentRenderer html={html} />
       <PageNav lang={lang as Lang} slug="hub" />
+      <Disclaimer lang={lang as Lang} />
     </div>
   );
 }

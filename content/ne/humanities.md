@@ -388,6 +388,5 @@ GPA management महत्त्वपूर्ण छ, तर general educatio
 *यो गाइड [[Spring 2026 Freshman Registration Guide]] को विभाग-विशिष्ट साथी हो।*
 *यो पनि हेर: [[Registration Schedule]] | [[STEM Freshman Guide]] | [[Exploratory Freshman Guide]]*
 *कोरियाली संस्करण: [[인문사회 신입생 가이드]]*
-> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *अन्तिम अपडेट: 2026-02-21*

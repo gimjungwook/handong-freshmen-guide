@@ -141,8 +141,6 @@ For more detailed information, refer to the official course catalog PDFs in the 
 | Academic Operations Guide | [Google Drive](https://drive.google.com/file/d/12mccZDnioxj7hV0bVjIN7HxBZdf3f7x3/view?usp=sharing) |
 | General Education Curriculum (GLS) | [Google Drive](https://drive.google.com/file/d/147bIk6ZXk2bzSDZQfxnAdSMXGOC_ctNw/view?usp=sharing) |
 
-> This guide was written with the help of **Claude Opus 4.6**. This guide is also available in [other languages](/), but translations may contain inaccuracies — when in doubt, refer to this English version or the [한국어](/ko) version.
-
 ---
 
 *Last updated: 2026-02-21*

@@ -256,6 +256,5 @@ STEM тийш хандаж байгаа боловч одоогоор батта
 
 *Энэ гарын авлага нь [[Spring 2026 Freshman Registration Guide]]-ийн дэлгэрэнгүй чиглэлийн баримт бичиг юм. Мөн үзнэ үү: [[Registration Schedule]]*
 *Солонгос хувилбар: [[탐색형 신입생 가이드]]*
-> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *Сүүлд шинэчилсэн: 2026-02-21*

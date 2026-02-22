@@ -361,6 +361,5 @@ Intro to Softwareは2単位のサンプラー科目です。Computer ScienceやA
 *このガイドは[[Spring 2026 Freshman Registration Guide]]のSTEM詳細資料です。*
 *韓国語版については[[이공계 신입생 가이드]]をご覧ください。*
 *参照：[[Registration Schedule]]*
-> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
 
 *最終更新：2026-02-21*

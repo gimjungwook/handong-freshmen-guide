@@ -16,8 +16,6 @@ Hari pertama kuliah semester genap 2026 adalah **2 Maret 2026 (Senin)**.
 
 Setiap jam pelajaran (교시) berlangsung selama **1 jam**. Satu SKS (학점) = satu jam kuliah per minggu.
 
-> ⚠️ This guide was translated by **Claude Opus 4.6**. Translations other than Korean and English may contain inaccuracies. If something seems off, please refer to the [English](/en) or [한국어](/ko) version.
-
 ---
 
 *Last updated: 2026-02-21*
