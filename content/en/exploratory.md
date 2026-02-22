@@ -11,7 +11,7 @@ Not having chosen a major yet? **That's absolutely nothing to be embarrassed abo
 
 Here's something we see every year: many students lock in a major before they even arrive on campus — "Engineering has good job prospects," or "My parents want me to study business." Then sophomore year rolls around and the regret hits: "This wasn't the right path for me." Choosing a major shapes at least the next three years and potentially your whole career. Taking one semester to explore before deciding isn't late at all — it's actually the smartest thing you can do.
 
-Handong also has this unique option called **Student-Designed Convergence Studies** (학생설계융합전공). Offered through the Creative Convergence Education Center, it lets you combine 3 or more fields to design your own custom major. It operates as a second major (33 credits) and requires a GPA of 3.0+. Applications open each semester via HISNet, so keep this path in mind while you're exploring!
+Handong also has this unique option called **Student-Designed Convergence Studies** (학생설계융합전공). This program, operated by the Creative Convergence Education Center, lets you combine 3 or more majors or fields (programs, modules, etc.) to design your own custom major. It operates exclusively as a second major (33 credits), so you must have a separate primary major, and requires a GPA of 3.0+. Applications open each semester via HISNet, so keep this path in mind while you're exploring!
 
 This guide shows you course combinations that let you **sample as many fields as possible while making sure nothing goes to waste, no matter what major you end up choosing.** Pay attention to the first digit of each course code: a 1 means it's an introductory course for first-year students. When you haven't settled on a major yet, taking upper-level courses (codes starting with 3 or 4) is risky — **sticking to intro-level courses is the key strategy.**
 
@@ -56,7 +56,7 @@ Based on our experience helping freshmen, the ideal first semester for an explor
 | Exploration | 1 introductory course (Field A) | Select from the menu below |
 | Foundation | 1 programming course | Intro to Software or Intro to Front-End |
 
-The strategy is simple: place required courses first, then fill remaining slots with exploration courses. And here's one crucial tip: **register for more credits than you think you need and drop during the first week, rather than playing it safe.** You can register for up to 22 credits, so load up on courses that interest you, attend the first week in person, and then adjust during the course correction period (수강정정). Starting with exactly 15 credits and nothing more leaves you zero room to maneuver. Don't box yourself in!
+The strategy is simple: place required courses first, then fill remaining slots with exploration courses. And here's one crucial tip: **register for more credits than you think you need and drop during the first week, rather than playing it safe.** You can register for up to 18 credits, so load up on courses that interest you, attend the first week in person, and then adjust during the course correction period (수강정정). Starting with exactly 15 credits and nothing more leaves you zero room to maneuver. Don't box yourself in!
 
 ---
 
@@ -254,7 +254,7 @@ Depending on what your first-semester exploration reveals, three paths open up:
 
 **If you're still unsure**, that's okay too! Add 1–2 intro courses from fields you haven't tried yet, while also starting foundation courses in whichever field attracted you most during the first semester. For example, if economics was the most interesting, take one more economics foundation course in the second semester while adding an untried arts/design intro course.
 
-**If two fields are pulling you equally**, take advantage of Handong's double major or interdisciplinary major systems — it's totally feasible! For instance, if both computer science and business excite you, you can pursue one as your primary major and the other as a double major. Or you can design a custom converged major through the Student-Designed Convergence Studies program that fuses both fields. Pretty cool options, right?
+**If two fields are pulling you equally**, take advantage of Handong's double major or interdisciplinary major systems — it's totally feasible! For instance, if both computer science and business excite you, you can pursue one as your primary major and the other as a double major. Or you can design a custom converged major as a second major through the Student-Designed Convergence Studies program that fuses 3 or more fields. Pretty cool options, right?
 
 ---
 

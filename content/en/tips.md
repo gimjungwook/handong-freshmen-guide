@@ -38,9 +38,9 @@ This applies to **students with a foreign passport** as well as **Korean nationa
 
 Even great course choices can lead to a miserable semester if your timetable design is bad. These principles will help you build a schedule that's both academically strong and actually livable.
 
-### The Overload Strategy: Register More, Drop Later
+### Register More, Drop Later
 
-You can register for up to **22 credits** (overload). Here's the golden rule: **it's always better to register for more courses and drop after the first week than to register for fewer and try to add later.** Popular courses don't magically have open seats during the adjustment period. If you start light and try to add a competitive course later, you'll almost certainly strike out. Register generously, attend everything in week one, then trim.
+You can register for up to **18 credits**. Here's the golden rule: **it's always better to register for more courses and drop after the first week than to register for fewer and try to add later.** Popular courses don't magically have open seats during the adjustment period. If you start light and try to add a competitive course later, you'll almost certainly strike out. Register generously, attend everything in week one, then trim.
 
 ### Credit Targets
 

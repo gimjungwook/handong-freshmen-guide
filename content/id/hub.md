@@ -9,7 +9,7 @@ Pendaftaran mata kuliah dilakukan di **[sugang.handong.edu](https://sugang.hando
 ### 📅 Struktur Semester Universitas Korea
 
 - **Semester genap (spring)**: Maret ~ Juni (kuliah mulai awal Maret)
-- **Semester ganjil (fall)**: September ~ Desember
+- **Semester ganjil (fall)**: Akhir Agustus ~ Desember (kuliah mulai akhir Agustus)
 - **Libur**: Juli~Agustus dan Januari~Februari
 
 Hari pertama kuliah semester genap 2026 adalah **2 Maret 2026 (Senin)**.

@@ -83,7 +83,7 @@ Registration day is intense — there's no sugarcoating it. But having a clear b
 
 6. **If any course is full, switch to your backup timetable IMMEDIATELY.** Don't waste time refreshing and hoping — that ship has sailed. Move to Plan B.
 
-7. **Final check:** Verify no time conflicts, confirm total credits are in your target range (15.5-22 credits).
+7. **Final check:** Verify no time conflicts, confirm total credits are appropriate (max 18 credits for freshmen).
 
 ---
 

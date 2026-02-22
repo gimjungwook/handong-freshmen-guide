@@ -9,7 +9,7 @@
 
 Panduan ini ditulis untuk mahasiswa baru yang mempertimbangkan departemen dan jurusan berikut:
 
-- **School of Management & Economics**: Business Administration, Economics, Accounting, Marketing
+- **School of Management & Economics**: Business (Finance/Accounting, Marketing concentrations), Economics, Global Management (GM), AI Convergence Business
 - **School of International Studies & English**: International Area Studies, English
 - **School of Law**: Hukum Korea, US & International Law (UIL — 100% English)
 - **School of Communication Arts**: Media, Journalism, Content Creation

@@ -34,9 +34,9 @@ Persyaratan ini berlaku untuk **mahasiswa dengan paspor asing** serta **warga ne
 
 ---
 
-## Strategi Overload: Daftar Lebih Banyak, Drop Kemudian
+## Strategi: Daftar Lebih Banyak, Drop Kemudian
 
-Kamu bisa daftar hingga **22 SKS** (overload). Aturan emasnya: **selalu lebih baik daftar lebih banyak mata kuliah dan drop setelah minggu pertama daripada daftar sedikit dan coba tambah belakangan.** Mata kuliah populer tidak punya kursi kosong saat periode penyesuaian. Kalau kamu mulai dengan sedikit mata kuliah lalu coba tambah yang kompetitif, hampir dipastikan gagal.
+Kamu bisa daftar hingga **18 SKS**. Aturan emasnya: **selalu lebih baik daftar lebih banyak mata kuliah dan drop setelah minggu pertama daripada daftar sedikit dan coba tambah belakangan.** Mata kuliah populer tidak punya kursi kosong saat periode penyesuaian. Kalau kamu mulai dengan sedikit mata kuliah lalu coba tambah yang kompetitif, hampir dipastikan gagal.
 
 ---
 

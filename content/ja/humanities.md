@@ -9,7 +9,7 @@
 
 このガイドは、以下の学部・専攻を検討している新入生を対象としています：
 
-- **School of Management & Economics**：経営学、経済学、会計学、マーケティング
+- **School of Management & Economics**：経営学（財務/会計、マーケティング集中）、経済学、グローバルマネジメント（GM）、AI融合経営
 - **School of International Studies & English**：国際地域学、英語
 - **School of Law**: 韓国法、外国法（UIL — US and International Law、100%英語）
 - **School of Communication Arts**：メディアコミュニケーション、公演映像芸術

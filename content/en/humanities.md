@@ -9,7 +9,7 @@
 
 This guide is for freshmen considering any of the following departments and majors:
 
-- **School of Management and Economics**: Business Administration, Economics, Accounting, Marketing
+- **School of Management and Economics**: Business (Finance/Accounting, Marketing concentrations), Economics, Global Management (GM), AI Convergence Business
 - **School of International Language and Culture**: International Area Studies, English
 - **School of Law**: Korean Law, US & International Law (UIL — 100% English)
 - **School of Communication Arts**: Media Communication, Performing & Visual Arts

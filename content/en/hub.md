@@ -9,7 +9,7 @@ Course registration happens at **[sugang.handong.edu](https://sugang.handong.edu
 ### 📅 Korean University Semester Structure
 
 - **Spring semester**: March ~ June (classes start in early March)
-- **Fall semester**: September ~ December
+- **Fall semester**: Late August ~ December (classes start in late August)
 - **Breaks**: July~August and January~February
 
 Your first day of classes as a Spring 2026 freshman is **March 2, 2026 (Monday)**.

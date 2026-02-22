@@ -11,7 +11,7 @@ Belum pilih jurusan? **Santai aja, itu bukan sesuatu yang memalukan.** Justru, k
 
 Banyak mahasiswa mengunci jurusan sebelum tiba di kampus — "Teknik prospek kerjanya bagus," atau "Orang tua saya ingin saya belajar bisnis." Lalu tahun kedua datang dan penyesalan muncul: "Ini bukan jalur yang tepat buat saya." Memilih jurusan adalah keputusan yang akan membentuk setidaknya tiga tahun ke depan, dan berpotensi seluruh karirmu. Mengambil satu semester untuk eksplorasi sebelum memutuskan bukan terlambat — itu bijaksana.
 
-Handong juga menawarkan opsi unik bernama **학생설계융합전공 (Student-Designed Convergence Studies)**. Alih-alih terikat pada departemen tradisional, 학생설계융합전공 memungkinkan kamu rancang jurusan kustom sendiri dengan menggabungkan berbagai disiplin ilmu. Kalau 학생설계융합전공 menarik minatmu, perlu diingat bahwa kamu harus selesaikan mata kuliah "Vision Work and Calling" terlebih dulu, jadi perhatikan jalur ini selama eksplorasimu.
+Handong juga menawarkan opsi unik bernama **학생설계융합전공 (Student-Designed Convergence Studies)**. Program yang dioperasikan oleh Creative Convergence Education Center (창의융합교육원) ini memungkinkan kamu menggabungkan 3 atau lebih jurusan atau bidang (program, modul, dll.) untuk merancang jurusan kustom sendiri. Program ini hanya beroperasi sebagai jurusan kedua (33 SKS), sehingga kamu harus memiliki jurusan utama terpisah (GPA 3.0+ diperlukan). Perhatikan jalur ini selama eksplorasimu.
 
 Panduan ini mengusulkan kombinasi mata kuliah yang memungkinkan kamu **mencicipi sebanyak mungkin bidang sambil memastikan tidak ada yang terbuang sia-sia, apapun jurusan yang akhirnya kamu pilih.** Perhatikan digit pertama setiap kode mata kuliah: angka 1 berarti mata kuliah pengantar yang dirancang untuk mahasiswa tahun pertama. Ketika belum menentukan jurusan, ambil mata kuliah tingkat atas (kode dimulai dengan 3 atau 4) itu berisiko — **tetap pada mata kuliah level pengantar adalah strategi kunci.**
 
@@ -56,7 +56,7 @@ Berdasarkan diskusi, semester pertama ideal untuk mahasiswa baru eksploratif ter
 | Exploration | 1 introductory course (Field A) | Select from the menu below |
 | Foundation | 1 programming course | Intro to Software or Intro to Front-End |
 
-Strategi dasarnya adalah tempatkan mata kuliah wajib dulu, lalu isi slot yang tersisa dengan mata kuliah eksplorasi. Satu tips penting: **lebih baik daftar SKS lebih banyak dan drop selama minggu pertama daripada daftar secara konservatif.** Kamu bisa daftar hingga 22 SKS, jadi muat mata kuliah yang menarik minatmu, hadiri minggu pertama perkuliahan langsung, lalu sesuaikan selama periode penyesuaian mata kuliah (수강정정). Kalau kamu mulai dengan tepat 15 SKS dan tidak lebih, kamu tidak menyisakan ruang untuk manuver.
+Strategi dasarnya adalah tempatkan mata kuliah wajib dulu, lalu isi slot yang tersisa dengan mata kuliah eksplorasi. Satu tips penting: **lebih baik daftar SKS lebih banyak dan drop selama minggu pertama daripada daftar secara konservatif.** Kamu bisa daftar hingga 18 SKS, jadi muat mata kuliah yang menarik minatmu, hadiri minggu pertama perkuliahan langsung, lalu sesuaikan selama periode penyesuaian mata kuliah (수강정정). Kalau kamu mulai dengan tepat 15 SKS dan tidak lebih, kamu tidak menyisakan ruang untuk manuver.
 
 ---
 
@@ -254,7 +254,7 @@ Tergantung hasil eksplorasi semester pertamamu, tiga jalur terbuka.
 
 **Kalau kamu masih belum yakin**, tambahkan 1-2 mata kuliah pengantar dari bidang yang belum kamu coba, sambil sekaligus mulai mata kuliah fondasi di bidang manapun yang paling menarikmu selama semester pertama. Misalnya, kalau ekonomi paling menarik, ambil satu lagi mata kuliah fondasi ekonomi di semester kedua sambil tambah mata kuliah pengantar seni/desain yang belum dicoba.
 
-**Kalau dua bidang menarikmu secara setara**, manfaatkan sistem double major atau jurusan interdisipliner Handong. Ini sangat dimungkinkan. Misalnya, kalau ilmu komputer dan bisnis sama-sama menarik, kamu bisa kejar satu sebagai jurusan utama dan yang lainnya sebagai double major. Kamu juga bisa rancang jurusan konvergensi kustom melalui GCS yang menggabungkan kedua bidang.
+**Kalau dua bidang menarikmu secara setara**, manfaatkan sistem double major atau jurusan interdisipliner Handong. Ini sangat dimungkinkan. Misalnya, kalau ilmu komputer dan bisnis sama-sama menarik, kamu bisa kejar satu sebagai jurusan utama dan yang lainnya sebagai double major. Kamu juga bisa merancang jurusan konvergensi kustom sebagai jurusan kedua melalui 학생설계융합전공 yang menggabungkan 3 atau lebih bidang.
 
 ---
 
