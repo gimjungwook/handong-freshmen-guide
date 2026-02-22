@@ -76,7 +76,7 @@ Handongには**学生設計融合専攻（Student-Designed Convergence Studies /
 
 AI、コンピュータサイエンス、電子工学の3分野を1科目で味見できる入門科目です。各分野がどんな問題に取り組み、実務者が実際に何をしているかの概観を提供します。深さより広さに重点を置いているため、「工学が何なのかよくわからない」と思っている学生に特に適しています。
 
-**Introduction to Front-End Development (GCS10081)** — 3単位、6セクション開講
+**Introduction to Front-End Development (GCS10081)** — 2単位、6セクション開講
 
 実際のウェブサイトを作る実践的な科目です。HTML、CSS、JavaScriptを学んで、目に見える成果物をすぐに出せる — それがこの科目の魅力です。Introduction to Softwareが論理的思考に焦点を当てるのに対し、Introduction to Front-Endは**ものを作る喜び**に焦点を当てます。デザインに興味があるなら、テクノロジーとデザインの交差点を体験できる科目です。
 

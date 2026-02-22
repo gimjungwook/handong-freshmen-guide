@@ -146,7 +146,7 @@ flowchart LR
 | Course | Code | Credits | Section | Professor | Time | English % |
 |--------|------|---------|---------|-----------|------|-----------|
 | **Python Programming** | GCS10004 | 3 | **05** | 박지현 | Mon 5, Thu 5 | **100%** |
-| **Frontend Introduction** | GCS10081 | 3 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
+| **Frontend Introduction** | GCS10081 | 2 | **04** | 박지현 | Tue 6, Fri 6 | **100%** |
 
 **Полезная информация:** OIA (Office of International Admissions) иногда резервирует места на курсах программирования специально для иностранных первокурсников. Если ты иностранный студент, уточни это в OIA — может избавить от борьбы за место в день регистрации.
 

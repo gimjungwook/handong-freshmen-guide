@@ -37,7 +37,7 @@ And here's the thing — it's incredibly common for students to discover unexpec
 
 These are two courses that'll serve you well regardless of what major you ultimately choose.
 
-**First: programming.** Whether it's Introduction to Software or Introduction to Front-End Development, coding experience is now essential across every discipline. Even if you major in business, you'll need programming for data analysis. Even in psychology, you'll need to read code to process experimental data. It's everywhere.
+**First: programming.** Whether it's Introduction to Software or Python Programming, coding experience is now essential across every discipline. Even if you major in business, you'll need programming for data analysis. Even in psychology, you'll need to read code to process experimental data. It's everywhere.
 
 **Second: a quantitative foundation.** If you're leaning toward STEM, take Calculus 1. If you're leaning toward humanities or social sciences, take Introduction to Statistics. If you genuinely have no idea? Statistics is the more versatile choice — it's used in business, psychology, social science, and natural science alike.
 
