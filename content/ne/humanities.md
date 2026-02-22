@@ -10,7 +10,7 @@
 यो गाइड निम्न विभाग र major हरू विचार गर्दै गरेका नयाँ विद्यार्थीहरूको लागि लेखिएको हो:
 
 - **School of Management & Economics**: Business Administration, Economics, Accounting, Marketing
-- **School of International Studies & English (국제어문학부)**: International Area Studies, International Relations
+- **School of International Studies & English (국제어문학부)**: International Area Studies, English
 - **School of Law**: Korean Law, US & International Law (UIL — 100% English)
 - **School of Communication Arts (커뮤니케이션학부)**: Media Communication, Performing & Visual Arts
 - **School of Counseling, Psychology, & Social Welfare (상담심리사회복지학부)**: Counseling Psychology, Social Welfare
