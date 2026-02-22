@@ -9,10 +9,10 @@
 
 यो गाइड निम्न major हरू विचार गर्दै गरेका **2026 बैचका नयाँ विद्यार्थीहरू** को लागि लेखिएको हो:
 
-- **AI Computer & Electronic Engineering विभाग (CSEE)**: Computer Engineering, Electronic Engineering, AI, Software, Embedded Systems
-- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering, Energy Engineering
+- **AI Computer & Electronic Engineering विभाग (CSEE)**: Computer Engineering, Electronic Engineering, IT
+- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering
 - **Spatial Environment & Systems Engineering**: Construction Engineering, Urban & Environmental Engineering
-- **Life Sciences**: Life Science, Food Science
+- **Life Sciences**: Life Science
 
 "मेरो ठ्याक्कै major निश्चित छैन, तर म STEM व्यक्ति हुँ भन्ने थाहा छ" भन्ने सोच्दै छौ भने पनि — यो गाइड तिम्रो लागि हो। अलिकति लामो छ, तर एकचोटि राम्रोसँग पढ — पक्कै काम लाग्छ! Handong मा, पहिलो वर्षमा major घोषणा गरिँदैन। यसको मतलब मुख्य रणनीति भनेको **तिमीले अन्ततः कुनै पनि STEM major रोजे पनि काम लाग्ने आधारभूत कोर्सहरूले पहिलो वर्ष भर्नु** हो।
 

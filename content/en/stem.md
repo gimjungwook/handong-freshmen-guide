@@ -9,10 +9,10 @@
 
 This guide is for **Class of 2026 freshmen** who are considering any of these majors:
 
-- **School of AI Computer & Electronic Engineering (CSEE)**: Computer Engineering, Electronic Engineering, AI, Software, Embedded Systems
-- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering, Energy Engineering
+- **School of AI Computer & Electronic Engineering (CSEE)**: Computer Engineering, Electronic Engineering, IT
+- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering
 - **Spatial Environment & Systems Engineering**: Construction Engineering, Urban & Environmental Engineering
-- **Life Sciences**: Life Science, Food Science
+- **Life Sciences**: Life Science
 
 Even if you're thinking "I'm not sure about my exact major, but I know I'm a STEM person" — this guide is absolutely for you. At Handong, you don't declare your major in your first year, so the core strategy is to **fill your first year with foundational courses that'll serve you no matter which STEM major you eventually choose.**
 

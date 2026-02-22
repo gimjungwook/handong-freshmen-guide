@@ -9,10 +9,10 @@
 
 このガイドは、以下の専攻を検討している**2026年度入学の新入生**を対象としています：
 
-- **AI Computer & Electronic Engineering学部（CSEE）**：コンピュータ工学、電子工学、AI、ソフトウェア、組込みシステム
-- **Mechanical & Control Engineering**：機械工学、電子制御工学、エネルギー工学
+- **AI Computer & Electronic Engineering学部（CSEE）**：コンピュータ工学、電子工学、IT
+- **Mechanical & Control Engineering**：機械工学、電子制御工学
 - **Spatial Environment & Systems Engineering**：建設工学、都市環境工学
-- **Life Sciences**：生命科学、食品科学
+- **Life Sciences**：生命科学
 
 「専攻はまだはっきり決まっていないけど、STEM系だと思う」という方にも、このガイドは役立ちますよ。Handongでは1年目に専攻を宣言しません。つまり、核心的な戦略は**最終的にどのSTEM専攻を選んでも役に立つ基礎科目で1年目を固める**ことです。
 

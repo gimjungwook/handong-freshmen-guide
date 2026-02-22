@@ -9,10 +9,10 @@
 
 Panduan ini ditulis untuk **mahasiswa baru Angkatan 2026** yang mempertimbangkan jurusan-jurusan berikut:
 
-- **School of AI Computer & Electronic Engineering (CSEE)**: Computer Engineering, Electronic Engineering, AI, Software, Embedded Systems
-- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering, Energy Engineering
+- **School of AI Computer & Electronic Engineering (CSEE)**: Computer Engineering, Electronic Engineering, IT
+- **Mechanical & Control Engineering**: Mechanical Engineering, Electronic Control Engineering
 - **Spatial Environment & Systems Engineering**: Construction Engineering, Urban & Environmental Engineering
-- **Life Sciences**: Life Science, Food Science
+- **Life Sciences**: Life Science
 
 Bahkan kalau kamu berpikir "Saya belum yakin jurusan pastinya, tapi tahu saya orang STEM" — tenang, panduan ini memang untuk kamu. Di Handong, kamu tidak mendeklarasikan jurusan di tahun pertama. Artinya strategi intinya adalah **mengisi tahun pertama dengan mata kuliah dasar yang akan berguna apapun jurusan STEM yang akhirnya kamu pilih.**
 
