@@ -9,9 +9,9 @@
 
 यो गाइड निम्न विभाग र major हरू विचार गर्दै गरेका नयाँ विद्यार्थीहरूको लागि लेखिएको हो:
 
-- **School of Management & Economics**: Business (Finance/Accounting, Marketing concentrations), Economics, Global Management (GM), AI Convergence Business
+- **School of Management & Economics**: Business (45-credit: Finance/Accounting & Marketing concentrations / 33-credit), Economics (45-credit / 33-credit), Global Management (GM, 33-credit), AI Convergence Major
 - **School of International Studies & English (국제어문학부)**: International Area Studies, English
-- **School of Law**: Korean Law, US & International Law (UIL — 100% English)
+- **School of Law**: Korean Law, UIL (US & International Law, 100% English)
 - **School of Communication Arts (커뮤니케이션학부)**: Media Communication, Performing & Visual Arts
 - **School of Counseling, Psychology, & Social Welfare (상담심리사회복지학부)**: Counseling Psychology, Social Welfare
 - **School of Global Leadership (GLS)**: International Studies

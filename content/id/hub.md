@@ -1,6 +1,6 @@
 ## 🏫 Open Major System dan Pendaftaran Mata Kuliah
 
-Handong Global University menerapkan **Open Major System** (자유전공제). Kamu tidak memilih jurusan saat masuk — selama tahun pertama kamu mengeksplorasi berbagai bidang, lalu memilih jurusan secara resmi di **semester ketiga** (tahun kedua).
+Handong Global University menerapkan **Open Major System** (자유전공제). Kamu tidak memilih jurusan saat masuk — selama tahun pertama kamu mengeksplorasi berbagai bidang, lalu memilih school (학부) secara resmi di **semester ketiga** (tahun kedua).
 
 Pendaftaran mata kuliah dilakukan di **[sugang.handong.edu](https://sugang.handong.edu)** — bukan di HISNet. Kamu login dengan ID dan password HISNet, tapi situsnya berbeda. Pastikan kamu sudah **coba login sebelum** hari pendaftaran.
 

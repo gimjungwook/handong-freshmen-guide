@@ -9,9 +9,9 @@
 
 Panduan ini ditulis untuk mahasiswa baru yang mempertimbangkan departemen dan jurusan berikut:
 
-- **School of Management & Economics**: Business (Finance/Accounting, Marketing concentrations), Economics, Global Management (GM), AI Convergence Business
+- **School of Management & Economics**: Business (45-credit: Finance/Accounting & Marketing concentrations / 33-credit), Economics (45-credit / 33-credit), Global Management (GM, 33-credit), AI Convergence Major
 - **School of International Studies & English**: International Area Studies, English
-- **School of Law**: Hukum Korea, US & International Law (UIL — 100% English)
+- **School of Law**: Hukum Korea, UIL (US & International Law, 100% English)
 - **School of Communication Arts**: Media, Journalism, Content Creation
 - **School of Counseling, Psychology, & Social Welfare**: Counseling Psychology, Social Welfare
 - **School of Global Leadership (GLS)**: International Studies

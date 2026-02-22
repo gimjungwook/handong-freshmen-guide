@@ -1,6 +1,6 @@
 ## 🏫 Open Major System 与选课注册
 
-Handong Global University 实行 **Open Major System**（自由专业制度）。入学时不需要选定专业——大一期间广泛探索各个领域，到**第三学期**（大二上学期）再正式选择专业。
+Handong Global University 实行 **Open Major System**（自由专业制度）。入学时不需要选定专业——大一期间广泛探索各个领域，到**第三学期**（大二上学期）再正式选择学部。
 
 选课注册在 **[sugang.handong.edu](https://sugang.handong.edu)** 进行——**不是** HISNet。你用 HISNet 的账号和密码登录，但网站本身是不同的。请在选课日**之前**提前访问该网站，测试能否正常登录。
 

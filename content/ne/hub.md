@@ -1,6 +1,6 @@
 ## 🏫 Open Major System र Course Registration
 
-Handong Global University मा **Open Major System** लागू छ। भर्ना हुँदा major छान्नु पर्दैन — पहिलो वर्षमा विभिन्न क्षेत्रहरू अन्वेषण गरेर **तेस्रो semester** (दोस्रो वर्ष) मा major छनोट गर्छौ।
+Handong Global University मा **Open Major System** लागू छ। भर्ना हुँदा major छान्नु पर्दैन — पहिलो वर्षमा विभिन्न क्षेत्रहरू अन्वेषण गरेर **तेस्रो semester** (दोस्रो वर्ष) मा school (학부) छनोट गर्छौ।
 
 Course registration **[sugang.handong.edu](https://sugang.handong.edu)** मा हुन्छ — HISNet मा होइन। HISNet को ID र पासवर्डले लग इन गर्छौ, तर वेबसाइट फरक छ। दर्ता दिनभन्दा **अगाडि नै** साइटमा गएर लग इन **परीक्षण** गर।
 

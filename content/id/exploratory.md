@@ -11,7 +11,7 @@ Belum pilih jurusan? **Santai aja, itu bukan sesuatu yang memalukan.** Justru, k
 
 Banyak mahasiswa mengunci jurusan sebelum tiba di kampus — "Teknik prospek kerjanya bagus," atau "Orang tua saya ingin saya belajar bisnis." Lalu tahun kedua datang dan penyesalan muncul: "Ini bukan jalur yang tepat buat saya." Memilih jurusan adalah keputusan yang akan membentuk setidaknya tiga tahun ke depan, dan berpotensi seluruh karirmu. Mengambil satu semester untuk eksplorasi sebelum memutuskan bukan terlambat — itu bijaksana.
 
-Handong juga menawarkan opsi unik bernama **학생설계융합전공 (Student-Designed Convergence Studies)**. Program yang dioperasikan oleh Creative Convergence Education Center (창의융합교육원) ini memungkinkan kamu menggabungkan 3 atau lebih jurusan atau bidang (program, modul, dll.) untuk merancang jurusan kustom sendiri. Program ini hanya beroperasi sebagai jurusan kedua (33 SKS), sehingga kamu harus memiliki jurusan utama terpisah (GPA 3.0+ diperlukan). Perhatikan jalur ini selama eksplorasimu.
+Handong juga menawarkan opsi unik bernama **학생설계융합전공 (Student-Designed Convergence Studies)**. Program yang dioperasikan oleh Creative Convergence Education Center (창의융합교육원) ini memungkinkan kamu menggabungkan 3 atau lebih jurusan atau bidang (program, modul, dll.), dengan minimal 2 di antaranya harus jurusan penuh, untuk merancang jurusan kustom sendiri. Program ini hanya beroperasi sebagai jurusan kedua (33 SKS), sehingga kamu harus memiliki jurusan utama terpisah (GPA 3.0+ diperlukan). Perhatikan jalur ini selama eksplorasimu.
 
 Panduan ini mengusulkan kombinasi mata kuliah yang memungkinkan kamu **mencicipi sebanyak mungkin bidang sambil memastikan tidak ada yang terbuang sia-sia, apapun jurusan yang akhirnya kamu pilih.** Perhatikan digit pertama setiap kode mata kuliah: angka 1 berarti mata kuliah pengantar yang dirancang untuk mahasiswa tahun pertama. Ketika belum menentukan jurusan, ambil mata kuliah tingkat atas (kode dimulai dengan 3 atau 4) itu berisiko — **tetap pada mata kuliah level pengantar adalah strategi kunci.**
 
@@ -62,7 +62,7 @@ Strategi dasarnya adalah tempatkan mata kuliah wajib dulu, lalu isi slot yang te
 
 ## 3. Menu Mencicipi Per Bidang
 
-Pilih **3 bidang yang menarik perhatianmu** dari opsi di bawah. Setiap mata kuliah yang terdaftar berdasarkan data mata kuliah aktual Spring 2026, dan semuanya level pengantar (digit pertama kode mata kuliah = 1). Kecuali kamu sudah yakin dengan jurusan tertentu, hindari mata kuliah lanjutan.
+Pilih **3 bidang yang menarik perhatianmu** dari opsi di bawah. Setiap mata kuliah yang terdaftar berdasarkan data mata kuliah aktual Spring 2026, dan semuanya level pengantar (digit pertama kode mata kuliah = 1). Satu-satunya pengecualian adalah Introduction to Education (GEK20042), yang memiliki kode mata kuliah tahun ke-2 tetapi bisa diambil tanpa prasyarat. Kecuali kamu sudah yakin dengan jurusan tertentu, hindari mata kuliah lanjutan.
 
 ### Pencicipan Teknik & Teknologi
 

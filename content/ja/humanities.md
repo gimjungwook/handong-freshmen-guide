@@ -9,9 +9,9 @@
 
 このガイドは、以下の学部・専攻を検討している新入生を対象としています：
 
-- **School of Management & Economics**：経営学（財務/会計、マーケティング集中）、経済学、グローバルマネジメント（GM）、AI融合経営
+- **School of Management & Economics**：経営学（45単位専攻：財務/会計・マーケティング集中 / 33単位専攻）、経済学（45単位専攻 / 33単位専攻）、グローバルマネジメント（GM、33単位専攻）、AI融合専攻
 - **School of International Studies & English**：国際地域学、英語
-- **School of Law**: 韓国法、外国法（UIL — US and International Law、100%英語）
+- **School of Law**: 韓国法、UIL（US & International Law、100%英語）
 - **School of Communication Arts**：メディアコミュニケーション、公演映像芸術
 - **School of Counseling, Psychology, & Social Welfare**：カウンセリング心理、社会福祉
 - **School of Global Leadership (GLS)**：国際学

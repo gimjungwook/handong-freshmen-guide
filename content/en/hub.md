@@ -1,6 +1,6 @@
 ## 🏫 The Open Major System & Course Registration
 
-Handong Global University runs an **Open Major System** (자유전공제). You don't choose your major when you enter — instead, you spend your first year exploring different fields, then officially declare your major in your **3rd semester (sophomore spring)**. That means the courses you take as a freshman directly determine which majors you can enter later. Choose wisely!
+Handong Global University runs an **Open Major System** (자유전공제). You don't choose your major when you enter — instead, you spend your first year exploring different fields, then officially choose your school (학부) in your **3rd semester (sophomore spring)**. That means the courses you take as a freshman directly determine which schools you can enter later. Choose wisely!
 
 Course registration happens at **[sugang.handong.edu](https://sugang.handong.edu)** — NOT at HISNet. You'll log in with your HISNet ID and password, but the website itself is different. **Visit the site and test your login before registration day.** If you forget your password on the day of registration, it's game over.
 

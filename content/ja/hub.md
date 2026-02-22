@@ -1,6 +1,6 @@
 ## 🏫 Open Major System と履修登録
 
-Handong Global University では **Open Major System**（自由専攻制）を採用しています。入学時に専攻を決める必要はなく、1年目にさまざまな分野を探究してから、**3学期目**（2年次）に正式に専攻を選びます。
+Handong Global University では **Open Major System**（自由専攻制）を採用しています。入学時に専攻を決める必要はなく、1年目にさまざまな分野を探究してから、**3学期目**（2年次）に正式に学部を選びます。
 
 履修登録は **[sugang.handong.edu](https://sugang.handong.edu)** で行います。HISNet ではありません。ログインには HISNet の ID とパスワードを使いますが、サイト自体は別物です。登録日**前に**必ずアクセスしてログインテストをしておいてください。
 

@@ -1,10 +1,22 @@
+import type { Metadata } from "next";
 import { getPageContent } from "@/lib/markdown";
 import ContentRenderer from "@/components/ContentRenderer";
 import PageNav from "@/components/PageNav";
 import Disclaimer from "@/components/Disclaimer";
 import LandingHeader from "@/components/LandingHeader";
 import HubHero from "@/components/HubHero";
-import { LANGS, type Lang } from "@/lib/constants";
+import { LANGS, NAV_ITEMS, type Lang } from "@/lib/constants";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}): Promise<Metadata> {
+  const { lang } = await params;
+  const navItem = NAV_ITEMS[lang as Lang]?.find((item) => item.slug === "hub");
+  const title = navItem ? `${navItem.icon} ${navItem.label}` : "Guide";
+  return { title };
+}
 
 export function generateStaticParams() {
   return LANGS.map((lang) => ({ lang }));

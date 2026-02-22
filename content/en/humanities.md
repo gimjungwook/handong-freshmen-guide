@@ -9,9 +9,9 @@
 
 This guide is for freshmen considering any of the following departments and majors:
 
-- **School of Management and Economics**: Business (Finance/Accounting, Marketing concentrations), Economics, Global Management (GM), AI Convergence Business
+- **School of Management and Economics**: Business (45-credit: Finance/Accounting & Marketing concentrations / 33-credit), Economics (45-credit / 33-credit), Global Management (GM, 33-credit), AI Convergence Major
 - **School of International Language and Culture**: International Area Studies, English
-- **School of Law**: Korean Law, US & International Law (UIL — 100% English)
+- **School of Law**: Korean Law, UIL (US & International Law, 100% English)
 - **School of Communication Arts**: Media Communication, Performing & Visual Arts
 - **School of Counseling Psychology and Social Welfare**: Counseling Psychology, Social Welfare
 - **Global Leadership School (GLS)**: International Studies

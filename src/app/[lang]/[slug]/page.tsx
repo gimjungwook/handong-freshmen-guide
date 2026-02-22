@@ -1,8 +1,20 @@
+import type { Metadata } from "next";
 import { getPageContent } from "@/lib/markdown";
 import ContentRenderer from "@/components/ContentRenderer";
 import PageNav from "@/components/PageNav";
 import Disclaimer from "@/components/Disclaimer";
-import { LANGS, SLUGS, type Lang, type Slug } from "@/lib/constants";
+import { LANGS, SLUGS, NAV_ITEMS, type Lang, type Slug } from "@/lib/constants";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lang: string; slug: string }>;
+}): Promise<Metadata> {
+  const { lang, slug } = await params;
+  const navItem = NAV_ITEMS[lang as Lang]?.find((item) => item.slug === slug);
+  const title = navItem ? `${navItem.icon} ${navItem.label}` : slug;
+  return { title };
+}
 
 export function generateStaticParams() {
   const params: { lang: string; slug: string }[] = [];
