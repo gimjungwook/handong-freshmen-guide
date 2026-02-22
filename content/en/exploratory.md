@@ -56,7 +56,7 @@ Based on our experience helping freshmen, the ideal first semester for an explor
 | Exploration | 1 introductory course (Field A) | Select from the menu below |
 | Foundation | 1 programming course | Intro to Software or Intro to Front-End |
 
-The strategy is simple: place required courses first, then fill remaining slots with exploration courses. And here's one crucial tip: **register for more credits than you think you need and drop during the first week, rather than playing it safe.** You can register for up to 18 credits, so load up on courses that interest you, attend the first week in person, and then adjust during the course correction period (수강정정). Starting with exactly 15 credits and nothing more leaves you zero room to maneuver. Don't box yourself in!
+The strategy is simple: place required courses first, then fill remaining slots with exploration courses. And here's one crucial tip: **register for more credits than you think you need and drop during the first week, rather than playing it safe.** You can register for up to 22 credits, so load up on courses that interest you, attend the first week in person, and then adjust during the course correction period (수강정정). Starting with exactly 15 credits and nothing more leaves you zero room to maneuver. Don't box yourself in!
 
 ---
 

@@ -73,6 +73,8 @@ Ini mata kuliah yang paling banyak ditawarkan — ada 15 kelas — sehingga pali
 
 ### Understanding Christianity (GEK20059)
 
+Understanding Christianity (GEK20059), Christianity and Comparative Religion (GEK20065), dan Christianity and Postmodernism (GEK20060) — kamu hanya perlu mengambil **satu dari ketiganya**. Ketiga mata kuliah ini dianggap setara (perlakuan mata kuliah yang sama), jadi cukup selesaikan salah satu. **Di Semester Genap 2026, hanya Understanding Christianity yang dibuka**, jadi tidak ada pilihan lain.
+
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
 | **01** | **Gregory T. Brown** | **Mon 2, Thu 2** | **100%** | **English** |

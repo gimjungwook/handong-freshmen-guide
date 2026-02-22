@@ -73,6 +73,8 @@ This is the most widely offered course with 15 sections available, which makes i
 
 ### 📖 Understanding Christianity (GEK20059)
 
+Understanding Christianity (GEK20059), Christianity and Comparative Religion (GEK20065), and Christianity and Postmodernism (GEK20060) — you only need to take **one of the three**. These three courses are treated as equivalent (same-course designation), so completing any one of them fulfills the requirement. **In Spring 2026, only Understanding Christianity is offered**, so there's no choice to make.
+
 | Section | Professor | Time | English % | Note |
 |---------|-----------|------|-----------|------|
 | **01** | **Gregory T. Brown** | **Mon 2, Thu 2** | **100%** | **English** |

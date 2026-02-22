@@ -50,7 +50,7 @@ Pendaftaran utama benar-benar merupakan **perebutan kursi terbatas**. Mata kulia
 |------|-------|---------|
 | **2/27 (Jum) 14:00 – 3/4 (Rab) 14:00** | **Periode Penyesuaian Mata Kuliah 1** | Dimulai tepat setelah pendaftaran utama. Kalau mata kuliah yang kamu mau tersedia atau kamu memutuskan untuk ubah jadwal setelah hadiri kelas, kamu bisa modifikasi pendaftaran selama periode ini. |
 | **3/2 (Sen)** | **Perkuliahan Dimulai** | Hari pertama kuliahmu. Saran: untuk semester pertama sebagai masa adaptasi, bijaksana untuk hindari kelas jam 8:00 pagi kalau memungkinkan. |
-| **3/6 (Jum) 10:00 – 3/12 (Kam) 21:00** | **Periode Penyesuaian Mata Kuliah 2** | Ini adalah **kesempatan terakhir kamu untuk ubah jadwal**. **Setelah periode ini berakhir, jadwalmu terkunci untuk seluruh semester.** Buat keputusan final dengan hati-hati. |
+| **3/6 (Jum) 10:00 – 3/12 (Kam) 23:00** | **Periode Penyesuaian Mata Kuliah 2** | Ini adalah **kesempatan terakhir kamu untuk ubah jadwal**. **Setelah periode ini berakhir, jadwalmu terkunci untuk seluruh semester.** Buat keputusan final dengan hati-hati. |
 | **3/13 (Jum) – 3/15 (Min)** | **Pembatalan Mata Kuliah via HISNet** | Semua pendaftaran mata kuliah resmi difinalisasi. Tidak ada perubahan yang bisa dilakukan setelah periode ini. |
 
 ## Mei–Juli: Ujian dan Nilai

@@ -56,7 +56,7 @@ Berdasarkan diskusi, semester pertama ideal untuk mahasiswa baru eksploratif ter
 | Exploration | 1 introductory course (Field A) | Select from the menu below |
 | Foundation | 1 programming course | Intro to Software or Intro to Front-End |
 
-Strategi dasarnya adalah tempatkan mata kuliah wajib dulu, lalu isi slot yang tersisa dengan mata kuliah eksplorasi. Satu tips penting: **lebih baik daftar SKS lebih banyak dan drop selama minggu pertama daripada daftar secara konservatif.** Kamu bisa daftar hingga 18 SKS, jadi muat mata kuliah yang menarik minatmu, hadiri minggu pertama perkuliahan langsung, lalu sesuaikan selama periode penyesuaian mata kuliah (수강정정). Kalau kamu mulai dengan tepat 15 SKS dan tidak lebih, kamu tidak menyisakan ruang untuk manuver.
+Strategi dasarnya adalah tempatkan mata kuliah wajib dulu, lalu isi slot yang tersisa dengan mata kuliah eksplorasi. Satu tips penting: **lebih baik daftar SKS lebih banyak dan drop selama minggu pertama daripada daftar secara konservatif.** Kamu bisa daftar hingga 22 SKS, jadi muat mata kuliah yang menarik minatmu, hadiri minggu pertama perkuliahan langsung, lalu sesuaikan selama periode penyesuaian mata kuliah (수강정정). Kalau kamu mulai dengan tepat 15 SKS dan tidak lebih, kamu tidak menyisakan ruang untuk manuver.
 
 ---
 

@@ -23,7 +23,7 @@ If you score well on the EPT, you can skip lower levels. You may also be exempt 
 
 ## 🇰🇷 Korean Language Requirement
 
-This applies to **students with a foreign passport** as well as **Korean nationals who've lived abroad for a long time** and might struggle with Korean-medium courses. You'll need to complete the Practical Korean course sequence. During orientation, you'll take a Korean language placement test that determines your starting level.
+This applies to **international students** as well as **students admitted through overseas admission tracks** (e.g., 재외국민, Global Talent, missionary children) who might struggle with Korean-medium courses. Eligibility is determined by your admission track, not simply by passport or residence history. You'll need to complete the Practical Korean course sequence. During orientation, you'll take a Korean language placement test that determines your starting level.
 
 **Here's a really important tip:** Don't guess on the placement test trying to place into a higher level. Here's why this backfires:
 
@@ -40,7 +40,7 @@ Even great course choices can lead to a miserable semester if your timetable des
 
 ### Register More, Drop Later
 
-You can register for up to **18 credits**. Here's the golden rule: **it's always better to register for more courses and drop after the first week than to register for fewer and try to add later.** Popular courses don't magically have open seats during the adjustment period. If you start light and try to add a competitive course later, you'll almost certainly strike out. Register generously, attend everything in week one, then trim.
+You can register for up to **22 credits**. Here's the golden rule: **it's always better to register for more courses and drop after the first week than to register for fewer and try to add later.** Popular courses don't magically have open seats during the adjustment period. If you start light and try to add a competitive course later, you'll almost certainly strike out. Register generously, attend everything in week one, then trim.
 
 ### Credit Targets
 

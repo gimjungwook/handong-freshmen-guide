@@ -23,7 +23,7 @@ Kalau kamu lulus EPT di level yang lebih tinggi, kamu bisa skip level yang lebih
 
 ## Persyaratan Bahasa Korea
 
-Persyaratan ini berlaku untuk **mahasiswa dengan paspor asing** serta **warga negara Korea yang lama tinggal di luar negeri** dan mungkin kesulitan mengikuti kuliah berbahasa Korea. Kamu harus menyelesaikan urutan kursus Practical Korean. Saat orientasi, kamu akan mengikuti tes penempatan Bahasa Korea yang menentukan level awalmu.
+Persyaratan ini berlaku untuk **mahasiswa internasional** serta **mahasiswa yang diterima melalui jalur penerimaan luar negeri** (misalnya 재외국민, Global Talent, anak misionaris) yang mungkin kesulitan mengikuti kuliah berbahasa Korea. Kelayakan ditentukan oleh jalur penerimaan, bukan sekadar paspor atau riwayat tempat tinggal. Kamu harus menyelesaikan urutan kursus Practical Korean. Saat orientasi, kamu akan mengikuti tes penempatan Bahasa Korea yang menentukan level awalmu.
 
 **Tips yang sangat penting:** JANGAN menebak-nebak saat tes penempatan untuk coba masuk ke level yang lebih tinggi. Alasannya:
 
@@ -36,7 +36,7 @@ Persyaratan ini berlaku untuk **mahasiswa dengan paspor asing** serta **warga ne
 
 ## Strategi: Daftar Lebih Banyak, Drop Kemudian
 
-Kamu bisa daftar hingga **18 SKS**. Aturan emasnya: **selalu lebih baik daftar lebih banyak mata kuliah dan drop setelah minggu pertama daripada daftar sedikit dan coba tambah belakangan.** Mata kuliah populer tidak punya kursi kosong saat periode penyesuaian. Kalau kamu mulai dengan sedikit mata kuliah lalu coba tambah yang kompetitif, hampir dipastikan gagal.
+Kamu bisa daftar hingga **22 SKS**. Aturan emasnya: **selalu lebih baik daftar lebih banyak mata kuliah dan drop setelah minggu pertama daripada daftar sedikit dan coba tambah belakangan.** Mata kuliah populer tidak punya kursi kosong saat periode penyesuaian. Kalau kamu mulai dengan sedikit mata kuliah lalu coba tambah yang kompetitif, hampir dipastikan gagal.
 
 ---
 
